@@ -583,19 +583,19 @@ Real AI features **embedded thoughtfully** — not sprinkled on top.
 <tr>
 <td align="center" width="33%">
 
-### 🇩🇿 **Arabic**
+### **Arabic**
 Native
 
 </td>
 <td align="center" width="33%">
 
-### 🇫🇷 **French**
+### **French**
 Fluent
 
 </td>
 <td align="center" width="33%">
 
-### 🇬🇧 **English**
+### **English**
 Fluent
 
 </td>
