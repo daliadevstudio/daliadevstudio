@@ -303,7 +303,7 @@ Eliminating busywork. Streamlining workflows across **tools, teams, and pipeline
 <br>
 
 <!-- GitHub Achievements Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=VOTRE-PSEUDO-GITHUB&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=daliadevstudio&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
 
 </div>
 
@@ -658,27 +658,25 @@ Fluent
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                                       -->
+<!--                    GITHUB STATS                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/CwQ3byHM4jLjy/giphy.gif" width="30"> GitHub Analytics
 
-> *Replace `VOTRE-PSEUDO-GITHUB` with your username below.*
-
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VOTRE-PSEUDO-GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&icon_color=A855F7&text_color=581C87&border_radius=16&custom_title=Dalia's%20GitHub%20Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-PSEUDO-GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&text_color=581C87&border_radius=16&custom_title=Most%20Used%20Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&show_icons=true&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&icon_color=A855F7&text_color=581C87&border_radius=16&custom_title=Dalia's%20GitHub%20Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio&layout=compact&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&text_color=581C87&border_radius=16&custom_title=Most%20Used%20Languages" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE-PSEUDO-GITHUB&theme=radical&hide_border=true&background=FAF5FF&stroke=A855F7&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=581C87&currStreakNum=581C87&sideNums=581C87&border_radius=16" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daliadevstudio&theme=radical&hide_border=true&background=FAF5FF&stroke=A855F7&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=581C87&currStreakNum=581C87&sideNums=581C87&border_radius=16" width="80%" />
 
 <br><br>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE-PSEUDO-GITHUB&theme=react&bg_color=FAF5FF&color=7C3AED&line=A855F7&point=6B21A8&hide_border=true&radius=16" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daliadevstudio&theme=react&bg_color=FAF5FF&color=7C3AED&line=A855F7&point=6B21A8&hide_border=true&radius=16" width="95%" />
 
 </div>
 
@@ -691,14 +689,14 @@ Fluent
 
 ## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/daliadevstudio/daliadevstudio/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    QUOTE / VIBE                                        -->
+<!--                    QUOTE / VIBE                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
@@ -709,7 +707,7 @@ Fluent
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    FOOTER / CONTACT                                   -->
+<!--                    FOOTER / CONTACT                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
@@ -741,7 +739,7 @@ Fluent
 <br><br>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=VOTRE-PSEUDO-GITHUB&color=A855F7&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=daliadevstudio&color=A855F7&style=for-the-badge&label=Profile+Views" />
 
 <br><br>
 
