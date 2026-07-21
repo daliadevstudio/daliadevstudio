@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:F3E8FF,50:E9D5FF,100:D8B4FE&height=260&section=header&text=Dalia&fontSize=80&fontColor=6B21A8&fontAlignY=32&desc=Software%20Developer%20%26%20AI%20Integration&descAlignY=58&descSize=20&animation=twinkling&font=Fira%20Code" width="100%" alt="Dalia — Software Developer & AI Integration" />
 
-<img src="https://readme-typing-svg.demolab.com/api?font=Inter&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Crafting+Premium+Digital+Experiences;AI-Native+Development+Workflows;Where+Creativity+Meets+Performance" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=22&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Crafting+Premium+Digital+Experiences;AI-Native+Development+Workflows;Where+Creativity+Meets+Performance" alt="Typing SVG" />
 
 <br/>
 
@@ -13,12 +13,9 @@
 
 <br/>
 
-<a href="https://studio-dal-craft.lovable.app">
-  <img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=F3E8FF" alt="Portfolio" />
-</a>
-<a href="mailto:contact@dalia.dev">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F3E8FF" alt="Email" />
-</a>
+<a href="https://studio-dal-craft.lovable.app"><img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=F3E8FF" alt="Portfolio" /></a>
+<a href="mailto:contact@dalia.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F3E8FF" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=daliadevstudio&color=A855F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -38,6 +35,21 @@
 ![Projects](https://img.shields.io/badge/Projects%20Delivered-40%2B-9333EA?style=for-the-badge&labelColor=F3E8FF)
 ![Technologies](https://img.shields.io/badge/Technologies-12%2B-C084FC?style=for-the-badge&labelColor=F3E8FF)
 ![Client Focus](https://img.shields.io/badge/Client%20Focus-100%25-7C3AED?style=for-the-badge&labelColor=F3E8FF)
+
+</div>
+
+---
+
+## 🕰️ Experience Timeline
+
+<div align="center">
+
+| Year | Milestone | Highlights |
+|:---:|:---|:---|
+| **2021** | 🎓 Self-Taught Developer | Mastered HTML, CSS, JavaScript, React |
+| **2023** | 💼 Freelance Beginner | First paying clients — web apps & UI/UX |
+| **2025** | 🚀 Senior Dev + AI Integration | 40+ projects shipped, AI tools integrated |
+| **2026** | ⭐ Available for Hire | Open to new premium projects |
 
 </div>
 
@@ -87,27 +99,68 @@ Eliminating busywork across **tools, teams and pipelines**.
 <div align="center">
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,framer&theme=light" alt="Frontend stack" /></p>
+
+<p>
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framermotion/framermotion-original.svg" alt="Framer Motion" title="Framer Motion" />
+</p>
 
 **Backend & APIs**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php,graphql&theme=light" alt="Backend stack" /></p>
+
+<p>
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" title="Express" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" />
+</p>
 
 **Database & Cloud**
-<p><img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,firebase&theme=light" alt="Database stack" /></p>
+
+<p>
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" />
+</p>
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=py,c,cpp,rust&theme=light" alt="Languages" /></p>
+
+<p>
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" title="Rust" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" title="Bash" />
+</p>
 
 **DevOps & Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" alt="DevOps & tools" /></p>
+
+<p>
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" title="Windows" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="Notion" title="Notion" />
+</p>
 
 **Design & Creative**
-<p><img src="https://skillicons.dev/icons?i=figma,blender&theme=light" alt="Design tools" /></p>
 
-![Canva](https://img.shields.io/badge/Canva-C084FC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-9333EA?style=for-the-badge&logo=notion&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-A855F7?style=for-the-badge&logo=windows&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-7C3AED?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+<p>
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" title="Blender" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" title="Canva" />&nbsp;&nbsp;
+<img width="48" height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" title="Photoshop" />
+</p>
 
 <sub><i>Also comfortable with REST & GraphQL APIs, JWT authentication, responsive & accessible UI (WCAG), PWA, and agile workflows.</i></sub>
 
@@ -162,26 +215,26 @@ Eliminating busywork across **tools, teams and pipelines**.
 
 <table width="95%">
 <tr>
-<th align="center" width="20%">Project</th>
-<th align="center" width="45%">Description</th>
+<th align="center" width="18%">Project</th>
+<th align="center" width="47%">Description</th>
 <th align="center" width="20%">Stack</th>
 <th align="center" width="15%">Status</th>
 </tr>
 <tr>
 <td align="center"><b>DentaFlow Pro</b></td>
-<td>Multi-tenant SaaS for dental clinic management, with a full designed interface and a production-grade backend spec.</td>
+<td>Multi-tenant SaaS for dental clinic management — fully designed interface, complete database architecture, and a production-grade spec targeting premium sales to clinics.</td>
 <td align="center"><code>Bubble.io</code> <code>Django</code> <code>PostgreSQL</code></td>
 <td align="center">🟣 In Dev</td>
 </tr>
 <tr>
 <td align="center"><b>DevisFlash</b></td>
-<td>AI-powered quote & invoice generator for French freelancers, built ahead of France's mandatory e-invoicing reform.</td>
+<td>AI-powered quote & invoice generator for French freelancers, built ahead of France's mandatory e-invoicing reform — shares its tech foundation with DentaFlow Pro.</td>
 <td align="center"><code>Django</code> <code>PostgreSQL</code> <code>AI</code></td>
 <td align="center">🟣 In Dev</td>
 </tr>
 <tr>
 <td align="center"><b>AI Automation Agency</b></td>
-<td>Automation studio built around n8n workflows, with a defined six-phase roadmap and service packages.</td>
+<td>Automation studio built around n8n workflows, with a six-phase roadmap and defined service packages, oriented toward the French market.</td>
 <td align="center"><code>n8n</code> <code>Automation</code></td>
 <td align="center">🟢 Active</td>
 </tr>
@@ -250,8 +303,6 @@ Eliminating busywork across **tools, teams and pipelines**.
 
 ## 📊 GitHub Analytics
 
-<sub><i>Built for <code>daliadevstudio</code> — swap this username throughout if that's not your handle.</i></sub>
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&show_icons=true&theme=radical&hide_border=true&bg_color=F3E8FF&title_color=7C3AED&icon_color=A855F7&text_color=581C87&border_radius=16" width="48%" alt="GitHub Stats" />
@@ -279,16 +330,8 @@ Eliminating busywork across **tools, teams and pipelines**.
 
 > Have a project in mind, or just want to say hi? I read every message.
 
-<a href="https://studio-dal-craft.lovable.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=F3E8FF" alt="Portfolio" />
-</a>
-<a href="mailto:contact@dalia.dev">
-  <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F3E8FF" alt="Email" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=daliadevstudio&color=A855F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<a href="https://studio-dal-craft.lovable.app"><img src="https://img.shields.io/badge/🌐_Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=F3E8FF" alt="Portfolio" /></a>
+<a href="mailto:contact@dalia.dev"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F3E8FF" alt="Email" /></a>
 
 <br/><br/>
 
