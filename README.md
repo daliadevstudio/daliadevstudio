@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F3E8FF,50:E9D5FF,100:D8B4FE&height=280&section=header&text=Dalia&fontSize=90&fontColor=6B21A8&fontAlignY=30&desc=Software%20Developer%20%26%20AI%20Integration&descAlignY=58&descSize=22&animation=twinkling&font=Fira%20Code" width="100%" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  MINIMAL AESTHETIC HEADER — Just "Dalia"                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=70&duration=3000&pause=1000&color=D8B4FE&center=true&vCenter=true&width=400&lines=Dalia" alt="Dalia" />
+</h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com/api?font=Inter&weight=400&size=18&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Software+Developer+%26+AI+Integration;Crafting+Premium+Digital+Experiences" alt="Subtitle" />
+</p>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com/api?font=Inter&size=24&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=700&lines=✨+Crafting+Premium+Digital+Experiences;🤖+AI-Native+Development+Workflows;🚀+Scalable+Architecture+%26+Clean+Code;💜+Where+Creativity+Meets+Performance" />
-
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    STATUS BADGES                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  STATUS BADGES                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://img.shields.io/badge/🌍_Available_for_Freelance-10B981?style=for-the-badge&labelColor=F3E8FF&color=7C3AED&logoColor=white" />
 &nbsp;
 <img src="https://img.shields.io/badge/🤖_AI--First_Development-A855F7?style=for-the-badge&labelColor=F3E8FF&color=9333EA&logoColor=white" />
@@ -27,9 +27,9 @@
 
 <br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    SOCIAL LINKS                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SOCIAL LINKS                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <a href="https://studio-dal-craft.lovable.app">
   <img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
 </a>
@@ -51,16 +51,16 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    DECORATIVE DIVIDER                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  DECORATIVE DIVIDER                                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME SECTION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ABOUT ME                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
@@ -70,11 +70,11 @@
 ```
 ╔════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                ║
-║   👋  Hi, I'm Dalia. A 23-year-old software developer       ║
+║   👋  Hi, I'm Dalia. A 23-year-old software developer                          ║
 ║       specializing in premium digital products that merge creativity           ║
 ║       with rock-solid performance.                                             ║
 ║                                                                                ║
-║   💡  I architect scalable web applications with elegant UX, clean code,     ║
+║   💡  I architect scalable web applications with elegant UX, clean code,       ║
 ║       and AI-assisted workflows that push the boundaries of modern dev.        ║
 ║                                                                                ║
 ║   🌍  Freelance-ready · Remote-first · Worldwide · Detail-obsessed           ║
@@ -84,9 +84,6 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    STATS CARDS                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <table>
 <tr>
 <td align="center" width="25%">
@@ -120,9 +117,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    EXPERIENCE TIMELINE                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  EXPERIENCE TIMELINE                                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCFR4m/giphy.gif" width="30"> Experience Timeline
@@ -146,9 +143,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    SERVICES SECTION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SERVICES                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/juua9IFebZ91iM4qhp/giphy.gif" width="30"> Services
@@ -206,9 +203,9 @@ Eliminating busywork. Streamlining workflows across **tools, teams, and pipeline
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK SECTION                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  TECH STACK                                                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Tech Stack
@@ -250,9 +247,9 @@ Eliminating busywork. Streamlining workflows across **tools, teams, and pipeline
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    CERTIFICATIONS                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  CERTIFICATIONS                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/5Lmn42BC8ynQc/giphy.gif" width="30"> Certifications & Credentials
@@ -302,16 +299,15 @@ Eliminating busywork. Streamlining workflows across **tools, teams, and pipeline
 
 <br>
 
-<!-- GitHub Achievements Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=VOTRE-PSEUDO-GITHUB&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=daliadevstudio&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    ENGINEERING PRINCIPLES                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  ENGINEERING PRINCIPLES                                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="30"> Engineering Principles
@@ -393,9 +389,9 @@ Written for the next engineer.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    WORKFLOW SECTION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  WORKFLOW                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6koX/giphy.gif" width="30"> Development Workflow
@@ -428,9 +424,9 @@ Written for the next engineer.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  FEATURED PROJECTS                                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
@@ -478,9 +474,9 @@ Written for the next engineer.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    WHY WORK WITH ME                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  WHY WORK WITH ME                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/mGcNjs0bSty1i/giphy.gif" width="30"> Why Work With Me
@@ -538,9 +534,9 @@ Real AI features **embedded thoughtfully** — not sprinkled on top.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    SOFT SKILLS                                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SOFT SKILLS                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/1BeE8p2Yb0q3Y/giphy.gif" width="30"> Soft Skills
@@ -566,9 +562,9 @@ Real AI features **embedded thoughtfully** — not sprinkled on top.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    LANGUAGES                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  LANGUAGES                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/HQTYGpfIk9Vq6G5TjG/giphy.gif" width="30"> Languages
@@ -583,19 +579,19 @@ Real AI features **embedded thoughtfully** — not sprinkled on top.
 <tr>
 <td align="center" width="33%">
 
-###**Arabic**
+### **Arabic**
 Native
 
 </td>
 <td align="center" width="33%">
 
-###**French**
+### **French**
 Fluent
 
 </td>
 <td align="center" width="33%">
 
-###**English**
+### **English**
 Fluent
 
 </td>
@@ -606,9 +602,9 @@ Fluent
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    BLOG / WRITING                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  BLOG / WRITING                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/3oKIPtjElB5b1iYNgQ/giphy.gif" width="30"> Latest from the Blog
@@ -657,49 +653,46 @@ Fluent
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  GITHUB STATS                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/CwQ3byHM4jLjy/giphy.gif" width="30"> GitHub Analytics
 
-> *Replace `VOTRE-PSEUDO-GITHUB` with your username below.*
-
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VOTRE-PSEUDO-GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&icon_color=A855F7&text_color=581C87&border_radius=16&custom_title=Dalia's%20GitHub%20Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-PSEUDO-GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&text_color=581C87&border_radius=16&custom_title=Most%20Used%20Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&show_icons=true&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&icon_color=A855F7&text_color=581C87&border_radius=16&custom_title=Dalia's%20GitHub%20Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio&layout=compact&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&text_color=581C87&border_radius=16&custom_title=Most%20Used%20Languages" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE-PSEUDO-GITHUB&theme=radical&hide_border=true&background=FAF5FF&stroke=A855F7&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=581C87&currStreakNum=581C87&sideNums=581C87&border_radius=16" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daliadevstudio&theme=radical&hide_border=true&background=FAF5FF&stroke=A855F7&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=581C87&currStreakNum=581C87&sideNums=581C87&border_radius=16" width="80%" />
 
 <br><br>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE-PSEUDO-GITHUB&theme=react&bg_color=FAF5FF&color=7C3AED&line=A855F7&point=6B21A8&hide_border=true&radius=16" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daliadevstudio&theme=react&bg_color=FAF5FF&color=7C3AED&line=A855F7&point=6B21A8&hide_border=true&radius=16" width="95%" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION SNAKE                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  CONTRIBUTION SNAKE                                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Contribution Graph
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/daliadevstudio/daliadevstudio/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    QUOTE / VIBE                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  QUOTE                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&bg_color=FAF5FF&title_color=7C3AED&quote_color=581C87&author_color=A855F7" width="80%" />
@@ -708,9 +701,9 @@ Fluent
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    FOOTER / CONTACT                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  FOOTER / CONTACT                                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/j2pWZpr5RlpBS/giphy.gif" width="30"> Let's Build Something Unforgettable
@@ -740,17 +733,14 @@ Fluent
 
 <br><br>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=VOTRE-PSEUDO-GITHUB&color=A855F7&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=daliadevstudio&color=A855F7&style=for-the-badge&label=Profile+Views" />
 
 <br><br>
 
-<!-- Spotify Now Playing -->
 <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?width=400&border=true&background=FAF5FF" />
 
 <br><br>
 
-<!-- Buy Me A Coffee -->
 <a href="#">
   <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FAF5FF" />
 </a>
@@ -761,7 +751,6 @@ Fluent
 
 <br>
 
-<!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8B4FE,50:E9D5FF,100:F3E8FF&height=160&section=footer&animation=twinkling&font=Fira%20Code" width="100%" />
 
 </div>
