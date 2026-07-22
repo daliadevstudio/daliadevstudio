@@ -1,16 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F3E8FF,50:E9D5FF,100:D8B4FE&height=280&section=header&text=Dalia&fontSize=90&fontColor=6B21A8&fontAlignY=30&desc=Software%20Developer%20%26%20AI%20Integration&descAlignY=58&descSize=22&animation=twinkling&font=Fira%20Code" width="100%" />
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<img src="https://readme-typing-svg.demolab.com/api?font=Inter&size=24&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=700&lines=✨+Crafting+Premium+Digital+Experiences;🤖+AI-Native+Development+Workflows;🚀+Scalable+Architecture+%26+Clean+Code;💜+Where+Creativity+Meets+Performance" />
 
 <br><br>
 
@@ -30,25 +19,9 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL LINKS                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<a href="https://studio-dal-craft.lovable.app">
-  <img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-<a href="mailto:contact@dalia.dev">
+<a href="mailto:dalia.dev.studio@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
