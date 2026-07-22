@@ -1,1129 +1,805 @@
 <div align="center">
 
-<!-- ============================================================= -->
-<!--                                                               -->
-<!--    DALIA — PREMIUM GITHUB PROFILE README                      -->
-<!--    Designed as a luxury digital experience.                   -->
-<!--    Inspired by Apple, Linear, Vercel, Raycast, Framer,        -->
-<!--    Stripe & Awwwards-winning design.                          -->
-<!--                                                               -->
-<!--    Crafted with obsessive attention to detail.                -->
-<!--    Every pixel has a purpose.                                 -->
-<!--                                                               -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ============================================================= -->
-<!--                        AMBIENT GLOW                            -->
-<!-- ============================================================= -->
+<br><br><br>
 
 <p align="center">
-  <svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" style="max-width:1200px;">
+  <svg width="600" height="320" viewBox="0 0 600 320" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
     <defs>
-      <radialGradient id="glow1" cx="50%" cy="40%" r="50%">
+      <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
         <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.18"/>
-        <stop offset="40%" stop-color="#A78BFA" stop-opacity="0.06"/>
+        <stop offset="40%" stop-color="#A78BFA" stop-opacity="0.08"/>
         <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
       </radialGradient>
-      <radialGradient id="glow2" cx="30%" cy="60%" r="40%">
-        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.10"/>
-        <stop offset="60%" stop-color="#0D1117" stop-opacity="0"/>
-      </radialGradient>
-      <radialGradient id="glow3" cx="75%" cy="30%" r="35%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.08"/>
+      <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.12"/>
+        <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.04"/>
         <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
       </radialGradient>
-      <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="60"/>
-      </filter>
-    </defs>
-    <rect width="1200" height="320" fill="url(#glow1)" filter="url(#blur)"/>
-    <rect width="1200" height="320" fill="url(#glow2)" filter="url(#blur)"/>
-    <rect width="1200" height="320" fill="url(#glow3)" filter="url(#blur)"/>
-  </svg>
-</p>
-
-<!-- ============================================================= -->
-<!--                        HERO SECTION                            -->
-<!-- ============================================================= -->
-
-<br>
-
-<p align="center">
-  <svg width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="avatarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6"/>
-        <stop offset="50%" stop-color="#A78BFA"/>
+      <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#E9D5FF"/>
+        <stop offset="35%" stop-color="#A78BFA"/>
+        <stop offset="70%" stop-color="#8B5CF6"/>
         <stop offset="100%" stop-color="#C084FC"/>
       </linearGradient>
-      <filter id="avatarShadow" x="-20%" y="-20%" width="140%" height="140%">
-        <feDropShadow dx="0" dy="4" stdDeviation="12" flood-color="#8B5CF6" flood-opacity="0.3"/>
+      <linearGradient id="lineGradHero" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6" stop-opacity="0.5"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.9"/>
+        <stop offset="85%" stop-color="#8B5CF6" stop-opacity="0.5"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <ellipse cx="300" cy="160" rx="280" ry="140" fill="url(#orb1)"/>
+    <ellipse cx="420" cy="100" rx="180" ry="90" fill="url(#orb2)"/>
+    <path d="M 180 200 Q 300 240 420 200" stroke="url(#lineGradHero)" stroke-width="0.5" fill="none" opacity="0.6"/>
+    <text x="300" y="145" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="72" font-weight="700" letter-spacing="-0.04em" fill="url(#nameGrad)">DALIA</text>
+    <text x="300" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" letter-spacing="0.18em" fill="#94A3B8">SOFTWARE DEVELOPER  ·  AI INTEGRATION  ·  FULL-STACK</text>
+    <line x1="260" y1="210" x2="340" y2="210" stroke="url(#lineGradHero)" stroke-width="1"/>
+    <text x="300" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" letter-spacing="0.06em" fill="#64748B">Building elegant web applications, AI-powered products</text>
+    <text x="300" y="252" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" letter-spacing="0.06em" fill="#64748B">and premium digital experiences.</text>
+  </svg>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=440&lines=Building+SaaS;Creating+AI+Products;Crafting+Beautiful+Interfaces;Always+Learning;Turning+Ideas+Into+Reality" alt="Typing" />
+</p>
+
+<br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CUSTOM SVG SEPARATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="sep1" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="140" height="1.5" fill="url(#sep1)" rx="0.75"/>
+  </svg>
+</p>
+
+<br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT SECTION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <svg width="680" height="280" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
+    <defs>
+      <linearGradient id="aboutGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+        <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.08"/>
+        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.15"/>
+      </linearGradient>
+      <linearGradient id="aboutBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.3"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.3"/>
+      </linearGradient>
+      <filter id="aboutGlow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="20" result="blur"/>
+        <feComposite in="SourceGraphic" in2="blur" operator="over"/>
       </filter>
     </defs>
-    <circle cx="36" cy="36" r="34" fill="url(#avatarGrad)" filter="url(#avatarShadow)" opacity="0.15"/>
-    <circle cx="36" cy="36" r="30" fill="none" stroke="url(#avatarGrad)" stroke-width="1.5" opacity="0.4"/>
-    <text x="36" y="42" text-anchor="middle" fill="url(#avatarGrad)" font-family="Inter, -apple-system, sans-serif" font-size="22" font-weight="600" letter-spacing="-0.5">D</text>
+    <rect x="10" y="10" width="660" height="260" rx="20" fill="#161B22" stroke="url(#aboutBorder)" stroke-width="1" opacity="0.6"/>
+    <rect x="10" y="10" width="660" height="260" rx="20" fill="url(#aboutGrad)" opacity="0.4"/>
+    <ellipse cx="340" cy="140" rx="200" ry="80" fill="#8B5CF6" opacity="0.03" filter="url(#aboutGlow)"/>
+    <text x="340" y="55" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">ABOUT</text>
+    <circle cx="340" cy="68" r="2" fill="#C084FC" opacity="0.5"/>
+    <rect x="80" y="85" width="520" height="155" rx="12" fill="#0D1117" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+    <circle cx="105" cy="105" r="3" fill="#EF4444" opacity="0.6"/>
+    <circle cx="118" cy="105" r="3" fill="#F59E0B" opacity="0.6"/>
+    <circle cx="131" cy="105" r="3" fill="#22C55E" opacity="0.6"/>
+    <text x="105" y="135" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="13" font-weight="400" fill="#A78BFA">const</text>
+    <text x="150" y="135" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="13" font-weight="400" fill="#C084FC">developer</text>
+    <text x="225" y="135" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="13" font-weight="400" fill="#94A3B8">= {</text>
+    <text x="125" y="158" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#64748B">name</text>
+    <text x="165" y="158" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">:</text>
+    <text x="178" y="158" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Dalia"</text>
+    <text x="235" y="158" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
+    <text x="125" y="178" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#64748B">role</text>
+    <text x="160" y="178" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">:</text>
+    <text x="178" y="178" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Software Developer"</text>
+    <text x="330" y="178" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
+    <text x="125" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#64748B">focus</text>
+    <text x="168" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">: [</text>
+    <text x="188" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"AI"</text>
+    <text x="218" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
+    <text x="232" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Full Stack"</text>
+    <text x="310" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
+    <text x="125" y="218" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Creative UI"</text>
+    <text x="210" y="218" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
+    <text x="225" y="218" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"SaaS"</text>
+    <text x="270" y="218" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">],</text>
+    <text x="125" y="238" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#64748B">passion</text>
+    <text x="185" y="238" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">:</text>
+    <text x="198" y="238" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Elegant solutions"</text>
+    <text x="105" y="258" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="13" font-weight="400" fill="#94A3B8">};</text>
   </svg>
-</p>
-
-<br>
-
-<p align="center" style="color:#64748B; font-family:Inter, -apple-system, sans-serif; font-size:13px; font-weight:400; letter-spacing:0.25em; text-transform:uppercase; margin-bottom:16px;">
-  hey, i'm
-</p>
-
-<h1 align="center" style="margin:0; padding:0; line-height:1;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:56px; font-weight:700; letter-spacing:-0.04em; background: linear-gradient(180deg, #FFFFFF 0%, #E2E8F0 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-    Dalia
-  </span>
-</h1>
-
-<p align="center" style="margin-top:20px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:15px; font-weight:400; color:#94A3B8; letter-spacing:0.02em;">
-    Software Developer
-  </span>
-  <span style="color:rgba(139,92,246,0.5); margin:0 12px;">&#183;</span>
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:15px; font-weight:400; color:#94A3B8; letter-spacing:0.02em;">
-    AI Integration
-  </span>
-  <span style="color:rgba(139,92,246,0.5); margin:0 12px;">&#183;</span>
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:15px; font-weight:400; color:#94A3B8; letter-spacing:0.02em;">
-    Full-Stack Developer
-  </span>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+elegant+web+applications;Creating+AI-powered+products;Crafting+beautiful+interfaces;Turning+ideas+into+reality;Always+learning%2C+always+building" alt="Typing animation" />
-</p>
-
-<br>
-
-<p align="center" style="max-width:480px; margin:0 auto;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:15px; font-weight:400; color:#64748B; line-height:1.8;">
-    I design and build premium digital experiences at the intersection of software engineering, artificial intelligence, and creative design.
-  </span>
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                    ORNAMENTAL DIVIDER                          -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CUSTOM SVG SEPARATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <svg width="64" height="24" viewBox="0 0 64 24" xmlns="http://www.w3.org/2000/svg">
+  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="ornament" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="30%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#0D1117"/>
+      <linearGradient id="sep2" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
       </linearGradient>
     </defs>
-    <circle cx="32" cy="12" r="3" fill="url(#ornament)" opacity="0.8"/>
-    <line x1="8" y1="12" x2="26" y2="12" stroke="url(#ornament)" stroke-width="1" opacity="0.4"/>
-    <line x1="38" y1="12" x2="56" y2="12" stroke="url(#ornament)" stroke-width="1" opacity="0.4"/>
+    <rect width="140" height="1.5" fill="url(#sep2)" rx="0.75"/>
   </svg>
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                        ABOUT SECTION                           -->
-<!-- ============================================================= -->
-
-<h2 align="center" style="margin:0 0 8px 0;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:13px; font-weight:500; color:#8B5CF6; letter-spacing:0.2em; text-transform:uppercase;">
-    01 &mdash; About
-  </span>
-</h2>
-
-<br>
-
-<div align="center">
-
-```typescript
-interface Developer {
-  name: string;
-  username: string;
-  role: string;
-  focus: string[];
-  philosophy: string;
-}
-
-const dalia: Developer = {
-  name: "Dalia",
-  username: "daliadevstudio",
-  role: "Software Developer",
-  focus: [
-    "Artificial Intelligence",
-    "Full Stack Development",
-    "Creative UI / UX",
-    "Workflow Automation",
-    "SaaS Architecture"
-  ],
-  philosophy: "Craftsmanship over complexity. " +
-              "Every line of code should be intentional. " +
-              "Every interface should feel effortless."
-};
-```
-
-</div>
-
-<br><br>
-
-<!-- ============================================================= -->
-<!--                    ORNAMENTAL DIVIDER                          -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK SECTION                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <svg width="64" height="24" viewBox="0 0 64 24" xmlns="http://www.w3.org/2000/svg">
+  <svg width="800" height="560" viewBox="0 0 800 560" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
     <defs>
-      <linearGradient id="ornament2" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="30%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#0D1117"/>
+      <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.1"/>
+        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.05"/>
+      </linearGradient>
+      <linearGradient id="techBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.2"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.5"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.2"/>
+      </linearGradient>
+      <linearGradient id="catGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.6"/>
+        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.6"/>
       </linearGradient>
     </defs>
-    <circle cx="32" cy="12" r="3" fill="url(#ornament2)" opacity="0.8"/>
-    <line x1="8" y1="12" x2="26" y2="12" stroke="url(#ornament2)" stroke-width="1" opacity="0.4"/>
-    <line x1="38" y1="12" x2="56" y2="12" stroke="url(#ornament2)" stroke-width="1" opacity="0.4"/>
+    <rect x="20" y="20" width="760" height="520" rx="24" fill="#161B22" stroke="url(#techBorder)" stroke-width="1" opacity="0.5"/>
+    <rect x="20" y="20" width="760" height="520" rx="24" fill="url(#techGrad)" opacity="0.3"/>
+    <text x="400" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">TECHNOLOGIES</text>
+    <circle cx="400" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
+    <text x="60" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">FRONTEND</text>
+    <line x1="60" y1="118" x2="160" y2="118" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
+    <image href="https://skillicons.dev/icons?i=html&theme=dark" x="60" y="135" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=css&theme=dark" x="112" y="135" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=js&theme=dark" x="164" y="135" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=ts&theme=dark" x="216" y="135" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=react&theme=dark" x="268" y="135" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=nextjs&theme=dark" x="320" y="135" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=tailwind&theme=dark" x="372" y="135" width="36" height="36"/>
+    <text x="60" y="215" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">BACKEND</text>
+    <line x1="60" y1="223" x2="150" y2="223" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
+    <image href="https://skillicons.dev/icons?i=nodejs&theme=dark" x="60" y="240" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=express&theme=dark" x="112" y="240" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=fastapi&theme=dark" x="164" y="240" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=php&theme=dark" x="216" y="240" width="36" height="36"/>
+    <text x="60" y="320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">DATABASES</text>
+    <line x1="60" y1="328" x2="155" y2="328" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
+    <image href="https://skillicons.dev/icons?i=mysql&theme=dark" x="60" y="345" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=postgres&theme=dark" x="112" y="345" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=prisma&theme=dark" x="164" y="345" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=supabase&theme=dark" x="216" y="345" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=firebase&theme=dark" x="268" y="345" width="36" height="36"/>
+    <text x="420" y="320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">LANGUAGES</text>
+    <line x1="420" y1="328" x2="515" y2="328" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
+    <image href="https://skillicons.dev/icons?i=python&theme=dark" x="420" y="345" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=c&theme=dark" x="472" y="345" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=cpp&theme=dark" x="524" y="345" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=rust&theme=dark" x="576" y="345" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=bash&theme=dark" x="628" y="345" width="36" height="36"/>
+    <text x="60" y="425" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">TOOLS &amp; DESIGN</text>
+    <line x1="60" y1="433" x2="180" y2="433" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
+    <image href="https://skillicons.dev/icons?i=git&theme=dark" x="60" y="450" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=github&theme=dark" x="112" y="450" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=vscode&theme=dark" x="164" y="450" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=figma&theme=dark" x="216" y="450" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=blender&theme=dark" x="268" y="450" width="36" height="36"/>
+    <image href="https://skillicons.dev/icons?i=notion&theme=dark" x="320" y="450" width="36" height="36"/>
+    <line x1="400" y1="100" x2="400" y2="300" stroke="url(#techBorder)" stroke-width="0.5" opacity="0.3"/>
   </svg>
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                       TECH STACK                               -->
-<!-- ============================================================= -->
-
-<h2 align="center" style="margin:0 0 8px 0;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:13px; font-weight:500; color:#8B5CF6; letter-spacing:0.2em; text-transform:uppercase;">
-    02 &mdash; Technologies
-  </span>
-</h2>
-
-<p align="center" style="margin-top:8px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:14px; font-weight:400; color:#475569;">
-    The tools I use to bring ideas to life
-  </span>
-</p>
-
-<br><br>
-
-<p align="center" style="margin-bottom:12px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:500; color:#64748B; letter-spacing:0.15em; text-transform:uppercase;">
-    Frontend
-  </span>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CUSTOM SVG SEPARATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend" />
-</p>
-
-<br>
-
-<p align="center" style="margin-bottom:12px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:500; color:#64748B; letter-spacing:0.15em; text-transform:uppercase;">
-    Backend
-  </span>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php&theme=dark" alt="Backend" />
-</p>
-
-<br>
-
-<p align="center" style="margin-bottom:12px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:500; color:#64748B; letter-spacing:0.15em; text-transform:uppercase;">
-    Data
-  </span>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,supabase,firebase&theme=dark" alt="Data" />
-</p>
-
-<br>
-
-<p align="center" style="margin-bottom:12px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:500; color:#64748B; letter-spacing:0.15em; text-transform:uppercase;">
-    Languages
-  </span>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,bash&theme=dark" alt="Languages" />
-</p>
-
-<br>
-
-<p align="center" style="margin-bottom:12px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:500; color:#64748B; letter-spacing:0.15em; text-transform:uppercase;">
-    Tools &amp; Design
-  </span>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,notion&theme=dark" alt="Tools" />
-</p>
-
-<br><br><br>
-
-<!-- ============================================================= -->
-<!--                    ORNAMENTAL DIVIDER                          -->
-<!-- ============================================================= -->
-
-<p align="center">
-  <svg width="64" height="24" viewBox="0 0 64 24" xmlns="http://www.w3.org/2000/svg">
+  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="ornament3" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="30%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#0D1117"/>
+      <linearGradient id="sep3" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
       </linearGradient>
     </defs>
-    <circle cx="32" cy="12" r="3" fill="url(#ornament3)" opacity="0.8"/>
-    <line x1="8" y1="12" x2="26" y2="12" stroke="url(#ornament3)" stroke-width="1" opacity="0.4"/>
-    <line x1="38" y1="12" x2="56" y2="12" stroke="url(#ornament3)" stroke-width="1" opacity="0.4"/>
+    <rect width="140" height="1.5" fill="url(#sep3)" rx="0.75"/>
   </svg>
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                    CURRENTLY BUILDING                          -->
-<!-- ============================================================= -->
-
-<h2 align="center" style="margin:0 0 8px 0;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:13px; font-weight:500; color:#8B5CF6; letter-spacing:0.2em; text-transform:uppercase;">
-    03 &mdash; Currently Building
-  </span>
-</h2>
-
-<p align="center" style="margin-top:8px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:14px; font-weight:400; color:#475569;">
-    What occupies my focus right now
-  </span>
-</p>
-
-<br><br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="300" valign="top">
-      <div style="background: linear-gradient(145deg, rgba(22,27,34,0.8) 0%, rgba(22,27,34,0.4) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);">
-        <p align="center" style="margin:0 0 16px 0;">
-          <svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="icon1" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="8" y="8" width="32" height="32" rx="8" fill="url(#icon1)" opacity="0.12"/>
-            <rect x="14" y="14" width="20" height="20" rx="5" fill="none" stroke="url(#icon1)" stroke-width="1.5"/>
-            <circle cx="24" cy="24" r="4" fill="url(#icon1)" opacity="0.8"/>
-            <circle cx="24" cy="24" r="2" fill="#0D1117"/>
-          </svg>
-        </p>
-        <h4 align="center" style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 10px 0; font-size:16px; letter-spacing:-0.01em;">AI SaaS</h4>
-        <p align="center" style="color:#64748B; font-family:Inter, -apple-system, sans-serif; font-size:13px; line-height:1.7; margin:0;">
-          Intelligent software products powered by artificial intelligence, designed to solve real problems with elegance.
-        </p>
-      </div>
-    </td>
-    <td width="16"></td>
-    <td width="300" valign="top">
-      <div style="background: linear-gradient(145deg, rgba(22,27,34,0.8) 0%, rgba(22,27,34,0.4) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);">
-        <p align="center" style="margin:0 0 16px 0;">
-          <svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="icon2" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="8" y="8" width="32" height="32" rx="8" fill="url(#icon2)" opacity="0.12"/>
-            <rect x="12" y="16" width="24" height="16" rx="3" fill="none" stroke="url(#icon2)" stroke-width="1.5"/>
-            <line x1="12" y1="22" x2="36" y2="22" stroke="url(#icon2)" stroke-width="1" opacity="0.4"/>
-            <circle cx="18" cy="27" r="2" fill="url(#icon2)" opacity="0.6"/>
-          </svg>
-        </p>
-        <h4 align="center" style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 10px 0; font-size:16px; letter-spacing:-0.01em;">Developer Portfolio</h4>
-        <p align="center" style="color:#64748B; font-family:Inter, -apple-system, sans-serif; font-size:13px; line-height:1.7; margin:0;">
-          A premium digital presence that reflects craft, attention to detail, and a passion for beautiful software.
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr><td height="16"></td></tr>
-  <tr>
-    <td width="300" valign="top">
-      <div style="background: linear-gradient(145deg, rgba(22,27,34,0.8) 0%, rgba(22,27,34,0.4) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);">
-        <p align="center" style="margin:0 0 16px 0;">
-          <svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="icon3" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="8" y="8" width="32" height="32" rx="8" fill="url(#icon3)" opacity="0.12"/>
-            <circle cx="24" cy="20" r="6" fill="none" stroke="url(#icon3)" stroke-width="1.5"/>
-            <path d="M18 30 Q24 36 30 30" fill="none" stroke="url(#icon3)" stroke-width="1.5" stroke-linecap="round"/>
-            <circle cx="24" cy="20" r="2" fill="url(#icon3)" opacity="0.6"/>
-          </svg>
-        </p>
-        <h4 align="center" style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 10px 0; font-size:16px; letter-spacing:-0.01em;">Automation Tools</h4>
-        <p align="center" style="color:#64748B; font-family:Inter, -apple-system, sans-serif; font-size:13px; line-height:1.7; margin:0;">
-          Workflow optimization tools that eliminate friction, reduce cognitive load, and let creativity flow uninterrupted.
-        </p>
-      </div>
-    </td>
-    <td width="16"></td>
-    <td width="300" valign="top">
-      <div style="background: linear-gradient(145deg, rgba(22,27,34,0.8) 0%, rgba(22,27,34,0.4) 100%); border: 1px solid rgba(139,92,246,0.12); border-radius: 20px; padding: 32px; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);">
-        <p align="center" style="margin:0 0 16px 0;">
-          <svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="icon4" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="8" y="8" width="32" height="32" rx="8" fill="url(#icon4)" opacity="0.12"/>
-            <path d="M16 24 L22 30 L32 18" fill="none" stroke="url(#icon4)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-            <circle cx="24" cy="24" r="14" fill="none" stroke="url(#icon4)" stroke-width="1" opacity="0.3"/>
-          </svg>
-        </p>
-        <h4 align="center" style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 10px 0; font-size:16px; letter-spacing:-0.01em;">Open Source</h4>
-        <p align="center" style="color:#64748B; font-family:Inter, -apple-system, sans-serif; font-size:13px; line-height:1.7; margin:0;">
-          Contributing to the community with reusable components, libraries, and tools built with the same care as private work.
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br><br><br>
-<!-- ============================================================= -->
-<!--                    ORNAMENTAL DIVIDER                          -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CURRENTLY BUILDING                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <svg width="64" height="24" viewBox="0 0 64 24" xmlns="http://www.w3.org/2000/svg">
+  <svg width="800" height="380" viewBox="0 0 800 380" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
     <defs>
-      <linearGradient id="ornament4" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="30%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#0D1117"/>
+      <linearGradient id="buildGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.08"/>
+        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.04"/>
+      </linearGradient>
+      <linearGradient id="buildBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      </linearGradient>
+      <linearGradient id="cG1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.12"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="cG2" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.08"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="cG3" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.1"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="cG4" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.06"/>
+        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.12"/>
       </linearGradient>
     </defs>
-    <circle cx="32" cy="12" r="3" fill="url(#ornament4)" opacity="0.8"/>
-    <line x1="8" y1="12" x2="26" y2="12" stroke="url(#ornament4)" stroke-width="1" opacity="0.4"/>
-    <line x1="38" y1="12" x2="56" y2="12" stroke="url(#ornament4)" stroke-width="1" opacity="0.4"/>
+    <rect x="20" y="20" width="760" height="340" rx="24" fill="#161B22" stroke="url(#buildBorder)" stroke-width="1" opacity="0.5"/>
+    <rect x="20" y="20" width="760" height="340" rx="24" fill="url(#buildGrad)" opacity="0.3"/>
+    <text x="400" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">FOCUS AREAS</text>
+    <circle cx="400" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
+    <!-- Card 1 -->
+    <rect x="50" y="95" width="345" height="115" rx="16" fill="#0D1117" stroke="rgba(139,92,246,0.15)" stroke-width="1"/>
+    <rect x="50" y="95" width="345" height="115" rx="16" fill="url(#cG1)" opacity="0.5"/>
+    <circle cx="80" cy="125" r="16" fill="#8B5CF6" opacity="0.12"/>
+    <text x="80" y="131" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" fill="#A78BFA">&#9670;</text>
+    <text x="110" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">AI SaaS</text>
+    <text x="110" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">Intelligent products powered by</text>
+    <text x="110" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">artificial intelligence &amp; modern web.</text>
+    <!-- Card 2 -->
+    <rect x="415" y="95" width="345" height="115" rx="16" fill="#0D1117" stroke="rgba(192,132,252,0.15)" stroke-width="1"/>
+    <rect x="415" y="95" width="345" height="115" rx="16" fill="url(#cG2)" opacity="0.5"/>
+    <circle cx="445" cy="125" r="16" fill="#C084FC" opacity="0.12"/>
+    <text x="445" y="131" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" fill="#C084FC">&#9671;</text>
+    <text x="475" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Developer Portfolio</text>
+    <text x="475" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">Premium experiences with beautiful</text>
+    <text x="475" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">design and smooth interactions.</text>
+    <!-- Card 3 -->
+    <rect x="50" y="225" width="345" height="115" rx="16" fill="#0D1117" stroke="rgba(167,139,250,0.15)" stroke-width="1"/>
+    <rect x="50" y="225" width="345" height="115" rx="16" fill="url(#cG3)" opacity="0.5"/>
+    <circle cx="80" cy="255" r="16" fill="#A78BFA" opacity="0.12"/>
+    <text x="80" y="261" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" fill="#A78BFA">&#9672;</text>
+    <text x="110" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Automation Tools</text>
+    <text x="110" y="272" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">Streamlining workflows and eliminating</text>
+    <text x="110" y="288" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">repetitive tasks for developers.</text>
+    <!-- Card 4 -->
+    <rect x="415" y="225" width="345" height="115" rx="16" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
+    <rect x="415" y="225" width="345" height="115" rx="16" fill="url(#cG4)" opacity="0.5"/>
+    <circle cx="445" cy="255" r="16" fill="#8B5CF6" opacity="0.12"/>
+    <text x="445" y="261" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" fill="#8B5CF6">&#9673;</text>
+    <text x="475" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Open Source</text>
+    <text x="475" y="272" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">Contributing libraries that solve real</text>
+    <text x="475" y="288" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">problems for the community.</text>
   </svg>
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                       GITHUB STATS                             -->
-<!-- ============================================================= -->
-
-<h2 align="center" style="margin:0 0 8px 0;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:13px; font-weight:500; color:#8B5CF6; letter-spacing:0.2em; text-transform:uppercase;">
-    04 &mdash; GitHub Activity
-  </span>
-</h2>
-
-<p align="center" style="margin-top:8px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:14px; font-weight:400; color:#475569;">
-    A window into my development rhythm
-  </span>
-</p>
-
-<br><br>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CUSTOM SVG SEPARATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0&bg_color=0D1117&rank_icon=github&custom_title=Contribution%20Overview" alt="GitHub Stats" width="46%" />
+  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="sep4" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="140" height="1.5" fill="url(#sep4)" rx="0.75"/>
+  </svg>
+</p>
+
+<br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <svg width="840" height="180" viewBox="0 0 840 180" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
+    <defs>
+      <linearGradient id="sB" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      </linearGradient>
+    </defs>
+    <rect x="20" y="20" width="800" height="140" rx="24" fill="#161B22" stroke="url(#sB)" stroke-width="1" opacity="0.5"/>
+    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">ANALYTICS</text>
+    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
+  </svg>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=FFFFFF&amp;bg_color=0D1117&amp;rank_icon=github" alt="GitHub Stats" width="46%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=E2E8F0&bg_color=0D1117&langs_count=8&custom_title=Language%20Distribution" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=A78BFA&amp;text_color=FFFFFF&amp;bg_color=0D1117&amp;langs_count=8" alt="Top Languages" width="38%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=daliadevstudio&theme=transparent&hide_border=true&stroke=A78BFA&ring=8B5CF6&fire=C084FC&currStreakLabel=F1F5F9&sideLabels=94A3B8&currStreakNum=A78BFA&sideNums=64748B&dates=475569&background=0D1117" alt="GitHub Streak" width="68%" />
+  <img src="https://streak-stats.demolab.com?user=daliadevstudio&amp;theme=transparent&amp;hide_border=true&amp;stroke=A78BFA&amp;ring=8B5CF6&amp;fire=C084FC&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;currStreakNum=A78BFA&amp;sideNums=94A3B8&amp;dates=94A3B8&amp;background=0D1117" alt="GitHub Streak" width="68%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daliadevstudio&theme=react-dark&hide_border=true&area=true&point=A78BFA&line=8B5CF6&color=E2E8F0&bg_color=0D1117" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daliadevstudio&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;point=A78BFA&amp;line=8B5CF6&amp;color=FFFFFF&amp;bg_color=0D1117" alt="Activity Graph" width="90%" />
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                    ORNAMENTAL DIVIDER                          -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CUSTOM SVG SEPARATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <svg width="64" height="24" viewBox="0 0 64 24" xmlns="http://www.w3.org/2000/svg">
+  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="ornament5" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="30%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#0D1117"/>
+      <linearGradient id="sep5" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
       </linearGradient>
     </defs>
-    <circle cx="32" cy="12" r="3" fill="url(#ornament5)" opacity="0.8"/>
-    <line x1="8" y1="12" x2="26" y2="12" stroke="url(#ornament5)" stroke-width="1" opacity="0.4"/>
-    <line x1="38" y1="12" x2="56" y2="12" stroke="url(#ornament5)" stroke-width="1" opacity="0.4"/>
+    <rect width="140" height="1.5" fill="url(#sep5)" rx="0.75"/>
   </svg>
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                       GITHUB TROPHIES                          -->
-<!-- ============================================================= -->
-
-<h2 align="center" style="margin:0 0 8px 0;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:13px; font-weight:500; color:#8B5CF6; letter-spacing:0.2em; text-transform:uppercase;">
-    05 &mdash; Achievements
-  </span>
-</h2>
-
-<p align="center" style="margin-top:8px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:14px; font-weight:400; color:#475569;">
-    Milestones earned through consistent effort
-  </span>
-</p>
-
-<br><br>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB TROPHIES                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daliadevstudio&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&title_color=A78BFA&icon_color=8B5CF6&text_color=E2E8F0" alt="GitHub Trophies" width="94%" />
+  <svg width="840" height="180" viewBox="0 0 840 180" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
+    <defs>
+      <linearGradient id="tB" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      </linearGradient>
+    </defs>
+    <rect x="20" y="20" width="800" height="140" rx="24" fill="#161B22" stroke="url(#tB)" stroke-width="1" opacity="0.5"/>
+    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">ACHIEVEMENTS</text>
+    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
+  </svg>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daliadevstudio&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=7&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=FFFFFF" alt="GitHub Trophies" width="92%" />
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                    ORNAMENTAL DIVIDER                          -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CUSTOM SVG SEPARATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <svg width="64" height="24" viewBox="0 0 64 24" xmlns="http://www.w3.org/2000/svg">
+  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="ornament6" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="30%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#0D1117"/>
+      <linearGradient id="sep6" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
       </linearGradient>
     </defs>
-    <circle cx="32" cy="12" r="3" fill="url(#ornament6)" opacity="0.8"/>
-    <line x1="8" y1="12" x2="26" y2="12" stroke="url(#ornament6)" stroke-width="1" opacity="0.4"/>
-    <line x1="38" y1="12" x2="56" y2="12" stroke="url(#ornament6)" stroke-width="1" opacity="0.4"/>
+    <rect width="140" height="1.5" fill="url(#sep6)" rx="0.75"/>
   </svg>
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                 DEVELOPMENT PHILOSOPHY                         -->
-<!-- ============================================================= -->
-
-<h2 align="center" style="margin:0 0 8px 0;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:13px; font-weight:500; color:#8B5CF6; letter-spacing:0.2em; text-transform:uppercase;">
-    06 &mdash; Principles
-  </span>
-</h2>
-
-<p align="center" style="margin-top:8px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:14px; font-weight:400; color:#475569;">
-    The values that shape every line of code
-  </span>
-</p>
-
-<br><br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="220" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.7) 0%, rgba(22,27,34,0.3) 100%); border: 1px solid rgba(139,92,246,0.08); border-radius: 18px; padding: 28px; text-align:center; backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);">
-        <p style="margin:0 0 12px 0;">
-          <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="p1" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="6" y="6" width="24" height="24" rx="6" fill="url(#p1)" opacity="0.1"/>
-            <path d="M12 18 L16 22 L24 14" fill="none" stroke="url(#p1)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:600; letter-spacing:0.1em; margin:0 0 8px 0; text-transform:uppercase;">01</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 8px 0; font-size:15px; letter-spacing:-0.01em;">Clean Code</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:12px; line-height:1.7; margin:0;">
-          Readable, intentional, and maintainable. Code that tells a story.
-        </p>
-      </div>
-    </td>
-    <td width="10"></td>
-    <td width="220" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.7) 0%, rgba(22,27,34,0.3) 100%); border: 1px solid rgba(139,92,246,0.08); border-radius: 18px; padding: 28px; text-align:center; backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);">
-        <p style="margin:0 0 12px 0;">
-          <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="p2" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="6" y="6" width="24" height="24" rx="6" fill="url(#p2)" opacity="0.1"/>
-            <path d="M10 26 L10 14 L18 10 L26 14 L26 26 L18 30 Z" fill="none" stroke="url(#p2)" stroke-width="1.5" stroke-linejoin="round"/>
-            <circle cx="18" cy="20" r="3" fill="none" stroke="url(#p2)" stroke-width="1.5"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:600; letter-spacing:0.1em; margin:0 0 8px 0; text-transform:uppercase;">02</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 8px 0; font-size:15px; letter-spacing:-0.01em;">Scalability</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:12px; line-height:1.7; margin:0;">
-          Architecting systems that grow gracefully without losing elegance.
-        </p>
-      </div>
-    </td>
-    <td width="10"></td>
-    <td width="220" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.7) 0%, rgba(22,27,34,0.3) 100%); border: 1px solid rgba(139,92,246,0.08); border-radius: 18px; padding: 28px; text-align:center; backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);">
-        <p style="margin:0 0 12px 0;">
-          <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="p3" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="6" y="6" width="24" height="24" rx="6" fill="url(#p3)" opacity="0.1"/>
-            <path d="M10 20 Q14 12 18 20 Q22 28 26 20" fill="none" stroke="url(#p3)" stroke-width="1.5" stroke-linecap="round"/>
-            <circle cx="18" cy="20" r="2" fill="url(#p3)" opacity="0.6"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:600; letter-spacing:0.1em; margin:0 0 8px 0; text-transform:uppercase;">03</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 8px 0; font-size:15px; letter-spacing:-0.01em;">Performance</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:12px; line-height:1.7; margin:0;">
-          Every millisecond matters. Speed is a feature, not an afterthought.
-        </p>
-      </div>
-    </td>
-    <td width="10"></td>
-    <td width="220" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.7) 0%, rgba(22,27,34,0.3) 100%); border: 1px solid rgba(139,92,246,0.08); border-radius: 18px; padding: 28px; text-align:center; backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);">
-        <p style="margin:0 0 12px 0;">
-          <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="p4" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="6" y="6" width="24" height="24" rx="6" fill="url(#p4)" opacity="0.1"/>
-            <circle cx="18" cy="18" r="8" fill="none" stroke="url(#p4)" stroke-width="1.5"/>
-            <circle cx="18" cy="18" r="4" fill="none" stroke="url(#p4)" stroke-width="1" opacity="0.5"/>
-            <circle cx="18" cy="18" r="1.5" fill="url(#p4)"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:600; letter-spacing:0.1em; margin:0 0 8px 0; text-transform:uppercase;">04</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 8px 0; font-size:15px; letter-spacing:-0.01em;">Accessibility</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:12px; line-height:1.7; margin:0;">
-          Building for everyone. Inclusive design is non-negotiable.
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr><td height="10"></td></tr>
-  <tr>
-    <td width="220" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.7) 0%, rgba(22,27,34,0.3) 100%); border: 1px solid rgba(139,92,246,0.08); border-radius: 18px; padding: 28px; text-align:center; backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);">
-        <p style="margin:0 0 12px 0;">
-          <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="p5" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="6" y="6" width="24" height="24" rx="6" fill="url(#p5)" opacity="0.1"/>
-            <path d="M12 24 L12 12 L18 18 L24 12 L24 24" fill="none" stroke="url(#p5)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:600; letter-spacing:0.1em; margin:0 0 8px 0; text-transform:uppercase;">05</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 8px 0; font-size:15px; letter-spacing:-0.01em;">AI-First</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:12px; line-height:1.7; margin:0;">
-          Leveraging intelligence to create adaptive, learning systems.
-        </p>
-      </div>
-    </td>
-    <td width="10"></td>
-    <td width="220" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.7) 0%, rgba(22,27,34,0.3) 100%); border: 1px solid rgba(139,92,246,0.08); border-radius: 18px; padding: 28px; text-align:center; backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);">
-        <p style="margin:0 0 12px 0;">
-          <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="p6" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="6" y="6" width="24" height="24" rx="6" fill="url(#p6)" opacity="0.1"/>
-            <path d="M12 20 L16 16 L20 20 L24 16" fill="none" stroke="url(#p6)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            <circle cx="24" cy="16" r="2" fill="url(#p6)" opacity="0.4"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:600; letter-spacing:0.1em; margin:0 0 8px 0; text-transform:uppercase;">06</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 8px 0; font-size:15px; letter-spacing:-0.01em;">Problem Solving</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:12px; line-height:1.7; margin:0;">
-          Breaking complexity into elegant, practical solutions.
-        </p>
-      </div>
-    </td>
-    <td width="10"></td>
-    <td width="220" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.7) 0%, rgba(22,27,34,0.3) 100%); border: 1px solid rgba(139,92,246,0.08); border-radius: 18px; padding: 28px; text-align:center; backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);">
-        <p style="margin:0 0 12px 0;">
-          <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="p7" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="6" y="6" width="24" height="24" rx="6" fill="url(#p7)" opacity="0.1"/>
-            <rect x="10" y="12" width="16" height="12" rx="2" fill="none" stroke="url(#p7)" stroke-width="1.5"/>
-            <line x1="10" y1="16" x2="26" y2="16" stroke="url(#p7)" stroke-width="1" opacity="0.4"/>
-            <circle cx="14" cy="20" r="1.5" fill="url(#p7)" opacity="0.6"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:600; letter-spacing:0.1em; margin:0 0 8px 0; text-transform:uppercase;">07</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 8px 0; font-size:15px; letter-spacing:-0.01em;">UI / UX</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:12px; line-height:1.7; margin:0;">
-          Interfaces that feel intuitive, beautiful, and effortless.
-        </p>
-      </div>
-    </td>
-    <td width="10"></td>
-    <td width="220" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.7) 0%, rgba(22,27,34,0.3) 100%); border: 1px solid rgba(139,92,246,0.08); border-radius: 18px; padding: 28px; text-align:center; backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);">
-        <p style="margin:0 0 12px 0;">
-          <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="p8" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="6" y="6" width="24" height="24" rx="6" fill="url(#p8)" opacity="0.1"/>
-            <rect x="11" y="11" width="14" height="14" rx="3" fill="none" stroke="url(#p8)" stroke-width="1.5"/>
-            <rect x="14" y="14" width="8" height="8" rx="2" fill="none" stroke="url(#p8)" stroke-width="1" opacity="0.5"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:11px; font-weight:600; letter-spacing:0.1em; margin:0 0 8px 0; text-transform:uppercase;">08</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 8px 0; font-size:15px; letter-spacing:-0.01em;">Architecture</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:12px; line-height:1.7; margin:0;">
-          Flexible, secure, and future-proof system design.
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br><br><br>
-<!-- ============================================================= -->
-<!--                    ORNAMENTAL DIVIDER                          -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 DEVELOPMENT PHILOSOPHY                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <svg width="64" height="24" viewBox="0 0 64 24" xmlns="http://www.w3.org/2000/svg">
+  <svg width="840" height="420" viewBox="0 0 840 420" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
     <defs>
-      <linearGradient id="ornament7" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="30%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#0D1117"/>
+      <linearGradient id="pB" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      </linearGradient>
+      <linearGradient id="pc1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.1"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="pc2" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.08"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="pc3" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.06"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="pc4" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.08"/>
+        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.04"/>
       </linearGradient>
     </defs>
-    <circle cx="32" cy="12" r="3" fill="url(#ornament7)" opacity="0.8"/>
-    <line x1="8" y1="12" x2="26" y2="12" stroke="url(#ornament7)" stroke-width="1" opacity="0.4"/>
-    <line x1="38" y1="12" x2="56" y2="12" stroke="url(#ornament7)" stroke-width="1" opacity="0.4"/>
+    <rect x="20" y="20" width="800" height="380" rx="24" fill="#161B22" stroke="url(#pB)" stroke-width="1" opacity="0.5"/>
+    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">PRINCIPLES</text>
+    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
+    <!-- Row 1 -->
+    <rect x="50" y="90" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.1)" stroke-width="1"/>
+    <rect x="50" y="90" width="180" height="130" rx="14" fill="url(#pc1)" opacity="0.5"/>
+    <text x="80" y="120" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">01</text>
+    <text x="80" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Clean Code</text>
+    <text x="80" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Readable, maintainable,</text>
+    <text x="80" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">well-structured code.</text>
+    <rect x="250" y="90" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(167,139,250,0.1)" stroke-width="1"/>
+    <rect x="250" y="90" width="180" height="130" rx="14" fill="url(#pc2)" opacity="0.5"/>
+    <text x="280" y="120" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">02</text>
+    <text x="280" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Scalability</text>
+    <text x="280" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Systems that grow</text>
+    <text x="280" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">gracefully with demand.</text>
+    <rect x="450" y="90" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(192,132,252,0.1)" stroke-width="1"/>
+    <rect x="450" y="90" width="180" height="130" rx="14" fill="url(#pc3)" opacity="0.5"/>
+    <text x="480" y="120" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">03</text>
+    <text x="480" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Performance</text>
+    <text x="480" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Optimized for speed,</text>
+    <text x="480" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">efficiency, smooth UX.</text>
+    <rect x="650" y="90" width="170" height="130" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.1)" stroke-width="1"/>
+    <rect x="650" y="90" width="170" height="130" rx="14" fill="url(#pc4)" opacity="0.5"/>
+    <text x="680" y="120" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">04</text>
+    <text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Accessibility</text>
+    <text x="680" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Inclusive products that</text>
+    <text x="680" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">work for everyone.</text>
+    <!-- Row 2 -->
+    <rect x="50" y="240" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(192,132,252,0.1)" stroke-width="1"/>
+    <rect x="50" y="240" width="180" height="130" rx="14" fill="url(#pc3)" opacity="0.5"/>
+    <text x="80" y="270" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">05</text>
+    <text x="80" y="298" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">AI-First</text>
+    <text x="80" y="318" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Smarter, adaptive</text>
+    <text x="80" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">applications with AI.</text>
+    <rect x="250" y="240" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.1)" stroke-width="1"/>
+    <rect x="250" y="240" width="180" height="130" rx="14" fill="url(#pc1)" opacity="0.5"/>
+    <text x="280" y="270" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">06</text>
+    <text x="280" y="298" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Problem Solving</text>
+    <text x="280" y="318" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Breaking complexity into</text>
+    <text x="280" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">elegant solutions.</text>
+    <rect x="450" y="240" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(167,139,250,0.1)" stroke-width="1"/>
+    <rect x="450" y="240" width="180" height="130" rx="14" fill="url(#pc2)" opacity="0.5"/>
+    <text x="480" y="270" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">07</text>
+    <text x="480" y="298" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">UI / UX</text>
+    <text x="480" y="318" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Intuitive, beautiful</text>
+    <text x="480" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">interfaces with purpose.</text>
+    <rect x="650" y="240" width="170" height="130" rx="14" fill="#0D1117" stroke="rgba(192,132,252,0.1)" stroke-width="1"/>
+    <rect x="650" y="240" width="170" height="130" rx="14" fill="url(#pc4)" opacity="0.5"/>
+    <text x="680" y="270" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">08</text>
+    <text x="680" y="298" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Architecture</text>
+    <text x="680" y="318" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Robust, flexible, secure</text>
+    <text x="680" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">and future-proof systems.</text>
   </svg>
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                        WORKFLOW                                -->
-<!-- ============================================================= -->
-
-<h2 align="center" style="margin:0 0 8px 0;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:13px; font-weight:500; color:#8B5CF6; letter-spacing:0.2em; text-transform:uppercase;">
-    07 &mdash; Process
-  </span>
-</h2>
-
-<p align="center" style="margin-top:8px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:14px; font-weight:400; color:#475569;">
-    How ideas transform into polished products
-  </span>
-</p>
-
-<br><br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="150" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 24px 16px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-        <p style="margin:0 0 10px 0;">
-          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="w1" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <circle cx="14" cy="14" r="10" fill="none" stroke="url(#w1)" stroke-width="1.5"/>
-            <circle cx="14" cy="14" r="4" fill="url(#w1)" opacity="0.3"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:10px; font-weight:600; letter-spacing:0.15em; margin:0 0 6px 0; text-transform:uppercase;">Step 01</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 6px 0; font-size:13px;">Discover</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; line-height:1.6; margin:0;">Define the problem space and objectives</p>
-      </div>
-    </td>
-    <td width="16" align="center" valign="middle">
-      <svg width="16" height="2" viewBox="0 0 16 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="16" height="2" fill="#8B5CF6" rx="1" opacity="0.25"/>
-      </svg>
-    </td>
-    <td width="150" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 24px 16px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-        <p style="margin:0 0 10px 0;">
-          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="w2" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="5" y="5" width="18" height="18" rx="4" fill="none" stroke="url(#w2)" stroke-width="1.5"/>
-            <line x1="9" y1="11" x2="19" y2="11" stroke="url(#w2)" stroke-width="1" opacity="0.4"/>
-            <line x1="9" y1="15" x2="17" y2="15" stroke="url(#w2)" stroke-width="1" opacity="0.4"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:10px; font-weight:600; letter-spacing:0.15em; margin:0 0 6px 0; text-transform:uppercase;">Step 02</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 6px 0; font-size:13px;">Research</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; line-height:1.6; margin:0;">Explore solutions and best practices</p>
-      </div>
-    </td>
-    <td width="16" align="center" valign="middle">
-      <svg width="16" height="2" viewBox="0 0 16 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="16" height="2" fill="#8B5CF6" rx="1" opacity="0.25"/>
-      </svg>
-    </td>
-    <td width="150" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 24px 16px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-        <p style="margin:0 0 10px 0;">
-          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="w3" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <path d="M6 22 L6 10 L14 6 L22 10 L22 22 L14 26 Z" fill="none" stroke="url(#w3)" stroke-width="1.5" stroke-linejoin="round"/>
-            <circle cx="14" cy="16" r="3" fill="none" stroke="url(#w3)" stroke-width="1"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:10px; font-weight:600; letter-spacing:0.15em; margin:0 0 6px 0; text-transform:uppercase;">Step 03</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 6px 0; font-size:13px;">Design</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; line-height:1.6; margin:0;">Wireframes, prototypes, visual systems</p>
-      </div>
-    </td>
-    <td width="16" align="center" valign="middle">
-      <svg width="16" height="2" viewBox="0 0 16 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="16" height="2" fill="#8B5CF6" rx="1" opacity="0.25"/>
-      </svg>
-    </td>
-    <td width="150" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 24px 16px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-        <p style="margin:0 0 10px 0;">
-          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="w4" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="5" y="7" width="18" height="14" rx="3" fill="none" stroke="url(#w4)" stroke-width="1.5"/>
-            <line x1="5" y1="12" x2="23" y2="12" stroke="url(#w4)" stroke-width="1" opacity="0.4"/>
-            <circle cx="9" cy="17" r="1.5" fill="url(#w4)" opacity="0.5"/>
-            <line x1="13" y1="17" x2="19" y2="17" stroke="url(#w4)" stroke-width="1" opacity="0.3"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:10px; font-weight:600; letter-spacing:0.15em; margin:0 0 6px 0; text-transform:uppercase;">Step 04</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 6px 0; font-size:13px;">Develop</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; line-height:1.6; margin:0;">Clean, tested, efficient code</p>
-      </div>
-    </td>
-    <td width="16" align="center" valign="middle">
-      <svg width="16" height="2" viewBox="0 0 16 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="16" height="2" fill="#8B5CF6" rx="1" opacity="0.25"/>
-      </svg>
-    </td>
-    <td width="150" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 24px 16px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-        <p style="margin:0 0 10px 0;">
-          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="w5" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <path d="M6 14 L10 10 L14 14 L18 10 L22 14" fill="none" stroke="url(#w5)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-            <circle cx="22" cy="14" r="2" fill="url(#w5)" opacity="0.4"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:10px; font-weight:600; letter-spacing:0.15em; margin:0 0 6px 0; text-transform:uppercase;">Step 05</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 6px 0; font-size:13px;">Deploy</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; line-height:1.6; margin:0;">Ship with CI/CD pipelines</p>
-      </div>
-    </td>
-    <td width="16" align="center" valign="middle">
-      <svg width="16" height="2" viewBox="0 0 16 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="16" height="2" fill="#8B5CF6" rx="1" opacity="0.25"/>
-      </svg>
-    </td>
-    <td width="150" valign="top">
-      <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 24px 16px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-        <p style="margin:0 0 10px 0;">
-          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="w6" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <path d="M14 6 L14 12 M14 16 L14 22 M8 14 L12 14 M16 14 L20 14" fill="none" stroke="url(#w6)" stroke-width="1.5" stroke-linecap="round"/>
-            <circle cx="14" cy="14" r="3" fill="none" stroke="url(#w6)" stroke-width="1.5"/>
-          </svg>
-        </p>
-        <p style="color:#8B5CF6; font-family:Inter, -apple-system, sans-serif; font-size:10px; font-weight:600; letter-spacing:0.15em; margin:0 0 6px 0; text-transform:uppercase;">Step 06</p>
-        <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:0 0 6px 0; font-size:13px;">Iterate</h4>
-        <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; line-height:1.6; margin:0;">Gather feedback and improve</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br><br><br>
-
-<!-- ============================================================= -->
-<!--                    ORNAMENTAL DIVIDER                          -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CUSTOM SVG SEPARATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <svg width="64" height="24" viewBox="0 0 64 24" xmlns="http://www.w3.org/2000/svg">
+  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="ornament8" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="30%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#0D1117"/>
+      <linearGradient id="sep7" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
       </linearGradient>
     </defs>
-    <circle cx="32" cy="12" r="3" fill="url(#ornament8)" opacity="0.8"/>
-    <line x1="8" y1="12" x2="26" y2="12" stroke="url(#ornament8)" stroke-width="1" opacity="0.4"/>
-    <line x1="38" y1="12" x2="56" y2="12" stroke="url(#ornament8)" stroke-width="1" opacity="0.4"/>
+    <rect width="140" height="1.5" fill="url(#sep7)" rx="0.75"/>
   </svg>
 </p>
 
 <br><br><br>
 
-<!-- ============================================================= -->
-<!--                        CONTACT                                 -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        WORKFLOW                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center" style="margin:0 0 8px 0;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:13px; font-weight:500; color:#8B5CF6; letter-spacing:0.2em; text-transform:uppercase;">
-    08 &mdash; Connect
-  </span>
-</h2>
-
-<p align="center" style="margin-top:8px;">
-  <span style="font-family:Inter, -apple-system, sans-serif; font-size:14px; font-weight:400; color:#475569;">
-    Open to collaborations and new opportunities
-  </span>
+<p align="center">
+  <svg width="840" height="240" viewBox="0 0 840 240" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
+    <defs>
+      <linearGradient id="wB" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      </linearGradient>
+      <linearGradient id="sg" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.08"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="ag" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.3"/>
+        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.3"/>
+      </linearGradient>
+    </defs>
+    <rect x="20" y="20" width="800" height="200" rx="24" fill="#161B22" stroke="url(#wB)" stroke-width="1" opacity="0.5"/>
+    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">PROCESS</text>
+    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
+    <!-- Step 1 -->
+    <rect x="45" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
+    <rect x="45" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
+    <text x="97" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#8B5CF6" opacity="0.8">&#9673;</text>
+    <text x="97" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Discover</text>
+    <text x="97" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Identify the</text>
+    <text x="97" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">problem space</text>
+    <line x1="155" y1="142" x2="175" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
+    <polygon points="175,142 170,138 170,146" fill="#8B5CF6" opacity="0.4"/>
+    <!-- Step 2 -->
+    <rect x="185" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(167,139,250,0.12)" stroke-width="1"/>
+    <rect x="185" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
+    <text x="237" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#A78BFA" opacity="0.8">&#9672;</text>
+    <text x="237" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Research</text>
+    <text x="237" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Explore tools &amp;</text>
+    <text x="237" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">best practices</text>
+    <line x1="295" y1="142" x2="315" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
+    <polygon points="315,142 310,138 310,146" fill="#A78BFA" opacity="0.4"/>
+    <!-- Step 3 -->
+    <rect x="325" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(192,132,252,0.12)" stroke-width="1"/>
+    <rect x="325" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
+    <text x="377" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#C084FC" opacity="0.8">&#9671;</text>
+    <text x="377" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Design</text>
+    <text x="377" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Wireframes &amp;</text>
+    <text x="377" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">visual systems</text>
+    <line x1="435" y1="142" x2="455" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
+    <polygon points="455,142 450,138 450,146" fill="#C084FC" opacity="0.4"/>
+    <!-- Step 4 -->
+    <rect x="465" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
+    <rect x="465" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
+    <text x="517" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#8B5CF6" opacity="0.8">&#9670;</text>
+    <text x="517" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Develop</text>
+    <text x="517" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Clean, tested,</text>
+    <text x="517" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">efficient code</text>
+    <line x1="575" y1="142" x2="595" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
+    <polygon points="595,142 590,138 590,146" fill="#8B5CF6" opacity="0.4"/>
+    <!-- Step 5 -->
+    <rect x="605" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(167,139,250,0.12)" stroke-width="1"/>
+    <rect x="605" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
+    <text x="657" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#A78BFA" opacity="0.8">&#9673;</text>
+    <text x="657" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Deploy</text>
+    <text x="657" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">CI/CD to</text>
+    <text x="657" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">production</text>
+    <line x1="715" y1="142" x2="735" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
+    <polygon points="735,142 730,138 730,146" fill="#A78BFA" opacity="0.4"/>
+    <!-- Step 6 -->
+    <rect x="745" y="95" width="70" height="95" rx="12" fill="#0D1117" stroke="rgba(192,132,252,0.12)" stroke-width="1"/>
+    <rect x="745" y="95" width="70" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
+    <text x="780" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#C084FC" opacity="0.8">&#9674;</text>
+    <text x="780" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Iterate</text>
+    <text x="780" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Feedback &amp;</text>
+    <text x="780" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">improve</text>
+  </svg>
 </p>
 
-<br><br>
+<br><br><br>
 
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CUSTOM SVG SEPARATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table>
-  <tr>
-    <td width="190" valign="top">
-      <a href="https://github.com/daliadevstudio" style="text-decoration:none;">
-        <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 28px 20px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-          <img src="https://skillicons.dev/icons?i=github&theme=dark" width="28" alt="GitHub" />
-          <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:12px 0 4px 0; font-size:13px;">GitHub</h4>
-          <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; margin:0;">@daliadevstudio</p>
-        </div>
-      </a>
-    </td>
-    <td width="10"></td>
-    <td width="190" valign="top">
-      <a href="https://studio-dal-craft.lovable.app" style="text-decoration:none;">
-        <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 28px 20px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="c1" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <circle cx="14" cy="14" r="10" fill="none" stroke="url(#c1)" stroke-width="1.5"/>
-            <ellipse cx="14" cy="14" rx="4" ry="10" fill="none" stroke="url(#c1)" stroke-width="1" opacity="0.4"/>
-            <line x1="4" y1="14" x2="24" y2="14" stroke="url(#c1)" stroke-width="1" opacity="0.3"/>
-          </svg>
-          <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:12px 0 4px 0; font-size:13px;">Portfolio</h4>
-          <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; margin:0;">studio-dal-craft</p>
-        </div>
-      </a>
-    </td>
-    <td width="10"></td>
-    <td width="190" valign="top">
-      <a href="mailto:contact@dalia.dev" style="text-decoration:none;">
-        <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 28px 20px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-          <svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="c2" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#8B5CF6"/>
-                <stop offset="100%" stop-color="#C084FC"/>
-              </linearGradient>
-            </defs>
-            <rect x="5" y="8" width="18" height="12" rx="3" fill="none" stroke="url(#c2)" stroke-width="1.5"/>
-            <path d="M5 10 L14 16 L23 10" fill="none" stroke="url(#c2)" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-          <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:12px 0 4px 0; font-size:13px;">Email</h4>
-          <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; margin:0;">contact@dalia.dev</p>
-        </div>
-      </a>
-    </td>
-    <td width="10"></td>
-    <td width="190" valign="top">
-      <a href="#" style="text-decoration:none;">
-        <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 28px 20px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-          <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="28" alt="LinkedIn" />
-          <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:12px 0 4px 0; font-size:13px;">LinkedIn</h4>
-          <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; margin:0;">Coming soon</p>
-        </div>
-      </a>
-    </td>
-    <td width="10"></td>
-    <td width="190" valign="top">
-      <a href="#" style="text-decoration:none;">
-        <div style="background: linear-gradient(180deg, rgba(22,27,34,0.6) 0%, rgba(22,27,34,0.2) 100%); border: 1px solid rgba(139,92,246,0.1); border-radius: 16px; padding: 28px 20px; text-align:center; backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);">
-          <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="28" alt="Twitter" />
-          <h4 style="color:#F1F5F9; font-family:Inter, -apple-system, sans-serif; font-weight:600; margin:12px 0 4px 0; font-size:13px;">Twitter / X</h4>
-          <p style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:11px; margin:0;">Coming soon</p>
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="sep8" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="140" height="1.5" fill="url(#sep8)" rx="0.75"/>
+  </svg>
+</p>
 
-</div>
+<br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        CONTACT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <svg width="840" height="220" viewBox="0 0 840 220" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
+    <defs>
+      <linearGradient id="cB" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      </linearGradient>
+      <linearGradient id="cc1" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.08"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="cc2" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.06"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="cc3" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.06"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+      </linearGradient>
+      <linearGradient id="cc4" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.06"/>
+        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.04"/>
+      </linearGradient>
+      <linearGradient id="cc5" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.04"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.08"/>
+      </linearGradient>
+    </defs>
+    <rect x="20" y="20" width="800" height="180" rx="24" fill="#161B22" stroke="url(#cB)" stroke-width="1" opacity="0.5"/>
+    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">CONNECT</text>
+    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
+    <!-- GitHub -->
+    <a href="https://github.com/daliadevstudio">
+      <rect x="50" y="95" width="140" height="85" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
+      <rect x="50" y="95" width="140" height="85" rx="14" fill="url(#cc1)" opacity="0.5"/>
+      <text x="120" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#A78BFA">&#9670;</text>
+      <text x="120" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">GitHub</text>
+      <text x="120" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">@daliadevstudio</text>
+    </a>
+    <!-- Portfolio -->
+    <a href="https://studio-dal-craft.lovable.app">
+      <rect x="210" y="95" width="140" height="85" rx="14" fill="#0D1117" stroke="rgba(167,139,250,0.12)" stroke-width="1"/>
+      <rect x="210" y="95" width="140" height="85" rx="14" fill="url(#cc2)" opacity="0.5"/>
+      <text x="280" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#A78BFA">&#9671;</text>
+      <text x="280" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Portfolio</text>
+      <text x="280" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">studio-dal-craft</text>
+    </a>
+    <!-- Email -->
+    <a href="mailto:contact@dalia.dev">
+      <rect x="370" y="95" width="140" height="85" rx="14" fill="#0D1117" stroke="rgba(192,132,252,0.12)" stroke-width="1"/>
+      <rect x="370" y="95" width="140" height="85" rx="14" fill="url(#cc3)" opacity="0.5"/>
+      <text x="440" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#C084FC">&#9672;</text>
+      <text x="440" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Email</text>
+      <text x="440" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">contact@dalia.dev</text>
+    </a>
+    <!-- LinkedIn -->
+    <a href="#">
+      <rect x="530" y="95" width="140" height="85" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
+      <rect x="530" y="95" width="140" height="85" rx="14" fill="url(#cc4)" opacity="0.5"/>
+      <text x="600" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#8B5CF6">&#9673;</text>
+      <text x="600" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">LinkedIn</text>
+      <text x="600" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Coming soon</text>
+    </a>
+    <!-- Twitter -->
+    <a href="#">
+      <rect x="690" y="95" width="110" height="85" rx="14" fill="#0D1117" stroke="rgba(167,139,250,0.12)" stroke-width="1"/>
+      <rect x="690" y="95" width="110" height="85" rx="14" fill="url(#cc5)" opacity="0.5"/>
+      <text x="745" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#A78BFA">&#9674;</text>
+      <text x="745" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Twitter</text>
+      <text x="745" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Coming soon</text>
+    </a>
+  </svg>
+</p>
 
 <br><br><br><br>
 
-<!-- ============================================================= -->
-<!--                    ORNAMENTAL DIVIDER                          -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    CUSTOM SVG SEPARATOR                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <svg width="64" height="24" viewBox="0 0 64 24" xmlns="http://www.w3.org/2000/svg">
+  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="ornament9" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117"/>
-        <stop offset="30%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="50%" stop-color="#C084FC"/>
-        <stop offset="70%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#0D1117"/>
+      <linearGradient id="sep9" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
+        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
       </linearGradient>
     </defs>
-    <circle cx="32" cy="12" r="3" fill="url(#ornament9)" opacity="0.8"/>
-    <line x1="8" y1="12" x2="26" y2="12" stroke="url(#ornament9)" stroke-width="1" opacity="0.4"/>
-    <line x1="38" y1="12" x2="56" y2="12" stroke="url(#ornament9)" stroke-width="1" opacity="0.4"/>
+    <rect width="140" height="1.5" fill="url(#sep9)" rx="0.75"/>
   </svg>
 </p>
 
 <br><br>
 
-<!-- ============================================================= -->
-<!--                         FOOTER                                 -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center" style="color:#475569; font-family:Inter, -apple-system, sans-serif; font-size:13px; letter-spacing:0.05em;">
-  Crafted by <span style="color:#A78BFA; font-weight:500;">Dalia</span> with passion for beautiful software.
+<p align="center">
+  <svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
+    <defs>
+      <linearGradient id="fGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.1"/>
+        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.2"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.1"/>
+      </linearGradient>
+    </defs>
+    <rect x="50" y="10" width="300" height="60" rx="16" fill="#161B22" stroke="url(#fGrad)" stroke-width="1" opacity="0.4"/>
+    <text x="200" y="38" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" letter-spacing="0.06em" fill="#94A3B8">Crafted by <tspan fill="#A78BFA" font-weight="500">Dalia</tspan> with passion for</text>
+    <text x="200" y="56" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" letter-spacing="0.06em" fill="#94A3B8">beautiful software.</text>
+  </svg>
 </p>
 
-<p align="center" style="color:#334155; font-family:Inter, -apple-system, sans-serif; font-size:11px; margin-top:8px;">
-  <span style="color:#8B5CF6;">&copy;</span> 2026 Dalia &middot; All rights reserved
+<p align="center">
+  <span style="color:#64748B; font-size:10px; letter-spacing:0.1em;">
+    <span style="color:#8B5CF6;">&#169;</span> 2026 DALIA  &middot;  ALL RIGHTS RESERVED
+  </span>
 </p>
 
 <br><br>
 
-</div>
-
-<!-- ============================================================= -->
-<!--                    PROFILE VISIT COUNTER                       -->
-<!-- ============================================================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PROFILE VISIT COUNTER                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daliadevstudio&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=daliadevstudio&amp;color=8B5CF6&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views" />
 </p>
 
-<!-- ============================================================= -->
-<!--                      END OF README                             -->
-<!-- ============================================================= -->
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      END OF README                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+</div>
