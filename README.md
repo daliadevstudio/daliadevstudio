@@ -60,35 +60,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    STATS CARDS                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🚀 **5+**
-<sub>Years Shipping</sub>
-
-</td>
-<td align="center" width="25%">
-
-### 📦 **40+**
-<sub>Projects Delivered</sub>
-
-</td>
-<td align="center" width="25%">
-
-### 🛠️ **12**
-<sub>Technologies Mastered</sub>
-
-</td>
-<td align="center" width="25%">
-
-### 💯 **100%**
-<sub>Client-Focused</sub>
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -275,9 +246,6 @@ Eliminating busywork. Streamlining workflows across **tools, teams, and pipeline
 
 <br>
 
-<!-- GitHub Achievements Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=VOTRE-PSEUDO-GITHUB&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
-
 </div>
 
 ---
@@ -397,59 +365,6 @@ Written for the next engineer.
 │   └─────────────┘       └─────────────┘       └─────────────┘                     │
 │                                                                                     │
 └─────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
-
-> *Selected builds — real products, real users, real impact.*
-
-</div>
-
-<div align="center">
-
-<table width="95%">
-<tr>
-<th align="center" width="8%">#</th>
-<th align="center" width="22%">Project</th>
-<th align="center" width="45%">Description</th>
-<th align="center" width="25%">Tech Stack</th>
-</tr>
-<tr>
-<td align="center"><code>01</code></td>
-<td align="center"><b>Project One</b></td>
-<td>Premium full-stack platform with real-time data, AI insights & highly polished UI.</td>
-<td align="center"><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>AI</code></td>
-</tr>
-<tr>
-<td align="center"><code>02</code></td>
-<td align="center"><b>Project Two</b></td>
-<td>Automation tool streamlining workflows across multiple services with delightful UX.</td>
-<td align="center"><code>Node.js</code> <code>REST APIs</code> <code>Vite</code> <code>TypeScript</code></td>
-</tr>
-<tr>
-<td align="center"><code>03</code></td>
-<td align="center"><b>Project Three</b></td>
-<td>AI-powered assistant embedded in SaaS — RAG, embeddings, low-latency streaming.</td>
-<td align="center"><code>Python</code> <code>React</code> <code>OpenAI</code> <code>Postgres</code></td>
-</tr>
-<tr>
-<td align="center"><code>04</code></td>
-<td align="center"><b>Project Four</b></td>
-<td>Marketing site + CMS + analytics — Lighthouse 100, sub-second TTI, buttery motion.</td>
-<td align="center"><code>React</code> <code>Framer Motion</code> <code>Vite</code></td>
-</tr>
-</table>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    WHY WORK WITH ME                                     -->
@@ -556,19 +471,19 @@ Real AI features **embedded thoughtfully** — not sprinkled on top.
 <tr>
 <td align="center" width="33%">
 
-###**Arabic**
+**Arabic**
 Native
 
 </td>
 <td align="center" width="33%">
 
-###**French**
+**French**
 Fluent
 
 </td>
 <td align="center" width="33%">
 
-###**English**
+**English**
 Fluent
 
 </td>
@@ -637,16 +552,15 @@ Fluent
 
 ## <img src="https://media.giphy.com/media/CwQ3byHM4jLjy/giphy.gif" width="30"> GitHub Analytics
 
-> *Replace `VOTRE-PSEUDO-GITHUB` with your username below.*
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VOTRE-PSEUDO-GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&icon_color=A855F7&text_color=581C87&border_radius=16&custom_title=Dalia's%20GitHub%20Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE-PSEUDO-GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&text_color=581C87&border_radius=16&custom_title=Most%20Used%20Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio-GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&icon_color=A855F7&text_color=581C87&border_radius=16&custom_title=Dalia's%20GitHub%20Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio-GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&text_color=581C87&border_radius=16&custom_title=Most%20Used%20Languages" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VOTRE-PSEUDO-GITHUB&theme=radical&hide_border=true&background=FAF5FF&stroke=A855F7&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=581C87&currStreakNum=581C87&sideNums=581C87&border_radius=16" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daliadevstudio-GITHUB&theme=radical&hide_border=true&background=FAF5FF&stroke=A855F7&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=581C87&currStreakNum=581C87&sideNums=581C87&border_radius=16" width="80%" />
 
 <br><br>
 
@@ -692,41 +606,11 @@ Fluent
 
 <br>
 
-<a href="https://studio-dal-craft.lovable.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-C084FC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-<a href="mailto:contact@dalia.dev">
-  <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/💬_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/🎮_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-
-<br><br>
-
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=VOTRE-PSEUDO-GITHUB&color=A855F7&style=for-the-badge&label=Profile+Views" />
 
 <br><br>
 
-<!-- Spotify Now Playing -->
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?width=400&border=true&background=FAF5FF" />
-
-<br><br>
-
-<!-- Buy Me A Coffee -->
-<a href="#">
-  <img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=FAF5FF" />
-</a>
 
 <br><br>
 
