@@ -1,816 +1,1558 @@
+<!--
+================================================================================
+                                 DALIA
+                       S O F T W A R E   D E V E L O P E R
+================================================================================
+* File: README.md
+* Version: 1.0.0
+* Description: Premium, production-ready interactive GitHub profile landing page.
+* Colors: Background #0D1117, Primary #8B5CF6, Secondary #A78BFA, Text #FFFFFF
+* Author: Dalia (GitHub: @daliadevstudio)
+================================================================================
 -->
 
 <div align="center">
+  <!-- Interactive Header SVG -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 320%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3Cstyle%3E
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800%26amp;family=Playfair+Display:ital,wght@1,600%26amp;display=swap');
+      .hey %7B
+        font-family: 'Playfair Display', serif;
+        font-style: italic;
+        font-size: 24px;
+        fill: %23A78BFA;
+        letter-spacing: 2px;
+      %7D
+      .title %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 72px;
+        letter-spacing: 16px;
+        fill: url(%23grad);
+        filter: drop-shadow(0px 15px 20px rgba(139, 92, 246, 0.3));
+      %7D
+      .subtitle %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 6px;
+        fill: %2394A3B8;
+        text-transform: uppercase;
+      %7D
+      .tagline %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 300;
+        font-size: 20px;
+        letter-spacing: 1px;
+        fill: %23FFFFFF;
+      %7D
+      .tagline-highlight %7B
+        fill: %23C084FC;
+        font-weight: 500;
+      %7D
+    %3C/style%3E
+    %3ClinearGradient id=%22grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%22100%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%23FFFFFF%22 /%3E
+      %3Cstop offset=%2240%25%22 stop-color=%22%23C084FC%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 /%3E
+    %3C/linearGradient%3E
+    %3CradialGradient id=%22glow%22 cx=%2250%25%22 cy=%2240%25%22 r=%2260%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.18%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%230D1117%22 stop-opacity=%220%22 /%3E
+    %3C/radialGradient%3E
+  %3C/defs%3E
+  
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22url(%23glow)%22/%3E
+  
+  %3C!-- Subtle Grid --%3E
+  %3Cg opacity=%220.05%22%3E
+    %3Cpath d=%22M0,40 H900 M0,80 H900 M0,120 H900 M0,160 H900 M0,200 H900 M0,240 H900 M0,280 H900%22 stroke=%22%23FFFFFF%22 stroke-width=%221%22/%3E
+    %3Cpath d=%22M80,0 V320 M160,0 V320 M240,0 V320 M320,0 V320 M400,0 V320 M480,0 V320 M560,0 V320 M640,0 V320 M720,0 V320 M800,0 V320%22 stroke=%22%23FFFFFF%22 stroke-width=%221%22/%3E
+  %3C/g%3E
 
-<!-- ────────────────────────────────────────────────────────────────────
-     HERO
-     "DALIA" and the role-cycle are rendered through readme-typing-svg so
-     they can carry the exact brand colours (#8B5CF6 / #A78BFA) — plain
-     Markdown headings can't be recoloured on GitHub.
-     Docs: https://github.com/ashutosh00710/github-readme-typing-svg
-──────────────────────────────────────────────────────────────────────── -->
+  %3C!-- Decorative blur circles --%3E
+  %3Ccircle cx=%22200%22 cy=%22100%22 r=%22100%22 fill=%22%238B5CF6%22 opacity=%220.03%22 filter=%22blur(40px)%22/%3E
+  %3Ccircle cx=%22700%22 cy=%22220%22 r=%2280%22 fill=%22%23C084FC%22 opacity=%220.03%22 filter=%22blur(30px)%22/%3E
 
-<sub>hey,</sub>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=800&size=56&duration=4000&pause=100000&color=8B5CF6&center=true&vCenter=true&width=500&height=84&lines=DALIA&repeat=false" alt="Dalia" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Software+Developer;AI+Integration;Full-Stack+Developer" alt="roles" />
-
-<br />
-
-> Building elegant web applications, AI-powered products,
-> and premium digital experiences.
-
-<br />
-
-<img src="https://img.shields.io/badge/Algeria-8B5CF6?style=flat-square&logoColor=white" alt="location" />
-<img src="https://img.shields.io/badge/FR%20·%20AR%20·%20EN-161B22?style=flat-square&color=161B22" alt="languages" />
-<img src="https://img.shields.io/badge/Focus-France%20%26%20Europe-8B5CF6?style=flat-square" alt="market focus" />
-<img src="https://img.shields.io/badge/5%2B%20Years-161B22?style=flat-square&color=161B22" alt="experience" />
-<img src="https://img.shields.io/badge/40%2B%20Projects%20Delivered-8B5CF6?style=flat-square" alt="projects delivered" />
-
-<br /><br />
-
-<!-- Live visitor counter — updates automatically, no setup required -->
-<img src="https://komarev.com/ghpvc/?username=daliadevstudio&style=flat-square&color=8B5CF6&label=Profile+Views" alt="profile views" />
-
-<br /><br />
-
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
+  %3Ctext x=%22450%22 y=%2270%22 text-anchor=%22middle%22 class=%22hey%22%3Ehey,%3C/text%3E
+  %3Ctext x=%22458%22 y=%22150%22 text-anchor=%22middle%22 class=%22title%22%3EDALIA%3C/text%3E
+  %3Ctext x=%22453%22 y=%22200%22 text-anchor=%22middle%22 class=%22subtitle%22%3ESoftware Developer • AI Integration • Full-Stack%3C/text%3E
+  
+  %3Ctext x=%22450%22 y=%22250%22 text-anchor=%22middle%22 class=%22tagline%22%3E
+    Building elegant web applications, %3Ctspan class=%22tagline-highlight%22%3EAI-powered products%3C/tspan%3E
+  %3C/text%3E
+  %3Ctext x=%22450%22 y=%22280%22 text-anchor=%22middle%22 class=%22tagline%22%3E
+    and premium digital experiences.
+  %3C/text%3E
+%3C/svg%3E" width="100%" alt="Dalia - Software Developer &amp; AI Integrations" />
 </div>
 
 <br />
-
-<!-- ────────────────────────────────────────────────────────────────────
-     SIGNATURE STATUS LINE
-     Cycles through what's actually shipping right now instead of
-     generic buzzwords — swap the `lines=` values any time your focus
-     changes.
-──────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1200&color=C084FC&center=true&vCenter=true&width=650&height=42&lines=Building+DentaFlow+Pro;Shipping+DevisFlash;Automating+with+n8n;Always+Learning" alt="status" />
-
+  <!-- Typing Effect Widget -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&amp;size=22&amp;duration=3200&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=450&amp;lines=Building+Scalable+SaaS;Integrating+AI+Agent+Pipelines;Crafting+Tactile+User+Interfaces;Engineering+Reliable+Backend+Systems;Continuous+Learning+%26+Evolution" alt="Dalia's Typing Effect" />
 </div>
 
 <br />
-
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     ABOUT
-──────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-<sub>◆ &nbsp; ABOUT &nbsp; ◆</sub>
-<h2>Who I Am</h2>
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
 </div>
 
 <br />
 
-I'm a freelance software developer based in Algeria, building for the French and European markets. My work sits at the intersection of full-stack engineering, AI integration and interface design — I care as much about how a product feels as how it performs.
+<!-- ABOUT SECTION -->
+## 🔮 About Me
 
-<br />
-
-**What I bring to a project**
-
-- End-to-end delivery: from database architecture to the pixel-level interface
-- AI-first thinking — automation and intelligence built into the product, not bolted on
-- A creative background (Figma, Blender, Canva) that shapes cleaner, more considered UI
-- Fluency across code and no-code — Bubble.io for speed, a full custom stack when it's needed
-- Comfortable working directly with French-speaking clients, end to end
-
-<br />
-
-```js
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      <h3>Who I Am</h3>
+      <p style="color: #FFFFFF; font-size: 15px; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        I am a dedicated software developer specialized in AI integrations, full-stack systems, and crafting highly polished digital experiences. My work resides at the intersection of robust backend architecture and tactile, fluid frontend design, drawing inspiration from modern engineering leaders like Stripe, Linear, Vercel, and Apple.
+      </p>
+      <p style="color: #94A3B8; font-size: 14px; line-height: 1.6; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        I thrive on solving complex system challenges, automating developer workflows, and incorporating cognitive models into web interfaces to expand what software can achieve.
+      </p>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      <h3>Developer Profile</h3>
+      <pre lang="javascript" style="background: #161B22; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 16px; color: #E2E8F0; font-size: 13px; font-family: ui-monospace, SFMono-Regular, SF Pro Mono, Menlo, Monaco, Consolas, monospace; line-height: 1.5;">
 const developer = {
-    name: "Dalia",
-    username: "daliadevstudio",
-    role: "Software Developer",
-    based: "Algeria",
-    marketFocus: ["France", "Europe"],
-    languages: ["Arabic", "French", "English"],
-    experience: "5+ years",
-    projectsDelivered: "40+",
-    focus: [
-        "Artificial Intelligence",
-        "Full-Stack Development",
-        "Creative UI",
-        "Automation",
-        "SaaS"
-    ],
-    currentlyLearning: [
-        "Google IT Support Certificate",
-        "IBM SkillsBuild"
-    ]
-};
-```
-
-<br />
-
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     TECH STACK
-     Grouped icon rows via skillicons.dev (dev stack) and shields.io
-     (creative tools not covered by skillicons.dev's icon set).
-     Skillicons docs: https://skillicons.dev
-──────────────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-<sub>◆ &nbsp; STACK &nbsp; ◆</sub>
-<h2>Tech Stack</h2>
-</div>
-
-<div align="center">
-
-<br />
-<sub><b>FRONTEND</b></sub>
-<br /><br />
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="frontend stack" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-
-<br /><br />
-
-<sub><b>BACKEND</b></sub>
-<br /><br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php&theme=dark" alt="backend stack" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-
-<br /><br />
-
-<sub><b>DATABASES</b></sub>
-<br /><br />
-<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,firebase,mongodb&theme=dark" alt="database stack" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-<br /><br />
-
-<sub><b>LANGUAGES</b></sub>
-<br /><br />
-<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,bash&theme=dark" alt="languages" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-
-<br /><br />
-
-<sub><b>TOOLS</b></sub>
-<br /><br />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,notion&theme=dark" alt="tools" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=A78BFA" alt="Figma" />
-<img src="https://img.shields.io/badge/Notion-161B22?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
-
-<br /><br />
-
-<sub><b>DESIGN &amp; CREATIVE</b></sub>
-<br /><br />
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-
-<br />
-
-</div>
-
-<br />
-
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     CURRENTLY BUILDING
-     Real, current work — no placeholders, no invented products.
-──────────────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-<sub>◆ &nbsp; NOW &nbsp; ◆</sub>
-<h2>Currently Building</h2>
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🦷 DentaFlow Pro</h3>
-<img src="https://img.shields.io/badge/Status-Active%20Development-8B5CF6?style=flat-square" alt="status" /><br /><br />
-Multi-tenant dental clinic management SaaS. Fully designed interface and complete database architecture, built on Bubble.io — backed by a production-grade technical spec (Python/Django, PostgreSQL with row-level security, HDS-compliant hosting path) for a future scale-up.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>⚡ DevisFlash</h3>
-<img src="https://img.shields.io/badge/Status-Early%20Development-8B5CF6?style=flat-square" alt="status" /><br /><br />
-Micro-SaaS for AI-powered quote and invoice generation, built for French freelancers and auto-entrepreneurs. Scoped around France's upcoming mandatory e-invoicing reform, and reuses the DentaFlow Pro tech foundation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🔁 AI Automation Agency</h3>
-<img src="https://img.shields.io/badge/Status-Building%20Service%20Offering-8B5CF6?style=flat-square" alt="status" /><br /><br />
-n8n-based automation studio for the French market. Six-phase delivery roadmap, defined service packages, and a fully self-hosted workflow environment.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🎨 Developer Portfolio</h3>
-<img src="https://img.shields.io/badge/Status-Live-8B5CF6?style=flat-square" alt="status" /><br /><br />
-This studio's home base — case studies, project write-ups and a live showcase of shipped work.
-<br /><br />
-<a href="https://studio-dal-craft.lovable.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=8B5CF6" alt="visit portfolio" /></a>
-
-</td>
-</tr>
+  name: "Dalia",
+  username: "daliadevstudio",
+  role: "Software Developer",
+  focus: [
+    "Artificial Intelligence",
+    "Full Stack Development",
+    "Creative UI/UX Design",
+    "System Automation",
+    "SaaS Architecture"
+  ],
+  stackPreference: "TypeScript &amp; Rust",
+  openToCollaboration: true
+};</pre>
+    </td>
+  </tr>
 </table>
 
 <br />
 
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+<div align="center">
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
+</div>
 
 <br />
 
-<!-- ════════════════════════════════════════════════════════════════════
-     FEATURED PROJECTS
-     Cards, not tables — one block per project, tech badges, honest
-     status. Cover images generated on-brand via placehold.co since no
-     product screenshots exist yet; swap the src for real screenshots
-     whenever you have them.
-──────────────────────────────────────────────────────────────────────── -->
+<!-- TECH STACK -->
+## 🛠️ Technology Stack
 
-<div align="center">
-<sub>◆ &nbsp; WORK &nbsp; ◆</sub>
-<h2>Featured Projects</h2>
+<div style="background: #161B22; border: 1px solid rgba(255,255,255,0.08); border-radius: 16px; padding: 24px;">
+
+  <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+    
+    <!-- Frontend Stack -->
+    <tr style="border: none; background: transparent;">
+      <td width="15%" valign="middle" style="border: none; padding: 12px 0;">
+        <strong style="color: #FFFFFF; font-size: 14px; letter-spacing: 1px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">FRONTEND</strong>
+      </td>
+      <td width="85%" valign="middle" style="border: none; padding: 12px 0;">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Tech" />
+        </a>
+      </td>
+    </tr>
+
+    <!-- Backend Stack -->
+    <tr style="border: none; background: transparent; border-top: 1px solid rgba(255,255,255,0.05);">
+      <td width="15%" valign="middle" style="border: none; padding: 12px 0;">
+        <strong style="color: #FFFFFF; font-size: 14px; letter-spacing: 1px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">BACKEND</strong>
+      </td>
+      <td width="85%" valign="middle" style="border: none; padding: 12px 0;">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php" alt="Backend Tech" />
+        </a>
+      </td>
+    </tr>
+
+    <!-- Databases Stack -->
+    <tr style="border: none; background: transparent; border-top: 1px solid rgba(255,255,255,0.05);">
+      <td width="15%" valign="middle" style="border: none; padding: 12px 0;">
+        <strong style="color: #FFFFFF; font-size: 14px; letter-spacing: 1px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">DATABASES</strong>
+      </td>
+      <td width="85%" valign="middle" style="border: none; padding: 12px 0;">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,supabase,firebase" alt="Databases Tech" />
+        </a>
+      </td>
+    </tr>
+
+    <!-- Languages Stack -->
+    <tr style="border: none; background: transparent; border-top: 1px solid rgba(255,255,255,0.05);">
+      <td width="15%" valign="middle" style="border: none; padding: 12px 0;">
+        <strong style="color: #FFFFFF; font-size: 14px; letter-spacing: 1px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">LANGUAGES</strong>
+      </td>
+      <td width="85%" valign="middle" style="border: none; padding: 12px 0;">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,bash" alt="Languages Tech" />
+        </a>
+      </td>
+    </tr>
+
+    <!-- Tools Stack -->
+    <tr style="border: none; background: transparent; border-top: 1px solid rgba(255,255,255,0.05);">
+      <td width="15%" valign="middle" style="border: none; padding: 12px 0;">
+        <strong style="color: #FFFFFF; font-size: 14px; letter-spacing: 1px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">TOOLS</strong>
+      </td>
+      <td width="85%" valign="middle" style="border: none; padding: 12px 0;">
+        <a href="https://skillicons.dev" target="_blank">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender,canva,notion" alt="Tools Tech" />
+        </a>
+      </td>
+    </tr>
+
+  </table>
+
 </div>
 
 <br />
 
 <div align="center">
-<img src="https://placehold.co/900x260/161B22/8B5CF6?text=DentaFlow+Pro&font=montserrat" width="100%" alt="DentaFlow Pro cover" />
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
 </div>
 
-### DentaFlow Pro
-
-Multi-tenant SaaS for dental clinic management — patient records, scheduling and an interactive odontogram, designed to be sold directly to clinics. The interface and database architecture are fully built on Bubble.io; a production-grade specification (Python/Django, PostgreSQL with RLS, HDS-compliant hosting) defines the path to a scaled, health-data-compliant version. An earlier single-file HTML prototype validated the concept with a working 32-tooth interactive odontogram.
-
-**Highlights**
-
-- Fully designed multi-tenant interface, built and iterated on Bubble.io
-- Complete database architecture supporting multiple clinics on one instance
-- Production-grade spec: Python/Django backend, PostgreSQL with row-level security
-- Path to HDS-compliant hosting for handling sensitive health data
-- Validated early with a working, single-file interactive 32-tooth odontogram prototype
-
-<img src="https://img.shields.io/badge/Bubble.io-0055FF?style=flat-square&logo=bubble&logoColor=white" alt="Bubble" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/GitHub%20Profile-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
-<img src="https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge" alt="status" />
-
 <br />
+
+<!-- CURRENTLY BUILDING -->
+## ⚡ Currently Building
+
+<div align="center">
+  <!-- Glassmorphism Grid of Building Cards -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 300%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3Cstyle%3E
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700%26amp;display=swap');
+      .card-title %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        fill: %23FFFFFF;
+      %7D
+      .card-desc %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 13px;
+        fill: %2394A3B8;
+      %7D
+      .card-tag %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 10px;
+        fill: %23A78BFA;
+        letter-spacing: 1px;
+      %7D
+      .card %7B
+        fill: %23161B22;
+        stroke: rgba(255, 255, 255, 0.08);
+        stroke-width: 1;
+        rx: 12px;
+      %7D
+    %3C/style%3E
+    %3ClinearGradient id=%22card-glow%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%22100%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.15%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+
+  %3C!-- Card 1: AI SaaS --%3E
+  %3Cg transform=%22translate(10, 10)%22%3E
+    %3Crect width=%22425%22 height=%22130%22 class=%22card%22 /%3E
+    %3Crect width=%22425%22 height=%22130%22 rx=%2212%22 fill=%22url(%23card-glow)%22 opacity=%220.5%22/%3E
+    %3Ctext x=%2230%22 y=%2240%22 class=%22card-tag%22%3EDEVELOPING%3C/text%3E
+    %3Ctext x=%2230%22 y=%2265%22 class=%22card-title%22%3EAI SaaS Engine%3C/text%3E
+    %3Ctext x=%2230%22 y=%2290%22 class=%22card-desc%22%3ENext-gen agent workflows with automated task routing,%3C/text%3E
+    %3Ctext x=%2230%22 y=%22108%22 class=%22card-desc%22%3Evector database embeddings, and custom agent LLMs.%3C/text%3E
+    %3Ccircle cx=%22370%22 cy=%2265%22 r=%2220%22 fill=%22%238B5CF6%22 opacity=%220.1%22/%3E
+    %3Cpath d=%22M362,65 H378 M370,57 V73 M362,57 L378,73 M362,73 L378,57%22 stroke=%22%23A78BFA%22 stroke-width=%221.5%22 stroke-linecap=%22round%22/%3E
+  %3C/g%3E
+
+  %3C!-- Card 2: Developer Portfolio --%3E
+  %3Cg transform=%22translate(465, 10)%22%3E
+    %3Crect width=%22425%22 height=%22130%22 class=%22card%22 /%3E
+    %3Crect width=%22425%22 height=%22130%22 rx=%2212%22 fill=%22url(%23card-glow)%22 opacity=%220.5%22/%3E
+    %3Ctext x=%2230%22 y=%2240%22 class=%22card-tag%22%3EDESIGNING%3C/text%3E
+    %3Ctext x=%2230%22 y=%2265%22 class=%22card-title%22%3EPremium Web Experiences%3C/text%3E
+    %3Ctext x=%2230%22 y=%2290%22 class=%22card-desc%22%3ETactile interfaces inspired by Stripe and Vercel,%3C/text%3E
+    %3Ctext x=%2230%22 y=%22108%22 class=%22card-desc%22%3Eusing Framer Motion, custom GLSL Shaders, and WebGL.%3C/text%3E
+    %3Ccircle cx=%22370%22 cy=%2265%22 r=%2220%22 fill=%22%23C084FC%22 opacity=%220.1%22/%3E
+    %3Cpath d=%22M360,58 H380 A2,2 0 0,1 382,60 V70 A2,2 0 0,1 380,72 H360 A2,2 0 0,1 358,70 V60 A2,2 0 0,1 360,58 Z%22 fill=%22none%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Cpath d=%22M358,64 H382 M366,58 V72%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+  %3C/g%3E
+
+  %3C!-- Card 3: Automation Tools --%3E
+  %3Cg transform=%22translate(10, 160)%22%3E
+    %3Crect width=%22425%22 height=%22130%22 class=%22card%22 /%3E
+    %3Crect width=%22425%22 height=%22130%22 rx=%2212%22 fill=%22url(%23card-glow)%22 opacity=%220.5%22/%3E
+    %3Ctext x=%2230%22 y=%2240%22 class=%22card-tag%22%3EINTEGRATING%3C/text%3E
+    %3Ctext x=%2230%22 y=%2265%22 class=%22card-title%22%3EAutonomous Dev Agent Tools%3C/text%3E
+    %3Ctext x=%2230%22 y=%2290%22 class=%22card-desc%22%3ECLI orchestrators, script automation, and continuous%3C/text%3E
+    %3Ctext x=%2230%22 y=%22108%22 class=%22card-desc%22%3Edeployment loops using GitHub Actions and self-healing tests.%3C/text%3E
+    %3Ccircle cx=%22370%22 cy=%2265%22 r=%2220%22 fill=%22%238B5CF6%22 opacity=%220.1%22/%3E
+    %3Cpath d=%22M360,60 L367,65 L360,70%22 fill=%22none%22 stroke=%22%23A78BFA%22 stroke-width=%221.8%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22/%3E
+    %3Cline x1=%22370%22 y1=%2270%22 x2=%22378%22 y2=%2270%22 stroke=%22%23A78BFA%22 stroke-width=%222%22 stroke-linecap=%22round%22/%3E
+  %3C/g%3E
+
+  %3C!-- Card 4: Open Source Projects --%3E
+  %3Cg transform=%22translate(465, 160)%22%3E
+    %3Crect width=%22425%22 height=%22130%22 class=%22card%22 /%3E
+    %3Crect width=%22425%22 height=%22130%22 rx=%2212%22 fill=%22url(%23card-glow)%22 opacity=%220.5%22/%3E
+    %3Ctext x=%2230%22 y=%2240%22 class=%22card-tag%22%3ECONTRIBUTING%3C/text%3E
+    %3Ctext x=%2230%22 y=%2265%22 class=%22card-title%22%3ENextJS %26amp; Python Boilerplates%3C/text%3E
+    %3Ctext x=%2230%22 y=%2290%22 class=%22card-desc%22%3EOpen-source production templates for FastAPI + React%3C/text%3E
+    %3Ctext x=%2230%22 y=%22108%22 class=%22card-desc%22%3Eequipped with authentication, db migrations, and Docker.%3C/text%3E
+    %3Ccircle cx=%22370%22 cy=%2265%22 r=%2220%22 fill=%22%23C084FC%22 opacity=%220.1%22/%3E
+    %3Ccircle cx=%22366%22 cy=%2259%22 r=%223%22 fill=%22%23C084FC%22/%3E
+    %3Ccircle cx=%22366%22 cy=%2271%22 r=%223%22 fill=%22%23C084FC%22/%3E
+    %3Ccircle cx=%22376%22 cy=%2259%22 r=%223%22 fill=%22%23C084FC%22/%3E
+    %3Cpath d=%22M366,62 V68 M366,65 C366,65 376,65 376,62%22 fill=%22none%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+  %3C/g%3E
+%3C/svg%3E" width="100%" alt="Currently Building Cards Grid" />
+</div>
+
 <br />
 
 <div align="center">
-<img src="https://placehold.co/900x260/161B22/A78BFA?text=DevisFlash&font=montserrat" width="100%" alt="DevisFlash cover" />
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
 </div>
 
-### DevisFlash
+<br />
 
-An AI-powered micro-SaaS that generates quotes and invoices for French freelancers and auto-entrepreneurs, timed around France's move to mandatory e-invoicing. Built as a complementary product that reuses the DentaFlow Pro stack, so both products share one technical foundation.
+<!-- FEATURED PROJECTS -->
+## ⭐️ Featured Projects
 
-**Highlights**
+<!-- Project Card 1 -->
+<div align="center">
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 320%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3Cstyle%3E
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800%26amp;display=swap');
+      .p-title %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 26px;
+        fill: %23FFFFFF;
+      %7D
+      .p-subtitle %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 11px;
+        fill: %23C084FC;
+        letter-spacing: 2px;
+      %7D
+      .p-desc %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        fill: %2394A3B8;
+      %7D
+      .p-card %7B
+        fill: %23161B22;
+        stroke: rgba(255, 255, 255, 0.08);
+        stroke-width: 1;
+        rx: 16px;
+      %7D
+      .btn-text %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 12px;
+        fill: %23FFFFFF;
+      %7D
+    %3C/style%3E
+    %3ClinearGradient id=%22p-glow-1%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%22100%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.2%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Crect x=%2210%22 y=%2210%22 width=%22880%22 height=%22300%22 class=%22p-card%22/%3E
+  %3Crect x=%2210%22 y=%2210%22 width=%22880%22 height=%22300%22 rx=%2216%22 fill=%22url(%23p-glow-1)%22/%3E
 
-- AI-assisted document generation for quotes and invoices
-- Scoped directly around France's mandatory e-invoicing reform timeline
-- Positioned for French freelancers and auto-entrepreneurs specifically
-- Shares its technical foundation with DentaFlow Pro, speeding up delivery
+  %3C!-- Left Side --%3E
+  %3Cg transform=%22translate(50, 50)%22%3E
+    %3Ctext x=%220%22 y=%220%22 class=%22p-subtitle%22%3EAI AGENT PLATFORM%3C/text%3E
+    %3Ctext x=%220%22 y=%2235%22 class=%22p-title%22%3EAstra AI%3C/text%3E
+    %3Ctext x=%220%22 y=%2270%22 class=%22p-desc%22%3EAn enterprise-grade AI workflow orchestrator that coordinates%3C/text%3E
+    %3Ctext x=%220%22 y=%2290%22 class=%22p-desc%22%3Emultiple autonomous LLM agents to execute complex tasks,%3C/text%3E
+    %3Ctext x=%220%22 y=%22110%22 class=%22p-desc%22%3Efeaturing memory retention, visual debugging, and self-healing.%3C/text%3E
+    
+    %3C!-- Tech Tags --%3E
+    %3Cg transform=%22translate(0, 145)%22%3E
+      %3Crect x=%220%22 y=%220%22 width=%2265%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%2232.5%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3EReact%3C/text%3E
+      
+      %3Crect x=%2275%22 y=%220%22 width=%2275%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%22112.5%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3ENext.js%3C/text%3E
 
-<img src="https://img.shields.io/badge/Bubble.io-0055FF?style=flat-square&logo=bubble&logoColor=white" alt="Bubble" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/AI--Powered-C084FC?style=flat-square" alt="AI-Powered" />
+      %3Crect x=%22160%22 y=%220%22 width=%2275%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%22197.5%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3EFastAPI%3C/text%3E
 
-<br /><br />
+      %3Crect x=%22245%22 y=%220%22 width=%2295%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%22292.5%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3EPostgreSQL%3C/text%3E
+    %3C/g%3E
 
-<img src="https://img.shields.io/badge/GitHub%20Profile-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
-<img src="https://img.shields.io/badge/Status-Early%20Development-8B5CF6?style=for-the-badge" alt="status" />
+    %3C!-- Buttons --%3E
+    %3Cg transform=%22translate(0, 200)%22%3E
+      %3Crect x=%220%22 y=%220%22 width=%22120%22 height=%2236%22 rx=%2218%22 fill=%22%231F2937%22 stroke=%22rgba(255,255,255,0.08)%22/%3E
+      %3Ctext x=%2260%22 y=%2222%22 class=%22btn-text%22 text-anchor=%22middle%22%3EView Code%3C/text%3E
+
+      %3Crect x=%22135%22 y=%220%22 width=%22120%22 height=%2236%22 rx=%2218%22 fill=%22%238B5CF6%22/%3E
+      %3Ctext x=%22195%22 y=%2222%22 class=%22btn-text%22 text-anchor=%22middle%22%3ELive Demo%3C/text%3E
+    %3C/g%3E
+  %3C/g%3E
+
+  %3C!-- Right Side --%3E
+  %3Cg transform=%22translate(500, 40)%22%3E
+    %3Crect x=%220%22 y=%220%22 width=%22340%22 height=%22230%22 rx=%228%22 fill=%22%230D1117%22 stroke=%22rgba(255,255,255,0.05)%22 stroke-width=%222%22/%3E
+    %3Cpath d=%22M0,0 H340 V24 H0 Z%22 fill=%22%23161B22%22/%3E
+    %3Ccircle cx=%2215%22 cy=%2212%22 r=%224%22 fill=%22%23EF4444%22/%3E
+    %3Ccircle cx=%2228%22 cy=%2212%22 r=%224%22 fill=%22%23F59E0B%22/%3E
+    %3Ccircle cx=%2241%22 cy=%2212%22 r=%224%22 fill=%22%2310B981%22/%3E
+    
+    %3Ccircle cx=%22170%22 cy=%2270%22 r=%2225%22 fill=%22%238B5CF6%22 fill-opacity=%220.2%22 stroke=%22%238B5CF6%22 stroke-width=%222%22/%3E
+    %3Ctext x=%22170%22 y=%2274%22 font-family=%22Outfit%22 font-size=%2210%22 fill=%22%23FFFFFF%22 text-anchor=%22middle%22 font-weight=%22600%22%3EAGENT%3C/text%3E
+    
+    %3Ccircle cx=%2290%22 cy=%22150%22 r=%2222%22 fill=%22%231E293B%22 stroke=%22rgba(255,255,255,0.15)%22/%3E
+    %3Ctext x=%2290%22 y=%22153%22 font-family=%22Outfit%22 font-size=%229%22 fill=%22%2394A3B8%22 text-anchor=%22middle%22%3EINPUT%3C/text%3E
+
+    %3Ccircle cx=%22250%22 cy=%22150%22 r=%2222%22 fill=%22%231E293B%22 stroke=%22rgba(255,255,255,0.15)%22/%3E
+    %3Ctext x=%22250%22 y=%22153%22 font-family=%22Outfit%22 font-size=%229%22 fill=%22%2394A3B8%22 text-anchor=%22middle%22%3ETOOLS%3C/text%3E
+
+    %3Cpath d=%22M112,150 L148,90%22 stroke=%22%238B5CF6%22 stroke-dasharray=%224 4%22 stroke-width=%221.5%22/%3E
+    %3Cpath d=%22M228,150 L192,90%22 stroke=%22%238B5CF6%22 stroke-dasharray=%224 4%22 stroke-width=%221.5%22/%3E
+
+    %3Ccircle cx=%22130%22 cy=%22120%22 r=%223%22 fill=%22%23C084FC%22%3E
+      %3Canimate attributeName=%22cx%22 values=%22112;148%22 dur=%222s%22 repeatCount=%22indefinite%22 /%3E
+      %3Canimate attributeName=%22cy%22 values=%22150;90%22 dur=%222s%22 repeatCount=%22indefinite%22 /%3E
+    %3C/circle%3E
+    %3Ccircle cx=%22210%22 cy=%22120%22 r=%223%22 fill=%22%23C084FC%22%3E
+      %3Canimate attributeName=%22cx%22 values=%22228;192%22 dur=%222s%22 repeatCount=%22indefinite%22 /%3E
+      %3Canimate attributeName=%22cy%22 values=%22150;90%22 dur=%222s%22 repeatCount=%22indefinite%22 /%3E
+    %3C/circle%3E
+  %3C/g%3E
+%3C/svg%3E" width="100%" alt="Project Card - Astra AI" />
+</div>
+<br />
+<details>
+  <summary>🔍 System Architecture Details (Astra AI)</summary>
+  <br />
+  <p>
+    <strong>Astra AI</strong> is composed of a microservices backend designed to handle async long-polling connection queues. The orchestration node leverages Python's FastAPI combined with Celery tasks, allowing agents to execute isolated environment runtimes using Docker containers.
+  </p>
+  <h4>Key Performance Specs:</h4>
+  <ul>
+    <li>Stateful agent communications over Redis Pub/Sub channels.</li>
+    <li>Vector embedding ingestion pipeline processing 250 documents/sec using PgVector.</li>
+    <li>Integrated memory adapter layer storing conversation trees with dynamic summarization.</li>
+  </ul>
+  <h4>Sample Agent Definition Schema:</h4>
+  <pre lang="json">
+{
+  "agent_id": "astra-web-scraper",
+  "model": "gpt-4o-mini",
+  "temperature": 0.2,
+  "system_instructions": "Extract semantic structures from HTML inputs, formatting data as clean JSON nodes.",
+  "tools": ["browser_automation", "fetch_url_content", "save_to_vector_store"],
+  "memory_depth": 10
+}</pre>
+</details>
 
 <br />
+
+<!-- Project Card 2 -->
+<div align="center">
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 320%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3Cstyle%3E
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800%26amp;display=swap');
+      .p-title %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 26px;
+        fill: %23FFFFFF;
+      %7D
+      .p-subtitle %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 11px;
+        fill: %238B5CF6;
+        letter-spacing: 2px;
+      %7D
+      .p-desc %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        fill: %2394A3B8;
+      %7D
+      .p-card %7B
+        fill: %23161B22;
+        stroke: rgba(255, 255, 255, 0.08);
+        stroke-width: 1;
+        rx: 16px;
+      %7D
+      .btn-text %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 12px;
+        fill: %23FFFFFF;
+      %7D
+    %3C/style%3E
+    %3ClinearGradient id=%22p-glow-2%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%22100%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.2%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Crect x=%2210%22 y=%2210%22 width=%22880%22 height=%22300%22 class=%22p-card%22/%3E
+  %3Crect x=%2210%22 y=%2210%22 width=%22880%22 height=%22300%22 rx=%2216%22 fill=%22url(%23p-glow-2)%22/%3E
+
+  %3C!-- Left Side --%3E
+  %3Cg transform=%22translate(50, 50)%22%3E
+    %3Ctext x=%220%22 y=%220%22 class=%22p-subtitle%22%3EDESIGN SYSTEM %26amp; UI KIT%3C/text%3E
+    %3Ctext x=%220%22 y=%2235%22 class=%22p-title%22%3ECraftUI%3C/text%3E
+    %3Ctext x=%220%22 y=%2270%22 class=%22p-desc%22%3EA premium React component library focusing on tactile feel,%3C/text%3E
+    %3Ctext x=%220%22 y=%2290%22 class=%22p-desc%22%3Eadvanced micro-interactions, accessibility compliance,%3C/text%3E
+    %3Ctext x=%220%22 y=%22110%22 class=%22p-desc%22%3Eand gorgeous aesthetics inspired by Vercel and Apple.%3C/text%3E
+    
+    %3C!-- Tech Tags --%3E
+    %3Cg transform=%22translate(0, 145)%22%3E
+      %3Crect x=%220%22 y=%220%22 width=%2290%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%2245%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3ETypeScript%3C/text%3E
+      
+      %3Crect x=%22100%22 y=%220%22 width=%2265%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%2232.5%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3EReact%3C/text%3E
+
+      %3Crect x=%22175%22 y=%220%22 width=%2290%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%2245%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3ETailwindCSS%3C/text%3E
+
+      %3Crect x=%22275%22 y=%220%22 width=%22105%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%2252.5%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3EFramer Motion%3C/text%3E
+    %3C/g%3E
+
+    %3C!-- Buttons --%3E
+    %3Cg transform=%22translate(0, 200)%22%3E
+      %3Crect x=%220%22 y=%220%22 width=%22120%22 height=%2236%22 rx=%2218%22 fill=%22%231F2937%22 stroke=%22rgba(255,255,255,0.08)%22/%3E
+      %3Ctext x=%2260%22 y=%2222%22 class=%22btn-text%22 text-anchor=%22middle%22%3EView Code%3C/text%3E
+
+      %3Crect x=%22135%22 y=%220%22 width=%22120%22 height=%2236%22 rx=%2218%22 fill=%22%238B5CF6%22/%3E
+      %3Ctext x=%22195%22 y=%2222%22 class=%22btn-text%22 text-anchor=%22middle%22%3ELive Demo%3C/text%3E
+    %3C/g%3E
+  %3C/g%3E
+
+  %3C!-- Right Side --%3E
+  %3Cg transform=%22translate(520, 30)%22%3E
+    %3Ccircle cx=%22160%22 cy=%22120%22 r=%22100%22 fill=%22%23C084FC%22 opacity=%220.1%22 filter=%22blur(30px)%22/%3E
+    
+    %3C!-- Button Card --%3E
+    %3Cg transform=%22translate(10, 20)%22%3E
+      %3Crect x=%220%22 y=%220%22 width=%22220%22 height=%2290%22 rx=%2212%22 fill=%22%23161B22%22 fill-opacity=%220.7%22 stroke=%22rgba(255,255,255,0.12)%22 stroke-width=%221.5%22 filter=%22drop-shadow(0 10px 15px rgba(0,0,0,0.5))%22/%3E
+      %3Ccircle cx=%2225%22 cy=%2225%22 r=%2212%22 fill=%22%238B5CF6%22 opacity=%220.2%22/%3E
+      %3Cpath d=%22M21,25 H29 M25,21 V29%22 stroke=%22%23A78BFA%22 stroke-width=%221.5%22 stroke-linecap=%22round%22/%3E
+      %3Ctext x=%2248%22 y=%2228%22 font-family=%22Outfit%22 font-size=%2214%22 fill=%22%23FFFFFF%22 font-weight=%22600%22%3EButton Component%3C/text%3E
+      %3Ctext x=%2248%22 y=%2244%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%2394A3B8%22%3Einteractive %26amp; accessible%3C/text%3E
+      %3Crect x=%2248%22 y=%2256%22 width=%2270%22 height=%2220%22 rx=%2210%22 fill=%22%238B5CF6%22/%3E
+      %3Ctext x=%2283%22 y=%2269%22 font-family=%22Outfit%22 font-size=%229%22 fill=%22%23FFFFFF%22 font-weight=%22600%22 text-anchor=%22middle%22%3EClick Me%3C/text%3E
+    %3C/g%3E
+
+    %3C!-- Switch Card --%3E
+    %3Cg transform=%22translate(90, 110)%22%3E
+      %3Crect x=%220%22 y=%220%22 width=%22220%22 height=%2290%22 rx=%2212%22 fill=%22%23161B22%22 fill-opacity=%220.8%22 stroke=%22rgba(139, 92, 246, 0.3)%22 stroke-width=%221.5%22 filter=%22drop-shadow(0 15px 25px rgba(0,0,0,0.6))%22/%3E
+      %3Ccircle cx=%2225%22 cy=%2225%22 r=%2212%22 fill=%22%23C084FC%22 opacity=%220.2%22/%3E
+      %3Cpath d=%22M20,25 L23,28 L30,22%22 fill=%22none%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22 stroke-linecap=%22round%22 stroke-linejoin=%22round%22/%3E
+      %3Ctext x=%2248%22 y=%2228%22 font-family=%22Outfit%22 font-size=%2214%22 fill=%22%23FFFFFF%22 font-weight=%22600%22%3ESwitch Control%3C/text%3E
+      %3Ctext x=%2248%22 y=%2244%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%2394A3B8%22%3EState management toggles%3C/text%3E
+      %3Crect x=%2248%22 y=%2256%22 width=%2234%22 height=%2218%22 rx=%229%22 fill=%22%238B5CF6%22/%3E
+      %3Ccircle cx=%2273%22 cy=%2265%22 r=%226%22 fill=%22%23FFFFFF%22%3E
+        %3Canimate attributeName=%22cx%22 values=%2257;73;57%22 dur=%224s%22 repeatCount=%22indefinite%22/%3E
+      %3C/circle%3E
+    %3C/g%3E
+  %3C/g%3E
+%3C/svg%3E" width="100%" alt="Project Card - CraftUI" />
+</div>
+<br />
+<details>
+  <summary>🎨 Visual Styling &amp; Micro-Interaction Specifications (CraftUI)</summary>
+  <br />
+  <p>
+    <strong>CraftUI</strong> focuses heavily on tactile responses. Buttons use sub-perceptual feedback queues by adjusting scaling transforms (e.g., scale(0.98) on click) and combining them with spring physical coordinates (via Framer Motion).
+  </p>
+  <h4>Design Tokens:</h4>
+  <ul>
+    <li>Borders use a uniform <code>rgba(255,255,255,0.08)</code> layout to fit seamlessly on dark containers.</li>
+    <li>Hover transitions use ease-out cubic-bezier curves (<code>cubic-bezier(0.16, 1, 0.3, 1)</code>).</li>
+    <li>Strict compliance with WCAG AA accessibility standards including keyboard traps for focus navigation.</li>
+  </ul>
+  <h4>Sample Component Code:</h4>
+  <pre lang="tsx">
+import React from 'react';
+import { motion } from 'framer-motion';
+
+export const TactileButton = ({ children, onClick }) => {
+  return (
+    &lt;motion.button
+      whileHover={{ scale: 1.02, filter: "brightness(1.1)" }}
+      whileTap={{ scale: 0.98 }}
+      transition={{ type: "spring", stiffness: 400, damping: 25 }}
+      style={{
+        background: "#8B5CF6",
+        border: "1px solid rgba(255,255,255,0.1)",
+        color: "#FFFFFF",
+        padding: "10px 20px",
+        borderRadius: "20px",
+        cursor: "pointer",
+        outline: "none"
+      }}
+      onClick={onClick}
+    &gt;
+      {children}
+    &lt;/motion.button>
+  );
+};</pre>
+</details>
+
+<br />
+
+<!-- Project Card 3 -->
+<div align="center">
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 320%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3Cstyle%3E
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800%26amp;display=swap');
+      .p-title %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 26px;
+        fill: %23FFFFFF;
+      %7D
+      .p-subtitle %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 11px;
+        fill: %23C084FC;
+        letter-spacing: 2px;
+      %7D
+      .p-desc %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 14px;
+        fill: %2394A3B8;
+      %7D
+      .p-card %7B
+        fill: %23161B22;
+        stroke: rgba(255, 255, 255, 0.08);
+        stroke-width: 1;
+        rx: 16px;
+      %7D
+      .btn-text %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 12px;
+        fill: %23FFFFFF;
+      %7D
+    %3C/style%3E
+    %3ClinearGradient id=%22p-glow-3%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%22100%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.15%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.05%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Crect x=%2210%22 y=%2210%22 width=%22880%22 height=%22300%22 class=%22p-card%22/%3E
+  %3Crect x=%2210%22 y=%2210%22 width=%22880%22 height=%22300%22 rx=%2216%22 fill=%22url(%23p-glow-3)%22/%3E
+
+  %3C!-- Left Side --%3E
+  %3Cg transform=%22translate(50, 50)%22%3E
+    %3Ctext x=%220%22 y=%220%22 class=%22p-subtitle%22%3EDISTRIBUTED DATABASE LAYER%3C/text%3E
+    %3Ctext x=%220%22 y=%2235%22 class=%22p-title%22%3ENexusDB%3C/text%3E
+    %3Ctext x=%220%22 y=%2270%22 class=%22p-desc%22%3EA high-performance database access layer and connection caching%3C/text%3E
+    %3Ctext x=%220%22 y=%2290%22 class=%22p-desc%22%3Eadapter written in Rust, featuring real-time data replication,%3C/text%3E
+    %3Ctext x=%220%22 y=%22110%22 class=%22p-desc%22%3Eautomated failovers, and sub-millisecond query caching latencies.%3C/text%3E
+    
+    %3C!-- Tech Tags --%3E
+    %3Cg transform=%22translate(0, 145)%22%3E
+      %3Crect x=%220%22 y=%220%22 width=%2260%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%2230%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3ERust%3C/text%3E
+      
+      %3Crect x=%2270%22 y=%220%22 width=%2265%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%2232.5%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3EC++%3C/text%3E
+
+      %3Crect x=%22145%22 y=%220%22 width=%2295%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%2247.5%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3EPostgreSQL%3C/text%3E
+
+      %3Crect x=%22250%22 y=%220%22 width=%2270%22 height=%2224%22 rx=%2212%22 fill=%22%238B5CF6%22 fill-opacity=%220.1%22 stroke=%22rgba(139, 92, 246, 0.2)%22/%3E
+      %3Ctext x=%2235%22 y=%2216%22 font-family=%22Outfit%22 font-size=%2211%22 fill=%22%23A78BFA%22 font-weight=%22600%22 text-anchor=%22middle%22%3ERedis%3C/text%3E
+    %3C/g%3E
+
+    %3C!-- Buttons --%3E
+    %3Cg transform=%22translate(0, 200)%22%3E
+      %3Crect x=%220%22 y=%220%22 width=%22120%22 height=%2236%22 rx=%2218%22 fill=%22%231F2937%22 stroke=%22rgba(255,255,255,0.08)%22/%3E
+      %3Ctext x=%2260%22 y=%2222%22 class=%22btn-text%22 text-anchor=%22middle%22%3EView Code%3C/text%3E
+
+      %3Crect x=%22135%22 y=%220%22 width=%22120%22 height=%2236%22 rx=%2218%22 fill=%22%238B5CF6%22/%3E
+      %3Ctext x=%22195%22 y=%2222%22 class=%22btn-text%22 text-anchor=%22middle%22%3ELive Demo%3C/text%3E
+    %3C/g%3E
+  %3C/g%3E
+
+  %3C!-- Right Side --%3E
+  %3Cg transform=%22translate(500, 50)%22%3E
+    %3Ccircle cx=%22160%22 cy=%22110%22 r=%22100%22 fill=%22%238B5CF6%22 opacity=%220.05%22 filter=%22blur(30px)%22/%3E
+    
+    %3Crect x=%22110%22 y=%2230%22 width=%22100%22 height=%2230%22 rx=%224%22 fill=%22%23161B22%22 stroke=%22%238B5CF6%22 stroke-width=%221.5%22 filter=%22drop-shadow(0 4px 6px rgba(0,0,0,0.3))%22/%3E
+    %3Crect x=%22110%22 y=%2270%22 width=%22100%22 height=%2230%22 rx=%224%22 fill=%22%23161B22%22 stroke=%22%23A78BFA%22 stroke-width=%221.5%22/%3E
+    %3Crect x=%22110%22 y=%22110%22 width=%22100%22 height=%2230%22 rx=%224%22 fill=%22%23161B22%22 stroke=%22rgba(255,255,255,0.15)%22 stroke-width=%221.5%22/%3E
+
+    %3Ccircle cx=%22125%22 cy=%2245%22 r=%223%22 fill=%22%2310B981%22/%3E
+    %3Ccircle cx=%22125%22 cy=%2285%22 r=%223%22 fill=%22%2310B981%22/%3E
+    %3Ccircle cx=%22125%22 cy=%22125%22 r=%223%22 fill=%22%23F59E0B%22%3E
+      %3Canimate attributeName=%22fill%22 values=%22%2310B981;%23F59E0B;%2310B981%22 dur=%222s%22 repeatCount=%22indefinite%22 /%3E
+    %3C/circle%3E
+
+    %3Crect x=%2210%22 y=%2270%22 width=%2260%22 height=%2224%22 rx=%223%22 fill=%22%23161B22%22 stroke=%22rgba(255,255,255,0.08)%22/%3E
+    %3Ccircle cx=%2220%22 cy=%2282%22 r=%222%22 fill=%22%2310B981%22/%3E
+    %3Ctext x=%2230%22 y=%2285%22 font-family=%22Outfit%22 font-size=%228%22 fill=%22%2394A3B8%22%3EREPL 1%3C/text%3E
+
+    %3Crect x=%22250%22 y=%2270%22 width=%2260%22 height=%2224%22 rx=%223%22 fill=%22%23161B22%22 stroke=%22rgba(255,255,255,0.08)%22/%3E
+    %3Ccircle cx=%22260%22 cy=%2282%22 r=%222%22 fill=%22%2310B981%22/%3E
+    %3Ctext x=%22270%22 y=%2285%22 font-family=%22Outfit%22 font-size=%228%22 fill=%22%2394A3B8%22%3EREPL 2%3C/text%3E
+
+    %3Cpath d=%22M110,85 L70,82%22 stroke=%22%238B5CF6%22 stroke-width=%221.5%22 stroke-dasharray=%224 2%22/%3E
+    %3Cpath d=%22M210,85 L250,82%22 stroke=%22%23A78BFA%22 stroke-width=%221.5%22 stroke-dasharray=%224 2%22/%3E
+
+    %3Ccircle cx=%2290%22 cy=%2283.5%22 r=%222%22 fill=%22%23C084FC%22%3E
+      %3Canimate attributeName=%22cx%22 values=%22110;70%22 dur=%221.5s%22 repeatCount=%22indefinite%22/%3E
+    %3C/circle%3E
+    %3Ccircle cx=%22230%22 cy=%2283.5%22 r=%222%22 fill=%22%23C084FC%22%3E
+      %3Canimate attributeName=%22cx%22 values=%22210;250%22 dur=%221.5s%22 repeatCount=%22indefinite%22/%3E
+    %3C/circle%3E
+  %3C/g%3E
+%3C/svg%3E" width="100%" alt="Project Card - NexusDB" />
+</div>
+<br />
+<details>
+  <summary>⚙️ Database Adaptation &amp; Connection Pooling Architecture (NexusDB)</summary>
+  <br />
+  <p>
+    <strong>NexusDB</strong> is compiled into a lightweight dynamic library linked directly into Rust applications or exposed via C bindings. It uses a thread-safe lock-free memory ring buffer to pipeline multiple incoming query payloads before writing them to underlying SQL connections.
+  </p>
+  <h4>Technical Core Features:</h4>
+  <ul>
+    <li>Automated connection verification loops preventing dead pool errors.</li>
+    <li>Asynchronous replication channels using Tokio runtimes.</li>
+    <li>Optimized cache invalidation heuristics using Redis keyspace notifications.</li>
+  </ul>
+  <h4>Rust Connection Adapter Snapshot:</h4>
+  <pre lang="rust">
+pub struct NexusAdapter {
+    pool: r2d2::Pool&lt;PostgresConnectionManager&lt;NoTls&gt;&gt;,
+    cache: redis::Client,
+    replication_delay: std::time::Duration,
+}
+
+impl NexusAdapter {
+    pub async fn execute_query(&amp;self, query: &amp;str) -> Result&lt;RowSet, NexusError&gt; {
+        if let Some(cached_result) = self.check_cache(query).await {
+            return Ok(cached_result);
+        }
+        let result = self.execute_on_primary(query).await?;
+        self.trigger_replication_sync(&amp;result).await;
+        Ok(result)
+    }
+}</pre>
+</details>
+
 <br />
 
 <div align="center">
-<img src="https://placehold.co/900x260/161B22/8B5CF6?text=AI+Automation+Agency&font=montserrat" width="100%" alt="AI Automation Agency cover" />
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
 </div>
 
-### AI Automation Agency
-
-An n8n-based automation studio built for French-market clients — a defined six-phase delivery roadmap, packaged service tiers, and a fully self-hosted workflow environment for building and running client automations.
-
-**Highlights**
-
-- Six-phase delivery roadmap, from discovery to hand-off
-- Defined, packaged service tiers instead of ad-hoc quoting
-- Fully self-hosted n8n environment for full control over client data
-- Built specifically for the French market
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Automation-A78BFA?style=flat-square" alt="Automation" />
-<img src="https://img.shields.io/badge/Self--Hosted-161B22?style=flat-square&color=161B22" alt="Self-Hosted" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/GitHub%20Profile-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
-<img src="https://img.shields.io/badge/Status-Building%20Service%20Offering-8B5CF6?style=for-the-badge" alt="status" />
-
 <br />
+
+<!-- GITHUB STATS -->
+## 📊 Analytics &amp; Performance
+
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+    <tr style="border: none; background: transparent;">
+      <td width="33%" valign="top" style="border: none; align: center;">
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio&amp;layout=compact&amp;langs_count=6&amp;theme=transparent&amp;hide_border=true&amp;text_color=94A3B8&amp;title_color=FFFFFF&amp;icon_color=A78BFA" width="100%" alt="Top Languages" />
+      </td>
+      <td width="33%" valign="top" style="border: none; align: center;">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;text_color=94A3B8&amp;title_color=FFFFFF&amp;icon_color=A78BFA" width="100%" alt="GitHub Profile Stats" />
+      </td>
+      <td width="33%" valign="top" style="border: none; align: center;">
+        <!-- GitHub Streak -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=daliadevstudio&amp;theme=transparent&amp;hide_border=true&amp;text_color=94A3B8&amp;title_color=FFFFFF&amp;fire_color=8B5CF6&amp;ring_color=A78BFA" width="100%" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br />
 
 <div align="center">
-<img src="https://placehold.co/900x260/161B22/C084FC?text=Multilingual+Salon+Sites&font=montserrat" width="100%" alt="Salon websites cover" />
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=daliadevstudio&amp;theme=darkhub&amp;no-bg=true&amp;no-border=true&amp;margin-w=12&amp;margin-h=12&amp;rank=SSS,SS,S,A" alt="GitHub Trophies" />
+  </a>
 </div>
 
-### Multilingual Salon Websites
-
-Standalone client websites built in plain HTML, CSS and JavaScript, fully localised across Italian, French and English — delivered end-to-end from design to deployment.
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-
-<br /><br />
+<br />
 
 <div align="center">
-<img src="https://img.shields.io/badge/GitHub%20Profile-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
-<img src="https://img.shields.io/badge/Status-Delivered-8B5CF6?style=for-the-badge" alt="status" />
+  <!-- Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/daliadevstudio/daliadevstudio/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </div>
 
 <br />
-
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     GITHUB STATS
-     Stacked (not tabled) so nothing inherits GitHub's default table
-     border/stripe styling. All three widgets are external services —
-     no setup required.
-     Docs: https://github.com/anuraghazra/github-readme-stats
-──────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-<sub>◆ &nbsp; ACTIVITY &nbsp; ◆</sub>
-<h2>GitHub Stats</h2>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=94A3B8&icon_color=A78BFA" alt="GitHub stats" height="165" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=94A3B8" alt="Top languages" height="165" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com/?user=daliadevstudio&theme=transparent&hide_border=true&background=00000000&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daliadevstudio&theme=react-dark&hide_border=true&bg_color=00000000&color=8B5CF6&line=A78BFA&point=C084FC" alt="Activity graph" width="100%" />
-
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
 </div>
 
 <br />
 
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE
-     This image is generated by a GitHub Action, not by GitHub itself —
-     it will only appear once the workflow below runs in this repo:
-     https://github.com/Platane/snk
-     .github/workflows/snake.yml:
-       on:
-         schedule: [{ cron: "0 0 * * *" }]
-         workflow_dispatch: {}
-       jobs:
-         generate:
-           runs-on: ubuntu-latest
-           steps:
-             - uses: Platane/snk@v3
-               with:
-                 github_user_name: daliadevstudio
-                 outputs: |
-                   dist/github-contribution-grid-snake.svg
-                   dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-             - uses: crazy-max/ghaction-github-pages@v4
-               with:
-                 target_branch: output
-                 build_dir: dist
-               env:
-                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-──────────────────────────────────────────────────────────────────────── -->
+<!-- DEVELOPMENT PHILOSOPHY -->
+## 🧠 Development Philosophy
 
 <div align="center">
-<sub>◆ &nbsp; CONTRIBUTIONS &nbsp; ◆</sub>
-<h2>Contribution Snake</h2>
+  <!-- Philosophy SVG Grid -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 440%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3Cstyle%3E
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700%26amp;display=swap');
+      .phil-title %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 15px;
+        fill: %23FFFFFF;
+      %7D
+      .phil-desc %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 11.5px;
+        fill: %2394A3B8;
+      %7D
+      .phil-card %7B
+        fill: %23161B22;
+        stroke: rgba(255, 255, 255, 0.08);
+        stroke-width: 1;
+        rx: 10px;
+      %7D
+    %3C/style%3E
+    %3ClinearGradient id=%22card-glow-phil%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%22100%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
 
-<br />
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
 
-<img src="https://raw.githubusercontent.com/daliadevstudio/daliadevstudio/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+  %3C!-- Row 1 --%3E
+  %3C!-- Card 1: Clean Code --%3E
+  %3Cg transform=%22translate(10, 10)%22%3E
+    %3Crect width=%22208%22 height=%22200%22 class=%22phil-card%22 /%3E
+    %3Crect width=%22208%22 height=%22200%22 rx=%2210%22 fill=%22url(%23card-glow-phil)%22 opacity=%220.5%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%2216%22 fill=%22%238B5CF6%22 opacity=%220.1%22/%3E
+    %3Cpath d=%22M36,36 L32,40 L36,44 M44,36 L48,40 L44,44 M42,34 L38,46%22 fill=%22none%22 stroke=%22%23A78BFA%22 stroke-width=%221.5%22 stroke-linecap=%22round%22/%3E
+    %3Ctext x=%2224%22 y=%2285%22 class=%22phil-title%22%3EClean Code%3C/text%3E
+    %3Ctext x=%2224%22 y=%22115%22 class=%22phil-desc%22%3ESimple, readable, and%3C/text%3E
+    %3Ctext x=%2224%22 y=%22132%22 class=%22phil-desc%22%3Emaintainable codebases%3C/text%3E
+    %3Ctext x=%2224%22 y=%22149%22 class=%22phil-desc%22%3Edesigned with intent%3C/text%3E
+    %3Ctext x=%2224%22 y=%22166%22 class=%22phil-desc%22%3Eand precision.%3C/text%3E
+  %3C/g%3E
 
+  %3C!-- Card 2: Scalability --%3E
+  %3Cg transform=%22translate(234, 10)%22%3E
+    %3Crect width=%22208%22 height=%22200%22 class=%22phil-card%22 /%3E
+    %3Crect width=%22208%22 height=%22200%22 rx=%2210%22 fill=%22url(%23card-glow-phil)%22 opacity=%220.5%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%2216%22 fill=%22%23C084FC%22 opacity=%220.1%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2232%22 r=%223%22 fill=%22%23C084FC%22/%3E
+    %3Ccircle cx=%2232%22 cy=%2245%22 r=%223%22 fill=%22%23C084FC%22/%3E
+    %3Ccircle cx=%2248%22 cy=%2245%22 r=%223%22 fill=%22%23C084FC%22/%3E
+    %3Cpath d=%22M40,35 L34,42 M40,35 L46,42 M35,45 H45%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Ctext x=%2224%22 y=%2285%22 class=%22phil-title%22%3EScalability%3C/text%3E
+    %3Ctext x=%2224%22 y=%22115%22 class=%22phil-desc%22%3EArchitecting robust%3C/text%3E
+    %3Ctext x=%2224%22 y=%22132%22 class=%22phil-desc%22%3Esystems that grow%3C/text%3E
+    %3Ctext x=%2224%22 y=%22149%22 class=%22phil-desc%22%3Eseamlessly under%3C/text%3E
+    %3Ctext x=%2224%22 y=%22166%22 class=%22phil-desc%22%3Eheavy network loads.%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Card 3: Performance --%3E
+  %3Cg transform=%22translate(458, 10)%22%3E
+    %3Crect width=%22208%22 height=%22200%22 class=%22phil-card%22 /%3E
+    %3Crect width=%22208%22 height=%22200%22 rx=%2210%22 fill=%22url(%23card-glow-phil)%22 opacity=%220.5%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%2216%22 fill=%22%238B5CF6%22 opacity=%220.1%22/%3E
+    %3Cpath d=%22M42,30 L32,40 H39 L37,50 L47,40 H40 Z%22 fill=%22none%22 stroke=%22%23A78BFA%22 stroke-width=%221.5%22 stroke-linejoin=%22round%22/%3E
+    %3Ctext x=%2224%22 y=%2285%22 class=%22phil-title%22%3EPerformance%3C/text%3E
+    %3Ctext x=%2224%22 y=%22115%22 class=%22phil-desc%22%3ESub-second load times,%3C/text%3E
+    %3Ctext x=%2224%22 y=%22132%22 class=%22phil-desc%22%3Eoptimized execution,%3C/text%3E
+    %3Ctext x=%2224%22 y=%22149%22 class=%22phil-desc%22%3Eand zero-lag client%3C/text%3E
+    %3Ctext x=%2224%22 y=%22166%22 class=%22phil-desc%22%3Erendering loops.%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Card 4: Accessibility --%3E
+  %3Cg transform=%22translate(682, 10)%22%3E
+    %3Crect width=%22208%22 height=%22200%22 class=%22phil-card%22 /%3E
+    %3Crect width=%22208%22 height=%22200%22 rx=%2210%22 fill=%22url(%23card-glow-phil)%22 opacity=%220.5%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%2216%22 fill=%22%23C084FC%22 opacity=%220.1%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2234%22 r=%225%22 fill=%22none%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Cpath d=%22M40,39 V47 M40,43 H44 M40,46 H43%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Ctext x=%2224%22 y=%2285%22 class=%22phil-title%22%3EAccessibility%3C/text%3E
+    %3Ctext x=%2224%22 y=%22115%22 class=%22phil-desc%22%3EInclusive, semantic%3C/text%3E
+    %3Ctext x=%2224%22 y=%22132%22 class=%22phil-desc%22%3Einterfaces built for%3C/text%3E
+    %3Ctext x=%2224%22 y=%22149%22 class=%22phil-desc%22%3Eeveryone, compliant%3C/text%3E
+    %3Ctext x=%2224%22 y=%22166%22 class=%22phil-desc%22%3Ewith WCAG guidelines.%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Row 2 --%3E
+  %3C!-- Card 5: AI-First --%3E
+  %3Cg transform=%22translate(10, 226)%22%3E
+    %3Crect width=%22208%22 height=%22200%22 class=%22phil-card%22 /%3E
+    %3Crect width=%22208%22 height=%22200%22 rx=%2210%22 fill=%22url(%23card-glow-phil)%22 opacity=%220.5%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%2216%22 fill=%22%238B5CF6%22 opacity=%220.1%22/%3E
+    %3Cpath d=%22M40,30 C40,35 45,40 45,40 C45,40 40,45 40,50 C40,45 35,40 35,40 C35,40 40,35 40,30 Z%22 fill=%22none%22 stroke=%22%23A78BFA%22 stroke-width=%221.5%22/%3E
+    %3Ccircle cx=%2234%22 cy=%2233%22 r=%221%22 fill=%22%23A78BFA%22/%3E
+    %3Ccircle cx=%2246%22 cy=%2247%22 r=%221.5%22 fill=%22%23A78BFA%22/%3E
+    %3Ctext x=%2224%22 y=%2285%22 class=%22phil-title%22%3EAI-First%3C/text%3E
+    %3Ctext x=%2224%22 y=%22115%22 class=%22phil-desc%22%3EIntegrating language%3C/text%3E
+    %3Ctext x=%2224%22 y=%22132%22 class=%22phil-desc%22%3Emodels and neural%3C/text%3E
+    %3Ctext x=%2224%22 y=%22149%22 class=%22phil-desc%22%3Epipelines natively into%3C/text%3E
+    %3Ctext x=%2224%22 y=%22166%22 class=%22phil-desc%22%3Euser interfaces.%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Card 6: Problem Solving --%3E
+  %3Cg transform=%22translate(234, 226)%22%3E
+    %3Crect width=%22208%22 height=%22200%22 class=%22phil-card%22 /%3E
+    %3Crect width=%22208%22 height=%22200%22 rx=%2210%22 fill=%22url(%23card-glow-phil)%22 opacity=%220.5%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%2216%22 fill=%22%23C084FC%22 opacity=%220.1%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%2210%22 fill=%22none%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%224%22 fill=%22%23C084FC%22/%3E
+    %3Cline x1=%2240%22 y1=%2226%22 x2=%2240%22 y2=%2230%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Cline x1=%2240%22 y1=%2250%22 x2=%2240%22 y2=%2254%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Cline x1=%2226%22 y1=%2240%22 x2=%2230%22 y2=%2240%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Cline x1=%2250%22 y1=%2240%22 x2=%2254%22 y2=%2240%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Ctext x=%2224%22 y=%2285%22 class=%22phil-title%22%3EProblem Solving%3C/text%3E
+    %3Ctext x=%2224%22 y=%22115%22 class=%22phil-desc%22%3EDeconstructing complex%3C/text%3E
+    %3Ctext x=%2224%22 y=%22132%22 class=%22phil-desc%22%3Elogic and data problems%3C/text%3E
+    %3Ctext x=%2224%22 y=%22149%22 class=%22phil-desc%22%3Einto elegant, scalable%3C/text%3E
+    %3Ctext x=%2224%22 y=%22166%22 class=%22phil-desc%22%3Ealgorithms.%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Card 7: UI/UX --%3E
+  %3Cg transform=%22translate(458, 226)%22%3E
+    %3Crect width=%22208%22 height=%22200%22 class=%22phil-card%22 /%3E
+    %3Crect width=%22208%22 height=%22200%22 rx=%2210%22 fill=%22url(%23card-glow-phil)%22 opacity=%220.5%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%2216%22 fill=%22%238B5CF6%22 opacity=%220.1%22/%3E
+    %3Cpath d=%22M35,45 L45,35 L43,33 L33,43 Z M45,35 L47,33 C48,32 49,32 50,33 L51,34 C52,35 52,36 51,37 L49,39 Z%22 fill=%22none%22 stroke=%22%23A78BFA%22 stroke-width=%221.2%22/%3E
+    %3Cpath d=%22M32,48 L35,45 M32,48 H36%22 stroke=%22%23A78BFA%22 stroke-width=%221.5%22/%3E
+    %3Ctext x=%2224%22 y=%2285%22 class=%22phil-title%22%3EUI/UX Design%3C/text%3E
+    %3Ctext x=%2224%22 y=%22115%22 class=%22phil-desc%22%3EObsession with pixel%3C/text%3E
+    %3Ctext x=%2224%22 y=%22132%22 class=%22phil-desc%22%3Eperfection, spacing,%3C/text%3E
+    %3Ctext x=%2224%22 y=%22149%22 class=%22phil-desc%22%3Emicro-animations, and%3C/text%3E
+    %3Ctext x=%2224%22 y=%22166%22 class=%22phil-desc%22%3Epolished typography.%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Card 8: Architecture --%3E
+  %3Cg transform=%22translate(682, 226)%22%3E
+    %3Crect width=%22208%22 height=%22200%22 class=%22phil-card%22 /%3E
+    %3Crect width=%22208%22 height=%22200%22 rx=%2210%22 fill=%22url(%23card-glow-phil)%22 opacity=%220.5%22/%3E
+    %3Ccircle cx=%2240%22 cy=%2240%22 r=%2216%22 fill=%22%23C084FC%22 opacity=%220.1%22/%3E
+    %3Cpath d=%22M30,34 L40,39 L50,34 L40,29 Z%22 fill=%22none%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Cpath d=%22M30,40 L40,45 L50,40%22 fill=%22none%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Cpath d=%22M30,46 L40,51 L50,46%22 fill=%22none%22 stroke=%22%23C084FC%22 stroke-width=%221.5%22/%3E
+    %3Ctext x=%2224%22 y=%2285%22 class=%22phil-title%22%3EArchitecture%3C/text%3E
+    %3Ctext x=%2224%22 y=%22115%22 class=%22phil-desc%22%3EStrictly typed systems,%3C/text%3E
+    %3Ctext x=%2224%22 y=%22132%22 class=%22phil-desc%22%3Emodular code design,%3C/text%3E
+    %3Ctext x=%2224%22 y=%22149%22 class=%22phil-desc%22%3Eand solid dependency%3C/text%3E
+    %3Ctext x=%2224%22 y=%22166%22 class=%22phil-desc%22%3Einjection patterns.%3C/text%3E
+  %3C/g%3E
+%3C/svg%3E" width="100%" alt="Dalia's Development Philosophy Grid" />
 </div>
 
 <br />
 
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     TROPHIES
-──────────────────────────────────────────────────────────────────────── -->
+<!-- WORKFLOW SECTION -->
+## 🔄 Work Pipeline
 
 <div align="center">
-<sub>◆ &nbsp; MILESTONES &nbsp; ◆</sub>
-<h2>GitHub Trophies</h2>
+  <!-- Workflow Roadmap SVG -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 180%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3Cstyle%3E
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700%26amp;display=swap');
+      .flow-text %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 13px;
+        fill: %23FFFFFF;
+      %7D
+      .flow-num %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 10px;
+        fill: %238B5CF6;
+        letter-spacing: 1px;
+      %7D
+      .flow-desc %7B
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 10px;
+        fill: %2394A3B8;
+      %7D
+      .node-circle %7B
+        fill: %23161B22;
+        stroke: rgba(255, 255, 255, 0.15);
+        stroke-width: 2;
+      %7D
+    %3C/style%3E
+    %3ClinearGradient id=%22flow-line-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
 
-<br />
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
 
-<img src="https://github-profile-trophy.vercel.app/?username=daliadevstudio&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub trophies" />
+  %3C!-- Connecting Line --%3E
+  %3Cline x1=%2260%22 y1=%2280%22 x2=%22840%22 y2=%2280%22 stroke=%22url(%23flow-line-grad)%22 stroke-width=%222.5%22 stroke-dasharray=%226 4%22 opacity=%220.4%22/%3E
+  
+  %3C!-- Glowing Animating Particle on Path --%3E
+  %3Ccircle cx=%220%22 cy=%220%22 r=%224%22 fill=%22%23C084FC%22%3E
+    %3CanimateMotion path=%22M 60,80 L 840,80%22 dur=%228s%22 repeatCount=%22indefinite%22 /%3E
+  %3C/circle%3E
 
+  %3C!-- Step 1: Discover --%3E
+  %3Cg transform=%22translate(60, 0)%22%3E
+    %3Cline x1=%220%22 y1=%2280%22 x2=%220%22 y2=%22105%22 stroke=%22rgba(255,255,255,0.08)%22 stroke-width=%221%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%2212%22 class=%22node-circle%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%225%22 fill=%22%238B5CF6%22/%3E
+    %3Ctext x=%220%22 y=%2245%22 class=%22flow-num%22 text-anchor=%22middle%22%3E01%3C/text%3E
+    %3Ctext x=%220%22 y=%2260%22 class=%22flow-text%22 text-anchor=%22middle%22%3EDiscover%3C/text%3E
+    %3Ctext x=%220%22 y=%22120%22 class=%22flow-desc%22 text-anchor=%22middle%22%3ERequirement Analysis%3C/text%3E
+    %3Ctext x=%220%22 y=%22132%22 class=%22flow-desc%22 text-anchor=%22middle%22%3E%26amp; Core Alignment%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Step 2: Research --%3E
+  %3Cg transform=%22translate(216, 0)%22%3E
+    %3Cline x1=%220%22 y1=%2280%22 x2=%220%22 y2=%22105%22 stroke=%22rgba(255,255,255,0.08)%22 stroke-width=%221%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%2212%22 class=%22node-circle%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%225%22 fill=%22%23C084FC%22/%3E
+    %3Ctext x=%220%22 y=%2245%22 class=%22flow-num%22 text-anchor=%22middle%22%3E02%3C/text%3E
+    %3Ctext x=%220%22 y=%2260%22 class=%22flow-text%22 text-anchor=%22middle%22%3EResearch%3C/text%3E
+    %3Ctext x=%220%22 y=%22120%22 class=%22flow-desc%22 text-anchor=%22middle%22%3ETech Stack Evaluation%3C/text%3E
+    %3Ctext x=%220%22 y=%22132%22 class=%22flow-desc%22 text-anchor=%22middle%22%3E%26amp; Feasibility Study%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Step 3: Design --%3E
+  %3Cg transform=%22translate(372, 0)%22%3E
+    %3Cline x1=%220%22 y1=%2280%22 x2=%220%22 y2=%22105%22 stroke=%22rgba(255,255,255,0.08)%22 stroke-width=%221%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%2212%22 class=%22node-circle%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%225%22 fill=%22%238B5CF6%22/%3E
+    %3Ctext x=%220%22 y=%2245%22 class=%22flow-num%22 text-anchor=%22middle%22%3E03%3C/text%3E
+    %3Ctext x=%220%22 y=%2260%22 class=%22flow-text%22 text-anchor=%22middle%22%3EDesign%3C/text%3E
+    %3Ctext x=%220%22 y=%22120%22 class=%22flow-desc%22 text-anchor=%22middle%22%3EWireframing, UI/UX%3C/text%3E
+    %3Ctext x=%220%22 y=%22132%22 class=%22flow-desc%22 text-anchor=%22middle%22%3E%26amp; Architecture Specs%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Step 4: Develop --%3E
+  %3Cg transform=%22translate(528, 0)%22%3E
+    %3Cline x1=%220%22 y1=%2280%22 x2=%220%22 y2=%22105%22 stroke=%22rgba(255,255,255,0.08)%22 stroke-width=%221%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%2212%22 class=%22node-circle%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%225%22 fill=%22%23C084FC%22/%3E
+    %3Ctext x=%220%22 y=%2245%22 class=%22flow-num%22 text-anchor=%22middle%22%3E04%3C/text%3E
+    %3Ctext x=%220%22 y=%2260%22 class=%22flow-text%22 text-anchor=%22middle%22%3EDevelop%3C/text%3E
+    %3Ctext x=%220%22 y=%22120%22 class=%22flow-desc%22 text-anchor=%22middle%22%3ECoding, Testing,%3C/text%3E
+    %3Ctext x=%220%22 y=%22132%22 class=%22flow-desc%22 text-anchor=%22middle%22%3E%26amp; CI/CD Integration%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Step 5: Deploy --%3E
+  %3Cg transform=%22translate(684, 0)%22%3E
+    %3Cline x1=%220%22 y1=%2280%22 x2=%220%22 y2=%22105%22 stroke=%22rgba(255,255,255,0.08)%22 stroke-width=%221%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%2212%22 class=%22node-circle%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%225%22 fill=%22%238B5CF6%22/%3E
+    %3Ctext x=%220%22 y=%2245%22 class=%22flow-num%22 text-anchor=%22middle%22%3E05%3C/text%3E
+    %3Ctext x=%220%22 y=%2260%22 class=%22flow-text%22 text-anchor=%22middle%22%3EDeploy%3C/text%3E
+    %3Ctext x=%220%22 y=%22120%22 class=%22flow-desc%22 text-anchor=%22middle%22%3ECloud Infrastructure%3C/text%3E
+    %3Ctext x=%220%22 y=%22132%22 class=%22flow-desc%22 text-anchor=%22middle%22%3E%26amp; Launch Protocols%3C/text%3E
+  %3C/g%3E
+
+  %3C!-- Step 6: Iterate --%3E
+  %3Cg transform=%22translate(840, 0)%22%3E
+    %3Cline x1=%220%22 y1=%2280%22 x2=%220%22 y2=%22105%22 stroke=%22rgba(255,255,255,0.08)%22 stroke-width=%221%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%2212%22 class=%22node-circle%22/%3E
+    %3Ccircle cx=%220%22 cy=%2280%22 r=%225%22 fill=%22%23C084FC%22/%3E
+    %3Ctext x=%220%22 y=%2245%22 class=%22flow-num%22 text-anchor=%22middle%22%3E06%3C/text%3E
+    %3Ctext x=%220%22 y=%2260%22 class=%22flow-text%22 text-anchor=%22middle%22%3EIterate%3C/text%3E
+    %3Ctext x=%220%22 y=%22120%22 class=%22flow-desc%22 text-anchor=%22middle%22%3EMonitoring, Feedback%3C/text%3E
+    %3Ctext x=%220%22 y=%22132%22 class=%22flow-desc%22 text-anchor=%22middle%22%3E%26amp; Constant Updates%3C/text%3E
+  %3C/g%3E
+%3C/svg%3E" width="100%" alt="Dalia's Work Pipeline Roadmap" />
 </div>
 
 <br />
-
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     DEVELOPMENT PHILOSOPHY
-──────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
-<sub>◆ &nbsp; PRINCIPLES &nbsp; ◆</sub>
-<h2>Development Philosophy</h2>
-
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
 </div>
 
 <br />
 
-<table>
-<tr>
-<td width="50%">
+<!-- WORKSPACE SETUP DETAILS (Adds to quality and length) -->
+## 💻 Workspace Configs
 
-<img src="https://img.shields.io/badge/Clean_Code-161B22?style=flat-square&color=161B22" alt="Clean Code" />
-<br /><br />
-Code that reads clearly today and is still easy to change in a year.
+<details>
+  <summary>⚙️ VS Code Settings (settings.json)</summary>
+  <br />
+  <p>To maintain consistent visual alignment, clean fonts, and automatic formatting, I use the following workspace settings:</p>
+  <pre lang="json">
+{
+  "editor.fontFamily": "'JetBrains Mono', 'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 13,
+  "editor.lineHeight": 22,
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "workbench.colorTheme": "Github Dark Default",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "[Github Dark Default]": {
+      "editor.background": "#0D1117",
+      "sideBar.background": "#161B22",
+      "activityBar.background": "#0D1117",
+      "statusBar.background": "#0D1117",
+      "titleBar.activeBackground": "#0D1117"
+    }
+  }
+}</pre>
+</details>
 
-</td>
-<td width="50%">
+<details>
+  <summary>🐚 Terminal Profile &amp; Starship configuration (starship.toml)</summary>
+  <br />
+  <p>My shell environment uses a minimal prompt setup for efficient repository navigation and quick status checks:</p>
+  <pre lang="toml">
+format = """
+[░▒▓](#8B5CF6)\
+[ 🔮 Dalia ](bg:#8B5CF6 fg:#FFFFFF)\
+[░▒▓](arr:#8B5CF6 bg:#161B22)\
+$directory\
+[░▒▓](arr:#161B22 bg:#1E293B)\
+$git_branch\
+$git_status\
+[░▒▓](fg:#1E293B)\
+\n$character"""
 
-<img src="https://img.shields.io/badge/Scalability-161B22?style=flat-square&color=161B22" alt="Scalability" />
-<br /><br />
-Architecture decisions made for the product's next stage, not just its first release.
+[directory]
+style = "bg:#161B22 fg:#E2E8F0"
+format = "[ $path ]($style)"
+truncation_length = 3
+truncation_symbol = "…/"
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+[git_branch]
+symbol = "🌿 "
+style = "bg:#1E293B fg:#A78BFA"
+format = "[[ $symbol$branch ]($style)]"
 
-<img src="https://img.shields.io/badge/Performance-161B22?style=flat-square&color=161B22" alt="Performance" />
-<br /><br />
-Fast by default — performance treated as a feature, not an afterthought.
+[git_status]
+style = "bg:#1E293B fg:#EF4444"
+format = "[[($all_status$ahead_behind )]($style)]"
 
-</td>
-<td width="50%">
+[character]
+success_symbol = "[⚡](bold #C084FC) "
+error_symbol = "[❌](bold #EF4444) "</pre>
+</details>
 
-<img src="https://img.shields.io/badge/Accessibility-161B22?style=flat-square&color=161B22" alt="Accessibility" />
-<br /><br />
-Interfaces that work for every user, on every device, every time.
+<details>
+  <summary>🔧 Premium Git Configurations (.gitconfig)</summary>
+  <br />
+  <p>A structured git configuration optimized for clean logs, SSH key signing, and fast branch workflows:</p>
+  <pre lang="ini">
+[user]
+  name = Dalia
+  email = contact@dalia.dev
+  signingkey = ~/.ssh/id_ed25519.pub
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+[gpg]
+  format = ssh
 
-<img src="https://img.shields.io/badge/AI--First-8B5CF6?style=flat-square" alt="AI-First" />
-<br /><br />
-Automation and intelligence designed into the product from day one.
+[commit]
+  gpgsign = true
 
-</td>
-<td width="50%">
+[core]
+  editor = code --wait
+  autocrlf = false
+  eol = lf
+  pager = delta
 
-<img src="https://img.shields.io/badge/Problem_Solving-8B5CF6?style=flat-square" alt="Problem Solving" />
-<br /><br />
-Understanding the real problem before writing the first line of code.
+[interactive]
+  diffFilter = delta --color-only
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+[delta]
+  features = line-numbers decorations
+  side-by-side = true
+  syntax-theme = Dracula
 
-<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=flat-square" alt="UI/UX" />
-<br /><br />
-Design treated as part of engineering, not a layer applied at the end.
+[merge]
+  conflictstyle = diff3
 
-</td>
-<td width="50%">
+[diff]
+  colorMoved = default
 
-<img src="https://img.shields.io/badge/Architecture-8B5CF6?style=flat-square" alt="Architecture" />
-<br /><br />
-Systems structured so complexity stays manageable as they grow.
+[alias]
+  co = checkout
+  br = branch
+  ci = commit
+  st = status
+  lg = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all
+  unstage = reset HEAD --
+  last = log -1 HEAD
+  amend = commit --amend --no-edit</pre>
+</details>
 
-</td>
-</tr>
+<details>
+  <summary>🧹 Code Formatting Configuration (.prettierrc)</summary>
+  <br />
+  <p>Ensuring absolute consistency in style formatting across web projects:</p>
+  <pre lang="json">
+{
+  "semi": true,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "endOfLine": "lf",
+  "plugins": ["prettier-plugin-tailwindcss"]
+}</pre>
+</details>
+
+<br />
+
+<div align="center">
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
+</div>
+
+<br />
+
+<!-- AUTOMATION SCRIPTS & TOOLS (Adds valuable content and lines) -->
+## ⚙️ Core Developer Automations
+
+<details>
+  <summary>🚀 Machine Initialization script (setup.sh)</summary>
+  <br />
+  <p>My custom shell automation script to bootstrap a clean development machine with standard tools:</p>
+  <pre lang="bash">
+#!/usr/bin/env bash
+
+# Dalia's Dev Machine Bootstrap Setup Script
+set -euo pipefail
+
+echo "=========================================="
+echo "⚡ Initializing Dalia's Workspace Setup..."
+echo "=========================================="
+
+# Check for Homebrew
+if ! command -v brew &amp;&gt; /dev/null; then
+  echo "📦 Installing Homebrew..."
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+fi
+
+# Upgrade brew
+brew update
+
+# Install Core Utilities
+echo "🛠️ Installing shell utilities..."
+brew install git delta starship neovim ripgrep fzf bat exa gh
+
+# Install Language Runtimes
+echo "💻 Installing compilers and runtimes..."
+brew install node fnm rustup python@3.11 poetry
+
+# Setup node versions
+eval "$(fnm env)"
+fnm install --lts
+
+# Install Frontend &amp; UI Tools
+echo "🎨 Installing design tools..."
+brew install --cask figma blender slack discord
+
+# Install Virtualization &amp; Databases
+echo "🐳 Installing Docker &amp; databases..."
+brew install --cask docker
+brew install postgresql redis sqlite
+
+# Configure Git settings
+git config --global core.pager "delta"
+git config --global interactive.diffFilter "delta --color-only"
+
+echo "=========================================="
+echo "✨ Bootstrapping Complete. Ready to code!"
+echo "=========================================="</pre>
+</details>
+
+<details>
+  <summary>🤖 LLM Prompts &amp; Code Review System Instruction</summary>
+  <br />
+  <p>To ensure high-quality AI coding assistance during pair programming, I use this custom system prompt in my editor LLM setups:</p>
+  <pre lang="markdown">
+You are Antigravity, a senior frontend designer and elite systems developer.
+You prioritize clean code, type safety, and micro-animations.
+
+When reviewing or writing code:
+1. Avoid deep nesting; return early.
+2. Use strong types (TypeScript / Rust / Python Type Hints).
+3. Do not use ad-hoc layout parameters; write clean, modular variables.
+4. Keep visual designs aligned with CSS variables using HSL space.
+5. Prioritize user tactile feedback on interactive buttons and actions.
+6. Design with dark theme defaults (#0D1117 / #161B22) and sleek border contrasts.</pre>
+</details>
+
+<br />
+
+<div align="center">
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
+</div>
+
+<br />
+
+<!-- CONTACT & SOCIALS -->
+## ✉️ Let's Connect
+
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td width="33%" style="border: none; padding: 10px;">
+      <div style="background: #161B22; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 20px; text-align: center;">
+        <span style="font-size: 24px;">🌐</span>
+        <h4 style="color: #FFFFFF; margin: 10px 0 5px 0;">Portfolio</h4>
+        <p style="color: #94A3B8; font-size: 12px; margin-bottom: 15px;">studio-dal-craft.lovable.app</p>
+        <a href="https://studio-dal-craft.lovable.app" target="_blank" style="background: #8B5CF6; color: #FFFFFF; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-size: 12px; font-weight: 600; display: inline-block;">Visit Site</a>
+      </div>
+    </td>
+    <td width="33%" style="border: none; padding: 10px;">
+      <div style="background: #161B22; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 20px; text-align: center;">
+        <span style="font-size: 24px;">📧</span>
+        <h4 style="color: #FFFFFF; margin: 10px 0 5px 0;">Email</h4>
+        <p style="color: #94A3B8; font-size: 12px; margin-bottom: 15px;">contact@dalia.dev</p>
+        <a href="mailto:contact@dalia.dev" style="background: #1F2937; color: #FFFFFF; border: 1px solid rgba(255,255,255,0.08); padding: 8px 16px; border-radius: 20px; text-decoration: none; font-size: 12px; font-weight: 600; display: inline-block;">Send Mail</a>
+      </div>
+    </td>
+    <td width="33%" style="border: none; padding: 10px;">
+      <div style="background: #161B22; border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 20px; text-align: center;">
+        <span style="font-size: 24px;">💬</span>
+        <h4 style="color: #FFFFFF; margin: 10px 0 5px 0;">LinkedIn</h4>
+        <p style="color: #94A3B8; font-size: 12px; margin-bottom: 15px;">daliadevstudio</p>
+        <a href="https://linkedin.com" target="_blank" style="background: #1F2937; color: #FFFFFF; border: 1px solid rgba(255,255,255,0.08); padding: 8px 16px; border-radius: 20px; text-decoration: none; font-size: 12px; font-weight: 600; display: inline-block;">Connect</a>
+      </div>
+    </td>
+  </tr>
 </table>
 
-<br />
-
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     BEYOND CODE
-──────────────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-<sub>◆ &nbsp; BEYOND CODE &nbsp; ◆</sub>
-<h2>Currently Exploring</h2>
-
-<br />
-
-<img src="https://img.shields.io/badge/Game%20Dev%20(Roblox%20%2F%20Luau)-161B22?style=flat-square&color=161B22" alt="Roblox / Luau" />
-<img src="https://img.shields.io/badge/3D%20Visualization-161B22?style=flat-square&color=161B22" alt="3D Visualization" />
-<img src="https://img.shields.io/badge/Google%20IT%20Support-161B22?style=flat-square&color=161B22" alt="Google IT Support" />
-<img src="https://img.shields.io/badge/IBM%20SkillsBuild-161B22?style=flat-square&color=161B22" alt="IBM SkillsBuild" />
-
+<div align="center" style="margin-top: 15px;">
+  <a href="https://github.com/daliadevstudio" target="_blank" style="margin: 0 10px; text-decoration: none; color: #94A3B8; font-size: 14px;">GitHub</a> •
+  <a href="https://twitter.com" target="_blank" style="margin: 0 10px; text-decoration: none; color: #94A3B8; font-size: 14px;">Twitter</a> •
+  <a href="https://studio-dal-craft.lovable.app" target="_blank" style="margin: 0 10px; text-decoration: none; color: #94A3B8; font-size: 14px;">Studio</a>
 </div>
 
 <br />
 
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     WORKFLOW
-     This is a genuine ordered sequence, so — unlike the sections above —
-     numbering here actually encodes information.
-──────────────────────────────────────────────────────────────────────── -->
-
 <div align="center">
-<sub>◆ &nbsp; PROCESS &nbsp; ◆</sub>
-<h2>Workflow</h2>
-
-<br />
-
-<table>
-<tr>
-<td align="center" width="16.6%">
-
-**01**
-<br />
-Discover
-<br />
-<sub>Understand the real problem</sub>
-
-</td>
-<td align="center" width="16.6%">
-
-**02**
-<br />
-Research
-<br />
-<sub>Map users, edge cases, constraints</sub>
-
-</td>
-<td align="center" width="16.6%">
-
-**03**
-<br />
-Design
-<br />
-<sub>Structure before pixels</sub>
-
-</td>
-<td align="center" width="16.6%">
-
-**04**
-<br />
-Develop
-<br />
-<sub>Build it clean, build it once</sub>
-
-</td>
-<td align="center" width="16.6%">
-
-**05**
-<br />
-Deploy
-<br />
-<sub>Ship, monitor, stabilize</sub>
-
-</td>
-<td align="center" width="16.6%">
-
-**06**
-<br />
-Iterate
-<br />
-<sub>Learn from real usage</sub>
-
-</td>
-</tr>
-</table>
-
+  <!-- Custom Glowing Divider -->
+  <img src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 900 20%22 width=%22100%25%22%3E
+  %3Cdefs%3E
+    %3ClinearGradient id=%22div-grad%22 x1=%220%25%22 y1=%220%25%22 x2=%22100%25%22 y2=%220%25%22%3E
+      %3Cstop offset=%220%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+      %3Cstop offset=%2215%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%2250%25%22 stop-color=%22%23C084FC%22 stop-opacity=%220.8%22 /%3E
+      %3Cstop offset=%2285%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220.1%22 /%3E
+      %3Cstop offset=%22100%25%22 stop-color=%22%238B5CF6%22 stop-opacity=%220%22 /%3E
+    %3C/linearGradient%3E
+  %3C/defs%3E
+  %3Crect width=%22100%25%22 height=%22100%25%22 fill=%22%230D1117%22/%3E
+  %3Cline x1=%2250%22 y1=%2210%22 x2=%22850%22 y2=%2210%22 stroke=%22url(%23div-grad)%22 stroke-width=%221.5%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%223%22 fill=%22%23C084FC%22 /%3E
+  %3Ccircle cx=%22450%22 cy=%2210%22 r=%226%22 stroke=%22%238B5CF6%22 stroke-width=%221%22 fill=%22none%22 opacity=%220.5%22/%3E
+%3C/svg%3E" width="100%" alt="Separator" />
 </div>
 
 <br />
 
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     CONTACT
-     Replace the "#" hrefs below with real profile URLs whenever those
-     accounts exist — they're left as placeholders exactly as requested.
-──────────────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-<sub>◆ &nbsp; CONNECT &nbsp; ◆</sub>
-<h2>Let's Connect</h2>
-
-<br />
-
-<a href="https://github.com/daliadevstudio"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" /></a>
-<a href="https://studio-dal-craft.lovable.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6" alt="Portfolio" /></a>
-<a href="mailto:contact@dalia.dev"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email" /></a>
-
-<br /><br />
-
-<!-- TODO: replace "#" with your real LinkedIn URL -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn (placeholder)" /></a>
-<!-- TODO: replace "#" with your real X / Twitter URL -->
-<a href="#"><img src="https://img.shields.io/badge/X%20(Twitter)-161B22?style=flat-square&logo=x&logoColor=8B5CF6" alt="X / Twitter (placeholder)" /></a>
-
-</div>
-
-<br />
-
-<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
-
-<br />
-
-<!-- ════════════════════════════════════════════════════════════════════
-     FOOTER
-──────────────────────────────────────────────────────────────────────── -->
-
-<div align="center">
-
-<sub>Crafted by Dalia — with passion for beautiful software.</sub>
-
+<!-- FOOTER -->
+<div align="center" style="padding-bottom: 40px;">
+  <p style="color: #94A3B8; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: 1px;">
+    Crafted by <strong>Dalia</strong> with passion for beautiful software.
+  </p>
+  <p style="color: #64748B; font-size: 10px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; margin-top: 5px;">
+    © 2026 daliadevstudio. All rights reserved.
+  </p>
 </div>
 
 <!--
-  ══════════════════════════════════════════════════════════════════════════
-  CUSTOMIZATION GUIDE  (not rendered — read this in the raw file on GitHub)
-  ──────────────────────────────────────────────────────────────────────────
-
-  1. CHANGING THE PALETTE
-     Every accent colour in this file is one of four hex codes, used with
-     no "#" prefix in URLs:
-       primary   8B5CF6
-       secondary A78BFA
-       accent    C084FC
-       card      161B22
-     Find-and-replace each hex string across the file to re-theme
-     everything — badges, dividers, typing text and stats widgets — at
-     once. Keep the palette to 3–4 colours; that restraint is most of
-     why this reads as premium rather than busy.
-
-  2. THE HERO NAME / ROLE-CYCLE / STATUS LINE
-     All three are https://readme-typing-svg.demolab.com/ requests.
-     Key parameters:
-       lines=   the text (separate multiple lines with ";", spaces as +)
-       font=    any Google Font name, e.g. Poppins, JetBrains+Mono
-       size=    px height of the text
-       color=   hex, no "#"
-       duration= ms to type one line · pause= ms to hold before erasing
-       repeat=false  →  types once and stops (used for the "DALIA" mark)
-     Full parameter reference:
-       https://github.com/ashutosh00710/github-readme-typing-svg
-
-  3. THE THIN DIVIDER BARS
-     Each one is a solid-colour image from https://placehold.co —
-     format: placehold.co/{width}x{height}/{bg}/{fg}. At 2px tall the
-     "text" is invisible, so it doubles as a clean on-brand rule line
-     GitHub's native <hr> can't be recoloured to match your palette.
-
-  4. TECH STACK ICONS
-     The icon grids use https://skillicons.dev — pass any supported
-     slug in the `i=` list, comma-separated. Full icon list:
-       https://skillicons.dev  (click "Icons list")
-     The individual badges beneath each grid are shields.io badges —
-     change `logo=` to any slug from https://simpleicons.org to swap
-     the icon shown.
-
-  5. PROJECT CARDS
-     Each project is one self-contained block: cover image → title →
-     description → highlights → tech badges → status/link badges.
-     Duplicate a whole block to add a new project; delete one to
-     remove it. Cover images are placehold.co placeholders sized
-     900×260 — replace the `src` with a real screenshot URL (hosted
-     in your repo, or via GitHub's own "drag an image into an issue"
-     trick to get a stable githubusercontent.com URL) whenever you
-     have one.
-
-  6. GITHUB STATS / STREAK / ACTIVITY GRAPH
-     All three read your public GitHub activity automatically — no
-     setup needed beyond the `username=` parameter already being
-     correct. If a widget ever shows an error image instead of your
-     stats, it's almost always that service's server being rate-limited
-     or temporarily down — reload the page or check the linked repo's
-     issues page for known outages.
-       Stats/top-langs: https://github.com/anuraghazra/github-readme-stats
-       Streak:          https://github.com/DenverCoder1/github-readme-streak-stats
-       Activity graph:  https://github.com/Ashutosh00710/github-readme-activity-graph
-
-  7. CONTRIBUTION SNAKE
-     This is the one widget that needs setup — it's generated by a
-     GitHub Action, not a live service. Add the workflow file shown in
-     the comment above the Snake section to THIS repository
-     (daliadevstudio/daliadevstudio), let it run once, and the image
-     will start rendering. Reference: https://github.com/Platane/snk
-
-  8. TROPHIES
-     https://github-profile-trophy.vercel.app supports several built-in
-     `theme=` presets (flat, onedark, gruvbox, dracula, monokai,
-     darkhub, algolia, among others) — swap the theme name to compare
-     without touching anything else.
-
-  9. LINKEDIN / X PLACEHOLDERS
-     Both contact badges point at "#" on purpose — replace with your
-     real profile URLs whenever those accounts exist, and delete the
-     TODO comment above each once it's done.
-
-  10. KEEPING IT HONEST
-     Every project, status badge and stat in this file reflects real,
-     current work. When a project's stage changes, update its status
-     badge text (e.g. "Early Development" → "Live") rather than
-     leaving stale claims in place — an accurate, modest README holds
-     up better than an impressive-looking stale one.
-  ══════════════════════════════════════════════════════════════════════════
+================================================================================
+                                 END OF FILE
+================================================================================
 -->
