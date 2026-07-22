@@ -1,805 +1,816 @@
+-->
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HERO SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ────────────────────────────────────────────────────────────────────
+     HERO
+     "DALIA" and the role-cycle are rendered through readme-typing-svg so
+     they can carry the exact brand colours (#8B5CF6 / #A78BFA) — plain
+     Markdown headings can't be recoloured on GitHub.
+     Docs: https://github.com/ashutosh00710/github-readme-typing-svg
+──────────────────────────────────────────────────────────────────────── -->
 
-<br><br><br>
+<sub>hey,</sub>
 
-<p align="center">
-  <svg width="600" height="320" viewBox="0 0 600 320" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.18"/>
-        <stop offset="40%" stop-color="#A78BFA" stop-opacity="0.08"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </radialGradient>
-      <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.12"/>
-        <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.04"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </radialGradient>
-      <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#E9D5FF"/>
-        <stop offset="35%" stop-color="#A78BFA"/>
-        <stop offset="70%" stop-color="#8B5CF6"/>
-        <stop offset="100%" stop-color="#C084FC"/>
-      </linearGradient>
-      <linearGradient id="lineGradHero" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="15%" stop-color="#8B5CF6" stop-opacity="0.5"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.9"/>
-        <stop offset="85%" stop-color="#8B5CF6" stop-opacity="0.5"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <ellipse cx="300" cy="160" rx="280" ry="140" fill="url(#orb1)"/>
-    <ellipse cx="420" cy="100" rx="180" ry="90" fill="url(#orb2)"/>
-    <path d="M 180 200 Q 300 240 420 200" stroke="url(#lineGradHero)" stroke-width="0.5" fill="none" opacity="0.6"/>
-    <text x="300" y="145" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="72" font-weight="700" letter-spacing="-0.04em" fill="url(#nameGrad)">DALIA</text>
-    <text x="300" y="185" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="400" letter-spacing="0.18em" fill="#94A3B8">SOFTWARE DEVELOPER  ·  AI INTEGRATION  ·  FULL-STACK</text>
-    <line x1="260" y1="210" x2="340" y2="210" stroke="url(#lineGradHero)" stroke-width="1"/>
-    <text x="300" y="235" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" letter-spacing="0.06em" fill="#64748B">Building elegant web applications, AI-powered products</text>
-    <text x="300" y="252" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" letter-spacing="0.06em" fill="#64748B">and premium digital experiences.</text>
-  </svg>
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=800&size=56&duration=4000&pause=100000&color=8B5CF6&center=true&vCenter=true&width=500&height=84&lines=DALIA&repeat=false" alt="Dalia" />
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Software+Developer;AI+Integration;Full-Stack+Developer" alt="roles" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=440&lines=Building+SaaS;Creating+AI+Products;Crafting+Beautiful+Interfaces;Always+Learning;Turning+Ideas+Into+Reality" alt="Typing" />
-</p>
+<br />
 
-<br><br><br>
+> Building elegant web applications, AI-powered products,
+> and premium digital experiences.
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CUSTOM SVG SEPARATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br />
 
-<p align="center">
-  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="sep1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
-        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <rect width="140" height="1.5" fill="url(#sep1)" rx="0.75"/>
-  </svg>
-</p>
+<img src="https://img.shields.io/badge/Algeria-8B5CF6?style=flat-square&logoColor=white" alt="location" />
+<img src="https://img.shields.io/badge/FR%20·%20AR%20·%20EN-161B22?style=flat-square&color=161B22" alt="languages" />
+<img src="https://img.shields.io/badge/Focus-France%20%26%20Europe-8B5CF6?style=flat-square" alt="market focus" />
+<img src="https://img.shields.io/badge/5%2B%20Years-161B22?style=flat-square&color=161B22" alt="experience" />
+<img src="https://img.shields.io/badge/40%2B%20Projects%20Delivered-8B5CF6?style=flat-square" alt="projects delivered" />
 
-<br><br><br>
+<br /><br />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- Live visitor counter — updates automatically, no setup required -->
+<img src="https://komarev.com/ghpvc/?username=daliadevstudio&style=flat-square&color=8B5CF6&label=Profile+Views" alt="profile views" />
 
-<p align="center">
-  <svg width="680" height="280" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <linearGradient id="aboutGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-        <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.08"/>
-        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.15"/>
-      </linearGradient>
-      <linearGradient id="aboutBorder" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.3"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.3"/>
-      </linearGradient>
-      <filter id="aboutGlow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="20" result="blur"/>
-        <feComposite in="SourceGraphic" in2="blur" operator="over"/>
-      </filter>
-    </defs>
-    <rect x="10" y="10" width="660" height="260" rx="20" fill="#161B22" stroke="url(#aboutBorder)" stroke-width="1" opacity="0.6"/>
-    <rect x="10" y="10" width="660" height="260" rx="20" fill="url(#aboutGrad)" opacity="0.4"/>
-    <ellipse cx="340" cy="140" rx="200" ry="80" fill="#8B5CF6" opacity="0.03" filter="url(#aboutGlow)"/>
-    <text x="340" y="55" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">ABOUT</text>
-    <circle cx="340" cy="68" r="2" fill="#C084FC" opacity="0.5"/>
-    <rect x="80" y="85" width="520" height="155" rx="12" fill="#0D1117" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
-    <circle cx="105" cy="105" r="3" fill="#EF4444" opacity="0.6"/>
-    <circle cx="118" cy="105" r="3" fill="#F59E0B" opacity="0.6"/>
-    <circle cx="131" cy="105" r="3" fill="#22C55E" opacity="0.6"/>
-    <text x="105" y="135" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="13" font-weight="400" fill="#A78BFA">const</text>
-    <text x="150" y="135" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="13" font-weight="400" fill="#C084FC">developer</text>
-    <text x="225" y="135" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="13" font-weight="400" fill="#94A3B8">= {</text>
-    <text x="125" y="158" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#64748B">name</text>
-    <text x="165" y="158" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">:</text>
-    <text x="178" y="158" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Dalia"</text>
-    <text x="235" y="158" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
-    <text x="125" y="178" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#64748B">role</text>
-    <text x="160" y="178" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">:</text>
-    <text x="178" y="178" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Software Developer"</text>
-    <text x="330" y="178" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
-    <text x="125" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#64748B">focus</text>
-    <text x="168" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">: [</text>
-    <text x="188" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"AI"</text>
-    <text x="218" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
-    <text x="232" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Full Stack"</text>
-    <text x="310" y="198" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
-    <text x="125" y="218" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Creative UI"</text>
-    <text x="210" y="218" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">,</text>
-    <text x="225" y="218" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"SaaS"</text>
-    <text x="270" y="218" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">],</text>
-    <text x="125" y="238" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#64748B">passion</text>
-    <text x="185" y="238" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#94A3B8">:</text>
-    <text x="198" y="238" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="12" font-weight="400" fill="#E9D5FF">"Elegant solutions"</text>
-    <text x="105" y="258" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="13" font-weight="400" fill="#94A3B8">};</text>
-  </svg>
-</p>
+<br /><br />
 
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CUSTOM SVG SEPARATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="sep2" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
-        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <rect width="140" height="1.5" fill="url(#sep2)" rx="0.75"/>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="800" height="560" viewBox="0 0 800 560" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <linearGradient id="techGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.1"/>
-        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.05"/>
-      </linearGradient>
-      <linearGradient id="techBorder" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.2"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.5"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.2"/>
-      </linearGradient>
-      <linearGradient id="catGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.6"/>
-        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.6"/>
-      </linearGradient>
-    </defs>
-    <rect x="20" y="20" width="760" height="520" rx="24" fill="#161B22" stroke="url(#techBorder)" stroke-width="1" opacity="0.5"/>
-    <rect x="20" y="20" width="760" height="520" rx="24" fill="url(#techGrad)" opacity="0.3"/>
-    <text x="400" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">TECHNOLOGIES</text>
-    <circle cx="400" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
-    <text x="60" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">FRONTEND</text>
-    <line x1="60" y1="118" x2="160" y2="118" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
-    <image href="https://skillicons.dev/icons?i=html&theme=dark" x="60" y="135" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=css&theme=dark" x="112" y="135" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=js&theme=dark" x="164" y="135" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=ts&theme=dark" x="216" y="135" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=react&theme=dark" x="268" y="135" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=nextjs&theme=dark" x="320" y="135" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=tailwind&theme=dark" x="372" y="135" width="36" height="36"/>
-    <text x="60" y="215" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">BACKEND</text>
-    <line x1="60" y1="223" x2="150" y2="223" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
-    <image href="https://skillicons.dev/icons?i=nodejs&theme=dark" x="60" y="240" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=express&theme=dark" x="112" y="240" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=fastapi&theme=dark" x="164" y="240" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=php&theme=dark" x="216" y="240" width="36" height="36"/>
-    <text x="60" y="320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">DATABASES</text>
-    <line x1="60" y1="328" x2="155" y2="328" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
-    <image href="https://skillicons.dev/icons?i=mysql&theme=dark" x="60" y="345" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=postgres&theme=dark" x="112" y="345" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=prisma&theme=dark" x="164" y="345" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=supabase&theme=dark" x="216" y="345" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=firebase&theme=dark" x="268" y="345" width="36" height="36"/>
-    <text x="420" y="320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">LANGUAGES</text>
-    <line x1="420" y1="328" x2="515" y2="328" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
-    <image href="https://skillicons.dev/icons?i=python&theme=dark" x="420" y="345" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=c&theme=dark" x="472" y="345" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=cpp&theme=dark" x="524" y="345" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=rust&theme=dark" x="576" y="345" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=bash&theme=dark" x="628" y="345" width="36" height="36"/>
-    <text x="60" y="425" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" letter-spacing="0.2em" fill="#A78BFA" opacity="0.8">TOOLS &amp; DESIGN</text>
-    <line x1="60" y1="433" x2="180" y2="433" stroke="url(#catGrad)" stroke-width="1" opacity="0.4"/>
-    <image href="https://skillicons.dev/icons?i=git&theme=dark" x="60" y="450" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=github&theme=dark" x="112" y="450" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=vscode&theme=dark" x="164" y="450" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=figma&theme=dark" x="216" y="450" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=blender&theme=dark" x="268" y="450" width="36" height="36"/>
-    <image href="https://skillicons.dev/icons?i=notion&theme=dark" x="320" y="450" width="36" height="36"/>
-    <line x1="400" y1="100" x2="400" y2="300" stroke="url(#techBorder)" stroke-width="0.5" opacity="0.3"/>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CUSTOM SVG SEPARATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="sep3" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
-        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <rect width="140" height="1.5" fill="url(#sep3)" rx="0.75"/>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENTLY BUILDING                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="800" height="380" viewBox="0 0 800 380" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <linearGradient id="buildGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.08"/>
-        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.04"/>
-      </linearGradient>
-      <linearGradient id="buildBorder" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-      </linearGradient>
-      <linearGradient id="cG1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.12"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="cG2" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.08"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="cG3" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.1"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="cG4" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.06"/>
-        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.12"/>
-      </linearGradient>
-    </defs>
-    <rect x="20" y="20" width="760" height="340" rx="24" fill="#161B22" stroke="url(#buildBorder)" stroke-width="1" opacity="0.5"/>
-    <rect x="20" y="20" width="760" height="340" rx="24" fill="url(#buildGrad)" opacity="0.3"/>
-    <text x="400" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">FOCUS AREAS</text>
-    <circle cx="400" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
-    <!-- Card 1 -->
-    <rect x="50" y="95" width="345" height="115" rx="16" fill="#0D1117" stroke="rgba(139,92,246,0.15)" stroke-width="1"/>
-    <rect x="50" y="95" width="345" height="115" rx="16" fill="url(#cG1)" opacity="0.5"/>
-    <circle cx="80" cy="125" r="16" fill="#8B5CF6" opacity="0.12"/>
-    <text x="80" y="131" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" fill="#A78BFA">&#9670;</text>
-    <text x="110" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">AI SaaS</text>
-    <text x="110" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">Intelligent products powered by</text>
-    <text x="110" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">artificial intelligence &amp; modern web.</text>
-    <!-- Card 2 -->
-    <rect x="415" y="95" width="345" height="115" rx="16" fill="#0D1117" stroke="rgba(192,132,252,0.15)" stroke-width="1"/>
-    <rect x="415" y="95" width="345" height="115" rx="16" fill="url(#cG2)" opacity="0.5"/>
-    <circle cx="445" cy="125" r="16" fill="#C084FC" opacity="0.12"/>
-    <text x="445" y="131" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" fill="#C084FC">&#9671;</text>
-    <text x="475" y="122" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Developer Portfolio</text>
-    <text x="475" y="142" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">Premium experiences with beautiful</text>
-    <text x="475" y="158" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">design and smooth interactions.</text>
-    <!-- Card 3 -->
-    <rect x="50" y="225" width="345" height="115" rx="16" fill="#0D1117" stroke="rgba(167,139,250,0.15)" stroke-width="1"/>
-    <rect x="50" y="225" width="345" height="115" rx="16" fill="url(#cG3)" opacity="0.5"/>
-    <circle cx="80" cy="255" r="16" fill="#A78BFA" opacity="0.12"/>
-    <text x="80" y="261" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" fill="#A78BFA">&#9672;</text>
-    <text x="110" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Automation Tools</text>
-    <text x="110" y="272" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">Streamlining workflows and eliminating</text>
-    <text x="110" y="288" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">repetitive tasks for developers.</text>
-    <!-- Card 4 -->
-    <rect x="415" y="225" width="345" height="115" rx="16" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
-    <rect x="415" y="225" width="345" height="115" rx="16" fill="url(#cG4)" opacity="0.5"/>
-    <circle cx="445" cy="255" r="16" fill="#8B5CF6" opacity="0.12"/>
-    <text x="445" y="261" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="16" fill="#8B5CF6">&#9673;</text>
-    <text x="475" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">Open Source</text>
-    <text x="475" y="272" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">Contributing libraries that solve real</text>
-    <text x="475" y="288" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="400" fill="#94A3B8">problems for the community.</text>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CUSTOM SVG SEPARATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="sep4" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
-        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <rect width="140" height="1.5" fill="url(#sep4)" rx="0.75"/>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="840" height="180" viewBox="0 0 840 180" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <linearGradient id="sB" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-      </linearGradient>
-    </defs>
-    <rect x="20" y="20" width="800" height="140" rx="24" fill="#161B22" stroke="url(#sB)" stroke-width="1" opacity="0.5"/>
-    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">ANALYTICS</text>
-    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
-  </svg>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=FFFFFF&amp;bg_color=0D1117&amp;rank_icon=github" alt="GitHub Stats" width="46%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=A78BFA&amp;text_color=FFFFFF&amp;bg_color=0D1117&amp;langs_count=8" alt="Top Languages" width="38%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=daliadevstudio&amp;theme=transparent&amp;hide_border=true&amp;stroke=A78BFA&amp;ring=8B5CF6&amp;fire=C084FC&amp;currStreakLabel=FFFFFF&amp;sideLabels=FFFFFF&amp;currStreakNum=A78BFA&amp;sideNums=94A3B8&amp;dates=94A3B8&amp;background=0D1117" alt="GitHub Streak" width="68%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daliadevstudio&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;point=A78BFA&amp;line=8B5CF6&amp;color=FFFFFF&amp;bg_color=0D1117" alt="Activity Graph" width="90%" />
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CUSTOM SVG SEPARATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="sep5" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
-        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <rect width="140" height="1.5" fill="url(#sep5)" rx="0.75"/>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB TROPHIES                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="840" height="180" viewBox="0 0 840 180" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <linearGradient id="tB" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-      </linearGradient>
-    </defs>
-    <rect x="20" y="20" width="800" height="140" rx="24" fill="#161B22" stroke="url(#tB)" stroke-width="1" opacity="0.5"/>
-    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">ACHIEVEMENTS</text>
-    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
-  </svg>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daliadevstudio&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=7&amp;title_color=A78BFA&amp;icon_color=8B5CF6&amp;text_color=FFFFFF" alt="GitHub Trophies" width="92%" />
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CUSTOM SVG SEPARATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="sep6" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
-        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <rect width="140" height="1.5" fill="url(#sep6)" rx="0.75"/>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 DEVELOPMENT PHILOSOPHY                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="840" height="420" viewBox="0 0 840 420" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <linearGradient id="pB" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-      </linearGradient>
-      <linearGradient id="pc1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.1"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="pc2" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.08"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="pc3" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.06"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="pc4" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.08"/>
-        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.04"/>
-      </linearGradient>
-    </defs>
-    <rect x="20" y="20" width="800" height="380" rx="24" fill="#161B22" stroke="url(#pB)" stroke-width="1" opacity="0.5"/>
-    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">PRINCIPLES</text>
-    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
-    <!-- Row 1 -->
-    <rect x="50" y="90" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.1)" stroke-width="1"/>
-    <rect x="50" y="90" width="180" height="130" rx="14" fill="url(#pc1)" opacity="0.5"/>
-    <text x="80" y="120" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">01</text>
-    <text x="80" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Clean Code</text>
-    <text x="80" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Readable, maintainable,</text>
-    <text x="80" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">well-structured code.</text>
-    <rect x="250" y="90" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(167,139,250,0.1)" stroke-width="1"/>
-    <rect x="250" y="90" width="180" height="130" rx="14" fill="url(#pc2)" opacity="0.5"/>
-    <text x="280" y="120" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">02</text>
-    <text x="280" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Scalability</text>
-    <text x="280" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Systems that grow</text>
-    <text x="280" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">gracefully with demand.</text>
-    <rect x="450" y="90" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(192,132,252,0.1)" stroke-width="1"/>
-    <rect x="450" y="90" width="180" height="130" rx="14" fill="url(#pc3)" opacity="0.5"/>
-    <text x="480" y="120" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">03</text>
-    <text x="480" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Performance</text>
-    <text x="480" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Optimized for speed,</text>
-    <text x="480" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">efficiency, smooth UX.</text>
-    <rect x="650" y="90" width="170" height="130" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.1)" stroke-width="1"/>
-    <rect x="650" y="90" width="170" height="130" rx="14" fill="url(#pc4)" opacity="0.5"/>
-    <text x="680" y="120" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">04</text>
-    <text x="680" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Accessibility</text>
-    <text x="680" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Inclusive products that</text>
-    <text x="680" y="182" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">work for everyone.</text>
-    <!-- Row 2 -->
-    <rect x="50" y="240" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(192,132,252,0.1)" stroke-width="1"/>
-    <rect x="50" y="240" width="180" height="130" rx="14" fill="url(#pc3)" opacity="0.5"/>
-    <text x="80" y="270" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">05</text>
-    <text x="80" y="298" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">AI-First</text>
-    <text x="80" y="318" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Smarter, adaptive</text>
-    <text x="80" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">applications with AI.</text>
-    <rect x="250" y="240" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.1)" stroke-width="1"/>
-    <rect x="250" y="240" width="180" height="130" rx="14" fill="url(#pc1)" opacity="0.5"/>
-    <text x="280" y="270" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">06</text>
-    <text x="280" y="298" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Problem Solving</text>
-    <text x="280" y="318" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Breaking complexity into</text>
-    <text x="280" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">elegant solutions.</text>
-    <rect x="450" y="240" width="180" height="130" rx="14" fill="#0D1117" stroke="rgba(167,139,250,0.1)" stroke-width="1"/>
-    <rect x="450" y="240" width="180" height="130" rx="14" fill="url(#pc2)" opacity="0.5"/>
-    <text x="480" y="270" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">07</text>
-    <text x="480" y="298" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">UI / UX</text>
-    <text x="480" y="318" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Intuitive, beautiful</text>
-    <text x="480" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">interfaces with purpose.</text>
-    <rect x="650" y="240" width="170" height="130" rx="14" fill="#0D1117" stroke="rgba(192,132,252,0.1)" stroke-width="1"/>
-    <rect x="650" y="240" width="170" height="130" rx="14" fill="url(#pc4)" opacity="0.5"/>
-    <text x="680" y="270" font-family="-apple-system, sans-serif" font-size="22" fill="#A78BFA" opacity="0.9">08</text>
-    <text x="680" y="298" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Architecture</text>
-    <text x="680" y="318" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">Robust, flexible, secure</text>
-    <text x="680" y="332" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400" fill="#94A3B8">and future-proof systems.</text>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CUSTOM SVG SEPARATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="sep7" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
-        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <rect width="140" height="1.5" fill="url(#sep7)" rx="0.75"/>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        WORKFLOW                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="840" height="240" viewBox="0 0 840 240" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <linearGradient id="wB" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-      </linearGradient>
-      <linearGradient id="sg" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.08"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="ag" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.3"/>
-        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.3"/>
-      </linearGradient>
-    </defs>
-    <rect x="20" y="20" width="800" height="200" rx="24" fill="#161B22" stroke="url(#wB)" stroke-width="1" opacity="0.5"/>
-    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">PROCESS</text>
-    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
-    <!-- Step 1 -->
-    <rect x="45" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
-    <rect x="45" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
-    <text x="97" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#8B5CF6" opacity="0.8">&#9673;</text>
-    <text x="97" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Discover</text>
-    <text x="97" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Identify the</text>
-    <text x="97" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">problem space</text>
-    <line x1="155" y1="142" x2="175" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
-    <polygon points="175,142 170,138 170,146" fill="#8B5CF6" opacity="0.4"/>
-    <!-- Step 2 -->
-    <rect x="185" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(167,139,250,0.12)" stroke-width="1"/>
-    <rect x="185" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
-    <text x="237" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#A78BFA" opacity="0.8">&#9672;</text>
-    <text x="237" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Research</text>
-    <text x="237" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Explore tools &amp;</text>
-    <text x="237" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">best practices</text>
-    <line x1="295" y1="142" x2="315" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
-    <polygon points="315,142 310,138 310,146" fill="#A78BFA" opacity="0.4"/>
-    <!-- Step 3 -->
-    <rect x="325" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(192,132,252,0.12)" stroke-width="1"/>
-    <rect x="325" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
-    <text x="377" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#C084FC" opacity="0.8">&#9671;</text>
-    <text x="377" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Design</text>
-    <text x="377" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Wireframes &amp;</text>
-    <text x="377" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">visual systems</text>
-    <line x1="435" y1="142" x2="455" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
-    <polygon points="455,142 450,138 450,146" fill="#C084FC" opacity="0.4"/>
-    <!-- Step 4 -->
-    <rect x="465" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
-    <rect x="465" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
-    <text x="517" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#8B5CF6" opacity="0.8">&#9670;</text>
-    <text x="517" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Develop</text>
-    <text x="517" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Clean, tested,</text>
-    <text x="517" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">efficient code</text>
-    <line x1="575" y1="142" x2="595" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
-    <polygon points="595,142 590,138 590,146" fill="#8B5CF6" opacity="0.4"/>
-    <!-- Step 5 -->
-    <rect x="605" y="95" width="105" height="95" rx="12" fill="#0D1117" stroke="rgba(167,139,250,0.12)" stroke-width="1"/>
-    <rect x="605" y="95" width="105" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
-    <text x="657" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#A78BFA" opacity="0.8">&#9673;</text>
-    <text x="657" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Deploy</text>
-    <text x="657" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">CI/CD to</text>
-    <text x="657" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">production</text>
-    <line x1="715" y1="142" x2="735" y2="142" stroke="url(#ag)" stroke-width="1.5"/>
-    <polygon points="735,142 730,138 730,146" fill="#A78BFA" opacity="0.4"/>
-    <!-- Step 6 -->
-    <rect x="745" y="95" width="70" height="95" rx="12" fill="#0D1117" stroke="rgba(192,132,252,0.12)" stroke-width="1"/>
-    <rect x="745" y="95" width="70" height="95" rx="12" fill="url(#sg)" opacity="0.5"/>
-    <text x="780" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="18" fill="#C084FC" opacity="0.8">&#9674;</text>
-    <text x="780" y="150" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Iterate</text>
-    <text x="780" y="168" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Feedback &amp;</text>
-    <text x="780" y="180" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">improve</text>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CUSTOM SVG SEPARATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="sep8" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
-        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <rect width="140" height="1.5" fill="url(#sep8)" rx="0.75"/>
-  </svg>
-</p>
-
-<br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        CONTACT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="840" height="220" viewBox="0 0 840 220" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <linearGradient id="cB" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.15"/>
-      </linearGradient>
-      <linearGradient id="cc1" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.08"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="cc2" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.06"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="cc3" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#C084FC" stop-opacity="0.06"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-      <linearGradient id="cc4" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.06"/>
-        <stop offset="100%" stop-color="#C084FC" stop-opacity="0.04"/>
-      </linearGradient>
-      <linearGradient id="cc5" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.04"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.08"/>
-      </linearGradient>
-    </defs>
-    <rect x="20" y="20" width="800" height="180" rx="24" fill="#161B22" stroke="url(#cB)" stroke-width="1" opacity="0.5"/>
-    <text x="420" y="58" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="500" letter-spacing="0.25em" fill="#8B5CF6" opacity="0.7">CONNECT</text>
-    <circle cx="420" cy="71" r="2" fill="#C084FC" opacity="0.5"/>
-    <!-- GitHub -->
-    <a href="https://github.com/daliadevstudio">
-      <rect x="50" y="95" width="140" height="85" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
-      <rect x="50" y="95" width="140" height="85" rx="14" fill="url(#cc1)" opacity="0.5"/>
-      <text x="120" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#A78BFA">&#9670;</text>
-      <text x="120" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">GitHub</text>
-      <text x="120" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">@daliadevstudio</text>
-    </a>
-    <!-- Portfolio -->
-    <a href="https://studio-dal-craft.lovable.app">
-      <rect x="210" y="95" width="140" height="85" rx="14" fill="#0D1117" stroke="rgba(167,139,250,0.12)" stroke-width="1"/>
-      <rect x="210" y="95" width="140" height="85" rx="14" fill="url(#cc2)" opacity="0.5"/>
-      <text x="280" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#A78BFA">&#9671;</text>
-      <text x="280" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Portfolio</text>
-      <text x="280" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">studio-dal-craft</text>
-    </a>
-    <!-- Email -->
-    <a href="mailto:contact@dalia.dev">
-      <rect x="370" y="95" width="140" height="85" rx="14" fill="#0D1117" stroke="rgba(192,132,252,0.12)" stroke-width="1"/>
-      <rect x="370" y="95" width="140" height="85" rx="14" fill="url(#cc3)" opacity="0.5"/>
-      <text x="440" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#C084FC">&#9672;</text>
-      <text x="440" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Email</text>
-      <text x="440" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">contact@dalia.dev</text>
-    </a>
-    <!-- LinkedIn -->
-    <a href="#">
-      <rect x="530" y="95" width="140" height="85" rx="14" fill="#0D1117" stroke="rgba(139,92,246,0.12)" stroke-width="1"/>
-      <rect x="530" y="95" width="140" height="85" rx="14" fill="url(#cc4)" opacity="0.5"/>
-      <text x="600" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#8B5CF6">&#9673;</text>
-      <text x="600" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">LinkedIn</text>
-      <text x="600" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Coming soon</text>
-    </a>
-    <!-- Twitter -->
-    <a href="#">
-      <rect x="690" y="95" width="110" height="85" rx="14" fill="#0D1117" stroke="rgba(167,139,250,0.12)" stroke-width="1"/>
-      <rect x="690" y="95" width="110" height="85" rx="14" fill="url(#cc5)" opacity="0.5"/>
-      <text x="745" y="125" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="20" fill="#A78BFA">&#9674;</text>
-      <text x="745" y="148" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" fill="#FFFFFF">Twitter</text>
-      <text x="745" y="165" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="9" font-weight="400" fill="#94A3B8">Coming soon</text>
-    </a>
-  </svg>
-</p>
-
-<br><br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CUSTOM SVG SEPARATOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="140" height="3" viewBox="0 0 140 3" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="sep9" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-        <stop offset="20%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.8"/>
-        <stop offset="80%" stop-color="#8B5CF6" stop-opacity="0.4"/>
-        <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-    <rect width="140" height="1.5" fill="url(#sep9)" rx="0.75"/>
-  </svg>
-</p>
-
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;">
-    <defs>
-      <linearGradient id="fGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.1"/>
-        <stop offset="50%" stop-color="#C084FC" stop-opacity="0.2"/>
-        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.1"/>
-      </linearGradient>
-    </defs>
-    <rect x="50" y="10" width="300" height="60" rx="16" fill="#161B22" stroke="url(#fGrad)" stroke-width="1" opacity="0.4"/>
-    <text x="200" y="38" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" letter-spacing="0.06em" fill="#94A3B8">Crafted by <tspan fill="#A78BFA" font-weight="500">Dalia</tspan> with passion for</text>
-    <text x="200" y="56" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" letter-spacing="0.06em" fill="#94A3B8">beautiful software.</text>
-  </svg>
-</p>
-
-<p align="center">
-  <span style="color:#64748B; font-size:10px; letter-spacing:0.1em;">
-    <span style="color:#8B5CF6;">&#169;</span> 2026 DALIA  &middot;  ALL RIGHTS RESERVED
-  </span>
-</p>
-
-<br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFILE VISIT COUNTER                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daliadevstudio&amp;color=8B5CF6&amp;style=flat-square&amp;label=Profile+Views" alt="Profile Views" />
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      END OF README                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
 
 </div>
+
+<br />
+
+<!-- ────────────────────────────────────────────────────────────────────
+     SIGNATURE STATUS LINE
+     Cycles through what's actually shipping right now instead of
+     generic buzzwords — swap the `lines=` values any time your focus
+     changes.
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1200&color=C084FC&center=true&vCenter=true&width=650&height=42&lines=Building+DentaFlow+Pro;Shipping+DevisFlash;Automating+with+n8n;Always+Learning" alt="status" />
+
+</div>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     ABOUT
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; ABOUT &nbsp; ◆</sub>
+<h2>Who I Am</h2>
+</div>
+
+<br />
+
+I'm a freelance software developer based in Algeria, building for the French and European markets. My work sits at the intersection of full-stack engineering, AI integration and interface design — I care as much about how a product feels as how it performs.
+
+<br />
+
+**What I bring to a project**
+
+- End-to-end delivery: from database architecture to the pixel-level interface
+- AI-first thinking — automation and intelligence built into the product, not bolted on
+- A creative background (Figma, Blender, Canva) that shapes cleaner, more considered UI
+- Fluency across code and no-code — Bubble.io for speed, a full custom stack when it's needed
+- Comfortable working directly with French-speaking clients, end to end
+
+<br />
+
+```js
+const developer = {
+    name: "Dalia",
+    username: "daliadevstudio",
+    role: "Software Developer",
+    based: "Algeria",
+    marketFocus: ["France", "Europe"],
+    languages: ["Arabic", "French", "English"],
+    experience: "5+ years",
+    projectsDelivered: "40+",
+    focus: [
+        "Artificial Intelligence",
+        "Full-Stack Development",
+        "Creative UI",
+        "Automation",
+        "SaaS"
+    ],
+    currentlyLearning: [
+        "Google IT Support Certificate",
+        "IBM SkillsBuild"
+    ]
+};
+```
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     TECH STACK
+     Grouped icon rows via skillicons.dev (dev stack) and shields.io
+     (creative tools not covered by skillicons.dev's icon set).
+     Skillicons docs: https://skillicons.dev
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; STACK &nbsp; ◆</sub>
+<h2>Tech Stack</h2>
+</div>
+
+<div align="center">
+
+<br />
+<sub><b>FRONTEND</b></sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="frontend stack" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+
+<br /><br />
+
+<sub><b>BACKEND</b></sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php&theme=dark" alt="backend stack" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+
+<br /><br />
+
+<sub><b>DATABASES</b></sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,firebase,mongodb&theme=dark" alt="database stack" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Prisma-161B22?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+<br /><br />
+
+<sub><b>LANGUAGES</b></sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,bash&theme=dark" alt="languages" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+
+<br /><br />
+
+<sub><b>TOOLS</b></sub>
+<br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,notion&theme=dark" alt="tools" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=A78BFA" alt="Figma" />
+<img src="https://img.shields.io/badge/Notion-161B22?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
+
+<br /><br />
+
+<sub><b>DESIGN &amp; CREATIVE</b></sub>
+<br /><br />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+
+<br />
+
+</div>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     CURRENTLY BUILDING
+     Real, current work — no placeholders, no invented products.
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; NOW &nbsp; ◆</sub>
+<h2>Currently Building</h2>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🦷 DentaFlow Pro</h3>
+<img src="https://img.shields.io/badge/Status-Active%20Development-8B5CF6?style=flat-square" alt="status" /><br /><br />
+Multi-tenant dental clinic management SaaS. Fully designed interface and complete database architecture, built on Bubble.io — backed by a production-grade technical spec (Python/Django, PostgreSQL with row-level security, HDS-compliant hosting path) for a future scale-up.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⚡ DevisFlash</h3>
+<img src="https://img.shields.io/badge/Status-Early%20Development-8B5CF6?style=flat-square" alt="status" /><br /><br />
+Micro-SaaS for AI-powered quote and invoice generation, built for French freelancers and auto-entrepreneurs. Scoped around France's upcoming mandatory e-invoicing reform, and reuses the DentaFlow Pro tech foundation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔁 AI Automation Agency</h3>
+<img src="https://img.shields.io/badge/Status-Building%20Service%20Offering-8B5CF6?style=flat-square" alt="status" /><br /><br />
+n8n-based automation studio for the French market. Six-phase delivery roadmap, defined service packages, and a fully self-hosted workflow environment.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎨 Developer Portfolio</h3>
+<img src="https://img.shields.io/badge/Status-Live-8B5CF6?style=flat-square" alt="status" /><br /><br />
+This studio's home base — case studies, project write-ups and a live showcase of shipped work.
+<br /><br />
+<a href="https://studio-dal-craft.lovable.app"><img src="https://img.shields.io/badge/Visit%20Portfolio-161B22?style=flat-square&logo=googlechrome&logoColor=8B5CF6" alt="visit portfolio" /></a>
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     FEATURED PROJECTS
+     Cards, not tables — one block per project, tech badges, honest
+     status. Cover images generated on-brand via placehold.co since no
+     product screenshots exist yet; swap the src for real screenshots
+     whenever you have them.
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; WORK &nbsp; ◆</sub>
+<h2>Featured Projects</h2>
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://placehold.co/900x260/161B22/8B5CF6?text=DentaFlow+Pro&font=montserrat" width="100%" alt="DentaFlow Pro cover" />
+</div>
+
+### DentaFlow Pro
+
+Multi-tenant SaaS for dental clinic management — patient records, scheduling and an interactive odontogram, designed to be sold directly to clinics. The interface and database architecture are fully built on Bubble.io; a production-grade specification (Python/Django, PostgreSQL with RLS, HDS-compliant hosting) defines the path to a scaled, health-data-compliant version. An earlier single-file HTML prototype validated the concept with a working 32-tooth interactive odontogram.
+
+**Highlights**
+
+- Fully designed multi-tenant interface, built and iterated on Bubble.io
+- Complete database architecture supporting multiple clinics on one instance
+- Production-grade spec: Python/Django backend, PostgreSQL with row-level security
+- Path to HDS-compliant hosting for handling sensitive health data
+- Validated early with a working, single-file interactive 32-tooth odontogram prototype
+
+<img src="https://img.shields.io/badge/Bubble.io-0055FF?style=flat-square&logo=bubble&logoColor=white" alt="Bubble" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/GitHub%20Profile-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
+<img src="https://img.shields.io/badge/Status-In%20Development-8B5CF6?style=for-the-badge" alt="status" />
+
+<br />
+<br />
+
+<div align="center">
+<img src="https://placehold.co/900x260/161B22/A78BFA?text=DevisFlash&font=montserrat" width="100%" alt="DevisFlash cover" />
+</div>
+
+### DevisFlash
+
+An AI-powered micro-SaaS that generates quotes and invoices for French freelancers and auto-entrepreneurs, timed around France's move to mandatory e-invoicing. Built as a complementary product that reuses the DentaFlow Pro stack, so both products share one technical foundation.
+
+**Highlights**
+
+- AI-assisted document generation for quotes and invoices
+- Scoped directly around France's mandatory e-invoicing reform timeline
+- Positioned for French freelancers and auto-entrepreneurs specifically
+- Shares its technical foundation with DentaFlow Pro, speeding up delivery
+
+<img src="https://img.shields.io/badge/Bubble.io-0055FF?style=flat-square&logo=bubble&logoColor=white" alt="Bubble" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/AI--Powered-C084FC?style=flat-square" alt="AI-Powered" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/GitHub%20Profile-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
+<img src="https://img.shields.io/badge/Status-Early%20Development-8B5CF6?style=for-the-badge" alt="status" />
+
+<br />
+<br />
+
+<div align="center">
+<img src="https://placehold.co/900x260/161B22/8B5CF6?text=AI+Automation+Agency&font=montserrat" width="100%" alt="AI Automation Agency cover" />
+</div>
+
+### AI Automation Agency
+
+An n8n-based automation studio built for French-market clients — a defined six-phase delivery roadmap, packaged service tiers, and a fully self-hosted workflow environment for building and running client automations.
+
+**Highlights**
+
+- Six-phase delivery roadmap, from discovery to hand-off
+- Defined, packaged service tiers instead of ad-hoc quoting
+- Fully self-hosted n8n environment for full control over client data
+- Built specifically for the French market
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Automation-A78BFA?style=flat-square" alt="Automation" />
+<img src="https://img.shields.io/badge/Self--Hosted-161B22?style=flat-square&color=161B22" alt="Self-Hosted" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/GitHub%20Profile-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
+<img src="https://img.shields.io/badge/Status-Building%20Service%20Offering-8B5CF6?style=for-the-badge" alt="status" />
+
+<br />
+<br />
+
+<div align="center">
+<img src="https://placehold.co/900x260/161B22/C084FC?text=Multilingual+Salon+Sites&font=montserrat" width="100%" alt="Salon websites cover" />
+</div>
+
+### Multilingual Salon Websites
+
+Standalone client websites built in plain HTML, CSS and JavaScript, fully localised across Italian, French and English — delivered end-to-end from design to deployment.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<br /><br />
+
+<div align="center">
+<img src="https://img.shields.io/badge/GitHub%20Profile-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" />
+<img src="https://img.shields.io/badge/Status-Delivered-8B5CF6?style=for-the-badge" alt="status" />
+</div>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     GITHUB STATS
+     Stacked (not tabled) so nothing inherits GitHub's default table
+     border/stripe styling. All three widgets are external services —
+     no setup required.
+     Docs: https://github.com/anuraghazra/github-readme-stats
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; ACTIVITY &nbsp; ◆</sub>
+<h2>GitHub Stats</h2>
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=94A3B8&icon_color=A78BFA" alt="GitHub stats" height="165" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=94A3B8" alt="Top languages" height="165" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com/?user=daliadevstudio&theme=transparent&hide_border=true&background=00000000&ring=8B5CF6&fire=C084FC&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daliadevstudio&theme=react-dark&hide_border=true&bg_color=00000000&color=8B5CF6&line=A78BFA&point=C084FC" alt="Activity graph" width="100%" />
+
+</div>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     CONTRIBUTION SNAKE
+     This image is generated by a GitHub Action, not by GitHub itself —
+     it will only appear once the workflow below runs in this repo:
+     https://github.com/Platane/snk
+     .github/workflows/snake.yml:
+       on:
+         schedule: [{ cron: "0 0 * * *" }]
+         workflow_dispatch: {}
+       jobs:
+         generate:
+           runs-on: ubuntu-latest
+           steps:
+             - uses: Platane/snk@v3
+               with:
+                 github_user_name: daliadevstudio
+                 outputs: |
+                   dist/github-contribution-grid-snake.svg
+                   dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+             - uses: crazy-max/ghaction-github-pages@v4
+               with:
+                 target_branch: output
+                 build_dir: dist
+               env:
+                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; CONTRIBUTIONS &nbsp; ◆</sub>
+<h2>Contribution Snake</h2>
+
+<br />
+
+<img src="https://raw.githubusercontent.com/daliadevstudio/daliadevstudio/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+
+</div>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     TROPHIES
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; MILESTONES &nbsp; ◆</sub>
+<h2>GitHub Trophies</h2>
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=daliadevstudio&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub trophies" />
+
+</div>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     DEVELOPMENT PHILOSOPHY
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; PRINCIPLES &nbsp; ◆</sub>
+<h2>Development Philosophy</h2>
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Clean_Code-161B22?style=flat-square&color=161B22" alt="Clean Code" />
+<br /><br />
+Code that reads clearly today and is still easy to change in a year.
+
+</td>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Scalability-161B22?style=flat-square&color=161B22" alt="Scalability" />
+<br /><br />
+Architecture decisions made for the product's next stage, not just its first release.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Performance-161B22?style=flat-square&color=161B22" alt="Performance" />
+<br /><br />
+Fast by default — performance treated as a feature, not an afterthought.
+
+</td>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Accessibility-161B22?style=flat-square&color=161B22" alt="Accessibility" />
+<br /><br />
+Interfaces that work for every user, on every device, every time.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/AI--First-8B5CF6?style=flat-square" alt="AI-First" />
+<br /><br />
+Automation and intelligence designed into the product from day one.
+
+</td>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Problem_Solving-8B5CF6?style=flat-square" alt="Problem Solving" />
+<br /><br />
+Understanding the real problem before writing the first line of code.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/UI%2FUX-8B5CF6?style=flat-square" alt="UI/UX" />
+<br /><br />
+Design treated as part of engineering, not a layer applied at the end.
+
+</td>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Architecture-8B5CF6?style=flat-square" alt="Architecture" />
+<br /><br />
+Systems structured so complexity stays manageable as they grow.
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     BEYOND CODE
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; BEYOND CODE &nbsp; ◆</sub>
+<h2>Currently Exploring</h2>
+
+<br />
+
+<img src="https://img.shields.io/badge/Game%20Dev%20(Roblox%20%2F%20Luau)-161B22?style=flat-square&color=161B22" alt="Roblox / Luau" />
+<img src="https://img.shields.io/badge/3D%20Visualization-161B22?style=flat-square&color=161B22" alt="3D Visualization" />
+<img src="https://img.shields.io/badge/Google%20IT%20Support-161B22?style=flat-square&color=161B22" alt="Google IT Support" />
+<img src="https://img.shields.io/badge/IBM%20SkillsBuild-161B22?style=flat-square&color=161B22" alt="IBM SkillsBuild" />
+
+</div>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     WORKFLOW
+     This is a genuine ordered sequence, so — unlike the sections above —
+     numbering here actually encodes information.
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; PROCESS &nbsp; ◆</sub>
+<h2>Workflow</h2>
+
+<br />
+
+<table>
+<tr>
+<td align="center" width="16.6%">
+
+**01**
+<br />
+Discover
+<br />
+<sub>Understand the real problem</sub>
+
+</td>
+<td align="center" width="16.6%">
+
+**02**
+<br />
+Research
+<br />
+<sub>Map users, edge cases, constraints</sub>
+
+</td>
+<td align="center" width="16.6%">
+
+**03**
+<br />
+Design
+<br />
+<sub>Structure before pixels</sub>
+
+</td>
+<td align="center" width="16.6%">
+
+**04**
+<br />
+Develop
+<br />
+<sub>Build it clean, build it once</sub>
+
+</td>
+<td align="center" width="16.6%">
+
+**05**
+<br />
+Deploy
+<br />
+<sub>Ship, monitor, stabilize</sub>
+
+</td>
+<td align="center" width="16.6%">
+
+**06**
+<br />
+Iterate
+<br />
+<sub>Learn from real usage</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     CONTACT
+     Replace the "#" hrefs below with real profile URLs whenever those
+     accounts exist — they're left as placeholders exactly as requested.
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+<sub>◆ &nbsp; CONNECT &nbsp; ◆</sub>
+<h2>Let's Connect</h2>
+
+<br />
+
+<a href="https://github.com/daliadevstudio"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" /></a>
+<a href="https://studio-dal-craft.lovable.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6" alt="Portfolio" /></a>
+<a href="mailto:contact@dalia.dev"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email" /></a>
+
+<br /><br />
+
+<!-- TODO: replace "#" with your real LinkedIn URL -->
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn (placeholder)" /></a>
+<!-- TODO: replace "#" with your real X / Twitter URL -->
+<a href="#"><img src="https://img.shields.io/badge/X%20(Twitter)-161B22?style=flat-square&logo=x&logoColor=8B5CF6" alt="X / Twitter (placeholder)" /></a>
+
+</div>
+
+<br />
+
+<img src="https://placehold.co/1200x2/0D1117/8B5CF6?text=%20" width="100%" alt="" />
+
+<br />
+
+<!-- ════════════════════════════════════════════════════════════════════
+     FOOTER
+──────────────────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<sub>Crafted by Dalia — with passion for beautiful software.</sub>
+
+</div>
+
+<!--
+  ══════════════════════════════════════════════════════════════════════════
+  CUSTOMIZATION GUIDE  (not rendered — read this in the raw file on GitHub)
+  ──────────────────────────────────────────────────────────────────────────
+
+  1. CHANGING THE PALETTE
+     Every accent colour in this file is one of four hex codes, used with
+     no "#" prefix in URLs:
+       primary   8B5CF6
+       secondary A78BFA
+       accent    C084FC
+       card      161B22
+     Find-and-replace each hex string across the file to re-theme
+     everything — badges, dividers, typing text and stats widgets — at
+     once. Keep the palette to 3–4 colours; that restraint is most of
+     why this reads as premium rather than busy.
+
+  2. THE HERO NAME / ROLE-CYCLE / STATUS LINE
+     All three are https://readme-typing-svg.demolab.com/ requests.
+     Key parameters:
+       lines=   the text (separate multiple lines with ";", spaces as +)
+       font=    any Google Font name, e.g. Poppins, JetBrains+Mono
+       size=    px height of the text
+       color=   hex, no "#"
+       duration= ms to type one line · pause= ms to hold before erasing
+       repeat=false  →  types once and stops (used for the "DALIA" mark)
+     Full parameter reference:
+       https://github.com/ashutosh00710/github-readme-typing-svg
+
+  3. THE THIN DIVIDER BARS
+     Each one is a solid-colour image from https://placehold.co —
+     format: placehold.co/{width}x{height}/{bg}/{fg}. At 2px tall the
+     "text" is invisible, so it doubles as a clean on-brand rule line
+     GitHub's native <hr> can't be recoloured to match your palette.
+
+  4. TECH STACK ICONS
+     The icon grids use https://skillicons.dev — pass any supported
+     slug in the `i=` list, comma-separated. Full icon list:
+       https://skillicons.dev  (click "Icons list")
+     The individual badges beneath each grid are shields.io badges —
+     change `logo=` to any slug from https://simpleicons.org to swap
+     the icon shown.
+
+  5. PROJECT CARDS
+     Each project is one self-contained block: cover image → title →
+     description → highlights → tech badges → status/link badges.
+     Duplicate a whole block to add a new project; delete one to
+     remove it. Cover images are placehold.co placeholders sized
+     900×260 — replace the `src` with a real screenshot URL (hosted
+     in your repo, or via GitHub's own "drag an image into an issue"
+     trick to get a stable githubusercontent.com URL) whenever you
+     have one.
+
+  6. GITHUB STATS / STREAK / ACTIVITY GRAPH
+     All three read your public GitHub activity automatically — no
+     setup needed beyond the `username=` parameter already being
+     correct. If a widget ever shows an error image instead of your
+     stats, it's almost always that service's server being rate-limited
+     or temporarily down — reload the page or check the linked repo's
+     issues page for known outages.
+       Stats/top-langs: https://github.com/anuraghazra/github-readme-stats
+       Streak:          https://github.com/DenverCoder1/github-readme-streak-stats
+       Activity graph:  https://github.com/Ashutosh00710/github-readme-activity-graph
+
+  7. CONTRIBUTION SNAKE
+     This is the one widget that needs setup — it's generated by a
+     GitHub Action, not a live service. Add the workflow file shown in
+     the comment above the Snake section to THIS repository
+     (daliadevstudio/daliadevstudio), let it run once, and the image
+     will start rendering. Reference: https://github.com/Platane/snk
+
+  8. TROPHIES
+     https://github-profile-trophy.vercel.app supports several built-in
+     `theme=` presets (flat, onedark, gruvbox, dracula, monokai,
+     darkhub, algolia, among others) — swap the theme name to compare
+     without touching anything else.
+
+  9. LINKEDIN / X PLACEHOLDERS
+     Both contact badges point at "#" on purpose — replace with your
+     real profile URLs whenever those accounts exist, and delete the
+     TODO comment above each once it's done.
+
+  10. KEEPING IT HONEST
+     Every project, status badge and stat in this file reflects real,
+     current work. When a project's stage changes, update its status
+     badge text (e.g. "Early Development" → "Live") rather than
+     leaving stale claims in place — an accurate, modest README holds
+     up better than an impressive-looking stale one.
+  ══════════════════════════════════════════════════════════════════════════
+-->
