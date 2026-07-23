@@ -8,6 +8,7 @@
 <!--  donc le texte en couleur/gradient ne peut PAS être fait en CSS inline  -->
 <!--  — il faut que la couleur vienne d'une image. C'est pour ça que ce      -->
 <!--  wordmark est une image et pas un <span style="..."> comme avant.       -->
+
 <img src="https://raw.githubusercontent.com/daliadevstudio/daliadevstudio/main/assets/dalia-wordmark.svg" width="480" alt="Dalia" />
 
 <br>
