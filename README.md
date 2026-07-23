@@ -13,11 +13,6 @@
 
 <br>
 
-<p align="center">
-  Building elegant web applications,<br>
-  AI-powered products<br>
-  and premium digital experiences.
-</p>
 
 <br>
 
@@ -33,13 +28,6 @@
 ![Remote](https://img.shields.io/badge/💜_Remote_Worldwide-B9A5E3?style=for-the-badge&logoColor=3B0764)
 
 <br><br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    CONTACT                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<a href="mailto:dalia.dev.studio@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
 
 </div>
 
@@ -485,21 +473,23 @@ Real AI features **embedded thoughtfully** — not sprinkled on top.
 <tr>
 <td align="center" width="33%">
 
-###**Arabic**
+**Arabic**
 Native
 
 </td>
 <td align="center" width="33%">
 
-###**French**
+**French**
 Fluent
 
 </td>
 <td align="center" width="33%">
 
-###**English**
+**English**
 Fluent
 
+</td>
+<td align="center" width="33%">
 </td>
 </tr>
 </table>
