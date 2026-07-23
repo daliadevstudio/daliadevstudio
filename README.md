@@ -456,9 +456,9 @@ Real AI features **embedded thoughtfully** — not sprinkled on top.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    LANGUAGES                                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  LANGUAGES                                                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/HQTYGpfIk9Vq6G5TjG/giphy.gif" width="30"> Languages
@@ -473,26 +473,25 @@ Real AI features **embedded thoughtfully** — not sprinkled on top.
 <tr>
 <td align="center" width="33%">
 
-**Arabic**
+### **Arabic**
 Native
 
 </td>
 <td align="center" width="33%">
 
-**French**
+### **French**
 Fluent
 
 </td>
 <td align="center" width="33%">
 
-**English**
+### **English**
 Fluent
 
-</td>
-<td align="center" width="33%">
 </td>
 </tr>
 </table>
+
 
 </div>
 
@@ -588,6 +587,18 @@ Fluent
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&bg_color=FAF5FF&title_color=7C3AED&quote_color=581C87&author_color=A855F7" width="80%" />
+
+</div>
+
+---
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    CONTRIBUTION SNAKE                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
