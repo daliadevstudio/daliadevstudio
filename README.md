@@ -36,12 +36,10 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
----
-
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    ABOUT ME SECTION                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<div>
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
