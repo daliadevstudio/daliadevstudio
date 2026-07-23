@@ -553,8 +553,6 @@ Fluent
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/CwQ3byHM4jLjy/giphy.gif" width="30"> GitHub Analytics
-
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&show_icons=true&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&icon_color=A855F7&text_color=581C87&border_radius=16&custom_title=Dalia's%20GitHub%20Stats" width="48%" />
@@ -614,12 +612,7 @@ Fluent
 > *Have a project in mind or just want to say hi? I read every message.*
 
 <br>
-
-<a href="mailto:dalia.dev.studio@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FAF5FF&logoWidth=20" />
-</a>
-
-<br><br>
+<br>
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=daliadevstudio&color=A855F7&style=for-the-badge&label=Profile+Views" />
