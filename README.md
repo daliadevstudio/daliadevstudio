@@ -540,9 +540,6 @@ Fluent
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/📖_Read_All_Blog_Posts-A855F7?style=for-the-badge&labelColor=FAF5FF" />
-</a>
 
 </div>
 
@@ -553,10 +550,6 @@ Fluent
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=daliadevstudio&show_icons=true&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&icon_color=A855F7&text_color=581C87&border_radius=16&custom_title=Dalia's%20GitHub%20Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daliadevstudio&layout=compact&theme=radical&hide_border=true&bg_color=FAF5FF&title_color=7C3AED&text_color=581C87&border_radius=16&custom_title=Most%20Used%20Languages" width="48%" />
 
 <br><br>
 
