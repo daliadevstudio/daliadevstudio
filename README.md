@@ -41,7 +41,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    ABOUT ME SECTION                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<div align="center">
+<div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
