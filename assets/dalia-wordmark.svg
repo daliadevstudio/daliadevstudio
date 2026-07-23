@@ -1,1 +1,25 @@
-dalia-wordmark.svg
+<svg viewBox="0 0 600 190" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="daliaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+ 
+  <text x="300" y="40" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="14" font-weight="400" letter-spacing="3"
+        fill="#94A3B8">hey,</text>
+ 
+  <text x="300" y="115" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="72" font-weight="700" letter-spacing="-1"
+        fill="url(#daliaGradient)">DALIA</text>
+ 
+  <text x="300" y="155" text-anchor="middle"
+        font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="15" font-weight="400" letter-spacing="1.5"
+        fill="#94A3B8">Software Developer · AI Integration · Full-Stack Developer</text>
+</svg>
+ 
