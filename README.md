@@ -3,6 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED HEADER BANNER                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F3E8FF,50:E9D5FF,100:D8B4FE&height=280&section=header&text=Dalia&fontSize=90&fontColor=6B21A8&fontAlignY=30&desc=Software%20Developer%20%26%20AI%20Integration&descAlignY=58&descSize=22&animation=twinkling&font=Fira%20Code" width="100%" />
 
 <br><br>
 
