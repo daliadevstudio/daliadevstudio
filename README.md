@@ -1,20 +1,21 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HEADER BANNER                               -->
+<!--                    HERO / WORDMARK                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<h3 align="center" style="color:#94A3B8; font-weight:400; letter-spacing:0.15em; font-size:14px; margin-bottom:8px;">
-  hey,
-</h3>
+<!--  Le gradient "DALIA" est une vraie image SVG (voir dalia-wordmark.svg). -->
+<!--  GitHub retire les attributs style="" des balises HTML dans les README, -->
+<!--  donc le texte en couleur/gradient ne peut PAS être fait en CSS inline  -->
+<!--  — il faut que la couleur vienne d'une image. C'est pour ça que ce      -->
+<!--  wordmark est une image et pas un <span style="..."> comme avant.       -->
+<img src="https://raw.githubusercontent.com/daliadevstudio/daliadevstudio/main/assets/dalia-wordmark.svg" width="480" alt="Dalia" />
 
-<h1 align="center">
-  <span style="background: linear-gradient(135deg, #8B5CF6 0%, #A78BFA 50%, #C084FC 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 700; letter-spacing: -0.02em;">
-    DALIA
-  </span>
-</h1>
+<br>
 
-<p align="center" style="color:#94A3B8; font-size:16px; font-weight:400; letter-spacing:0.08em; margin-top:4px;">
-  Software Developer &nbsp;·&nbsp; AI Integration &nbsp;·&nbsp; Full-Stack Developer
+<p align="center">
+  Building elegant web applications,<br>
+  AI-powered products<br>
+  and premium digital experiences.
 </p>
 
 <br>
@@ -23,22 +24,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+SaaS;Creating+AI+Products;Crafting+Beautiful+Interfaces;Always+Learning;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
-<br>
-
-<p align="center" style="color:#94A3B8; font-size:15px; line-height:1.8; max-width:520px;">
-  Building elegant web applications,<br>
-  AI-powered products<br>
-  and premium digital experiences.
-</p>
-
 <br><br>
 
 ![Available](https://img.shields.io/badge/🌍_Available_for_Freelance-D8B4FE?style=for-the-badge&logoColor=3B0764)
 ![AI First](https://img.shields.io/badge/🤖_AI--First_Development-C4B5FD?style=for-the-badge&logoColor=3B0764)
 ![Detail](https://img.shields.io/badge/🎯_Pixel--Perfect_Detail-DDD6FE?style=for-the-badge&logoColor=3B0764)
 ![Remote](https://img.shields.io/badge/💜_Remote_Worldwide-B9A5E3?style=for-the-badge&logoColor=3B0764)
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:F3E8FF,50:E9D5FF,100:D8B4FE&height=280&section=header&text=Dalia&fontSize=90&fontColor=6B21A8&fontAlignY=30&desc=Software%20Developer%20%26%20AI%20Integration&descAlignY=58&descSize=22&animation=twinkling&font=Fira%20Code" width="100%" />
 
 <br><br>
 
@@ -357,94 +348,37 @@ Written for the next engineer.
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        WORKFLOW                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<h2 align="center" style="color:#FFFFFF; font-weight:600; letter-spacing:-0.01em; font-size:28px; margin-bottom:8px;">
-  Workflow
-</h2>
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6koX/giphy.gif" width="30"> Workflow
 
-<p align="center" style="color:#94A3B8; font-size:14px; margin-bottom:40px;">
-  How I bring ideas to life
-</p>
+> *How I bring ideas to life.*
 
 <br>
 
-<div align="center">
-
 <table>
-  <tr>
-    <td width="140" valign="top">
-      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
-        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">🔍</p>
-        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Discover</h4>
-        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Identify the problem and define clear objectives</p>
-      </div>
-    </td>
-    <td width="24" align="center" valign="middle">
-      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
-      </svg>
-    </td>
-    <td width="140" valign="top">
-      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
-        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">📚</p>
-        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Research</h4>
-        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Explore solutions, tools, and best practices</p>
-      </div>
-    </td>
-    <td width="24" align="center" valign="middle">
-      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
-      </svg>
-    </td>
-    <td width="140" valign="top">
-      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
-        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">✏️</p>
-        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Design</h4>
-        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Create wireframes, prototypes, and visual systems</p>
-      </div>
-    </td>
-    <td width="24" align="center" valign="middle">
-      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
-      </svg>
-    </td>
-    <td width="140" valign="top">
-      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
-        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">💻</p>
-        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Develop</h4>
-        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Write clean, tested, and efficient code</p>
-      </div>
-    </td>
-    <td width="24" align="center" valign="middle">
-      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
-      </svg>
-    </td>
-    <td width="140" valign="top">
-      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
-        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">🚀</p>
-        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Deploy</h4>
-        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Ship to production with CI/CD pipelines</p>
-      </div>
-    </td>
-    <td width="24" align="center" valign="middle">
-      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
-        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
-      </svg>
-    </td>
-    <td width="140" valign="top">
-      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
-        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">🔄</p>
-        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Iterate</h4>
-        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Gather feedback and continuously improve</p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/🔍_Discover-EDE9FE?style=for-the-badge&logoColor=3B0764"/></td>
+<td align="center"><img src="https://img.shields.io/badge/📚_Research-DDD6FE?style=for-the-badge&logoColor=3B0764"/></td>
+<td align="center"><img src="https://img.shields.io/badge/✏️_Design-C4B5FD?style=for-the-badge&logoColor=3B0764"/></td>
+<td align="center"><img src="https://img.shields.io/badge/💻_Develop-A78BFA?style=for-the-badge&logoColor=FFFFFF"/></td>
+<td align="center"><img src="https://img.shields.io/badge/🚀_Deploy-8B5CF6?style=for-the-badge&logoColor=FFFFFF"/></td>
+<td align="center"><img src="https://img.shields.io/badge/🔄_Iterate-7C3AED?style=for-the-badge&logoColor=FFFFFF"/></td>
+</tr>
+<tr>
+<td align="center"><sub>Identify the problem<br>and define objectives</sub></td>
+<td align="center"><sub>Explore solutions,<br>tools & best practices</sub></td>
+<td align="center"><sub>Wireframes, prototypes<br>& visual systems</sub></td>
+<td align="center"><sub>Write clean, tested<br>and efficient code</sub></td>
+<td align="center"><sub>Ship to production<br>with CI/CD pipelines</sub></td>
+<td align="center"><sub>Gather feedback,<br>continuously improve</sub></td>
+</tr>
 </table>
 
 </div>
 
-<br><br>
+---
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    WHY WORK WITH ME                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -642,6 +576,7 @@ Fluent
 
 <br><br>
 
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    CONTRIBUTION SNAKE                                   -->
@@ -686,8 +621,6 @@ Fluent
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=daliadevstudio&color=A855F7&style=for-the-badge&label=Profile+Views" />
-
-<br><br>
 
 <br><br>
 
