@@ -539,11 +539,14 @@ Fluent
 </table>
 
 <br>
-
+<a href="#">
+  <img src="https://img.shields.io/badge/📖_Read_All_Blog_Posts-A855F7?style=for-the-badge&labelColor=FAF5FF" />
+</a>
 
 </div>
 
 ---
+
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    GITHUB STATS                                         -->
