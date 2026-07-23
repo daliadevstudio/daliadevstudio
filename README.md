@@ -3,6 +3,41 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED HEADER BANNER                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<h3 align="center" style="color:#94A3B8; font-weight:400; letter-spacing:0.15em; font-size:14px; margin-bottom:8px;">
+  hey,
+</h3>
+
+<h1 align="center">
+  <span style="background: linear-gradient(135deg, #8B5CF6 0%, #A78BFA 50%, #C084FC 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 700; letter-spacing: -0.02em;">
+    DALIA
+  </span>
+</h1>
+
+<p align="center" style="color:#94A3B8; font-size:16px; font-weight:400; letter-spacing:0.08em; margin-top:4px;">
+  Software Developer &nbsp;·&nbsp; AI Integration &nbsp;·&nbsp; Full-Stack Developer
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+SaaS;Creating+AI+Products;Crafting+Beautiful+Interfaces;Always+Learning;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
+
+<br>
+
+<p align="center" style="color:#94A3B8; font-size:15px; line-height:1.8; max-width:520px;">
+  Building elegant web applications,<br>
+  AI-powered products<br>
+  and premium digital experiences.
+</p>
+
+<br><br>
+
+![Available](https://img.shields.io/badge/🌍_Available_for_Freelance-D8B4FE?style=for-the-badge&logoColor=3B0764)
+![AI First](https://img.shields.io/badge/🤖_AI--First_Development-C4B5FD?style=for-the-badge&logoColor=3B0764)
+![Detail](https://img.shields.io/badge/🎯_Pixel--Perfect_Detail-DDD6FE?style=for-the-badge&logoColor=3B0764)
+![Remote](https://img.shields.io/badge/💜_Remote_Worldwide-B9A5E3?style=for-the-badge&logoColor=3B0764)
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:F3E8FF,50:E9D5FF,100:D8B4FE&height=280&section=header&text=Dalia&fontSize=90&fontColor=6B21A8&fontAlignY=30&desc=Software%20Developer%20%26%20AI%20Integration&descAlignY=58&descSize=22&animation=twinkling&font=Fira%20Code" width="100%" />
 
 <br><br>
@@ -319,41 +354,97 @@ Written for the next engineer.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    WORKFLOW SECTION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        WORKFLOW                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center" style="color:#FFFFFF; font-weight:600; letter-spacing:-0.01em; font-size:28px; margin-bottom:8px;">
+  Workflow
+</h2>
+
+<p align="center" style="color:#94A3B8; font-size:14px; margin-bottom:40px;">
+  How I bring ideas to life
+</p>
+
+<br>
+
 <div align="center">
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6koX/giphy.gif" width="30"> Development Workflow
-
-> *A calm, deliberate process — from discovery to deployment and beyond.*
+<table>
+  <tr>
+    <td width="140" valign="top">
+      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
+        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">🔍</p>
+        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Discover</h4>
+        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Identify the problem and define clear objectives</p>
+      </div>
+    </td>
+    <td width="24" align="center" valign="middle">
+      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
+        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
+      </svg>
+    </td>
+    <td width="140" valign="top">
+      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
+        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">📚</p>
+        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Research</h4>
+        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Explore solutions, tools, and best practices</p>
+      </div>
+    </td>
+    <td width="24" align="center" valign="middle">
+      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
+        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
+      </svg>
+    </td>
+    <td width="140" valign="top">
+      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
+        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">✏️</p>
+        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Design</h4>
+        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Create wireframes, prototypes, and visual systems</p>
+      </div>
+    </td>
+    <td width="24" align="center" valign="middle">
+      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
+        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
+      </svg>
+    </td>
+    <td width="140" valign="top">
+      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
+        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">💻</p>
+        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Develop</h4>
+        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Write clean, tested, and efficient code</p>
+      </div>
+    </td>
+    <td width="24" align="center" valign="middle">
+      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
+        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
+      </svg>
+    </td>
+    <td width="140" valign="top">
+      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
+        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">🚀</p>
+        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Deploy</h4>
+        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Ship to production with CI/CD pipelines</p>
+      </div>
+    </td>
+    <td width="24" align="center" valign="middle">
+      <svg width="20" height="2" viewBox="0 0 20 2" xmlns="http://www.w3.org/2000/svg">
+        <rect width="20" height="2" fill="#8B5CF6" rx="1" opacity="0.5"/>
+      </svg>
+    </td>
+    <td width="140" valign="top">
+      <div style="background: rgba(22,27,34,0.6); border: 1px solid rgba(139,92,246,0.3); border-radius: 16px; padding: 20px; text-align:center; backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);">
+        <p style="color:#8B5CF6; font-size:24px; margin:0 0 8px 0;">🔄</p>
+        <h4 style="color:#FFFFFF; font-weight:600; margin:0 0 4px 0; font-size:14px;">Iterate</h4>
+        <p style="color:#94A3B8; font-size:11px; line-height:1.5; margin:0;">Gather feedback and continuously improve</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                     │
-│   🔍  Discovery          📋  Planning           🎨  Design           💻  Development │
-│   ┌─────────────┐       ┌─────────────┐       ┌─────────────┐    ┌──────────────┐ │
-│   │  Deep-dive  │  ──▶  │  Scope,     │  ──▶  │  Flows,     │──▶ │  Clean code  │ │
-│   │  goals,     │       │  arch,      │       │  prototype, │    │  shipped in  │ │
-│   │  users,     │       │  timeline   │       │  interactions│    │  iterations  │ │
-│   │  constraints│       │             │       │             │    │              │ │
-│   └─────────────┘       └─────────────┘       └─────────────┘    └──────┬───────┘ │
-│                                                                         │         │
-│   🔧  Maintenance  ◀──  🚀  Deployment  ◀──  🧪  Testing  ◀──────────────┘         │
-│   ┌─────────────┐       ┌─────────────┐       ┌─────────────┐                     │
-│   │  Ongoing    │  ◀──  │  Zero-      │  ◀──  │  QA,        │                     │
-│   │  support,   │       │  downtime   │       │  performance,│                     │
-│   │  iteration  │       │  release    │       │  a11y,       │                     │
-│   │             │       │             │       │  cross-device│                     │
-│   └─────────────┘       └─────────────┘       └─────────────┘                     │
-│                                                                                     │
-└─────────────────────────────────────────────────────────────────────────────────────┘
-```
-
----
-
+<br><br>
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    WHY WORK WITH ME                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -428,14 +519,14 @@ Real AI features **embedded thoughtfully** — not sprinkled on top.
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                  │
-│   🧠 Creative Problem Solving        💬 Strong Communication        🤝 Teamwork   │
-│   📚 Fast Learner                     🎯 Attention to Detail       ⚡ Performance│
-│   🎨 UI/UX Mindset                    📋 Project Management         🧹 Clean Code │
-│   🔄 Continuous Learning              🌊 Adaptability                 📅 7 Days/Week│
-│                                                                                  │
-└──────────────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                           │
+│   🧠 Creative Problem Solving         💬 Strong Communication      🤝 Teamwork          │
+│   📚 Fast Learner                     🎯 Attention to Detail       ⚡ Performance       │
+│   🎨 UI/UX Mindset                    📋 Project Management         🧹 Clean Code       │
+│   🔄 Continuous Learning              🌊 Adaptability                 📅 7 Days/Week    │
+│                                                                                           │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -551,21 +642,15 @@ Fluent
 
 <br><br>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=daliadevstudio&theme=react&bg_color=FAF5FF&color=7C3AED&line=A855F7&point=6B21A8&hide_border=true&radius=16" width="95%" />
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    CONTRIBUTION SNAKE                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Contribution Graph
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=daliadevstudio&theme=react-dark&bg_color=140B24&color=D8B4FE&line=C4B5FD&point=F3E8FF&hide_border=true&radius=16" width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -603,9 +688,6 @@ Fluent
 <img src="https://komarev.com/ghpvc/?username=daliadevstudio&color=A855F7&style=for-the-badge&label=Profile+Views" />
 
 <br><br>
-
-<!-- Spotify Now Playing -->
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing?width=400&border=true&background=FAF5FF" />
 
 <br><br>
 
