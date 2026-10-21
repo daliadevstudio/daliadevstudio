@@ -48,14 +48,14 @@
 ```
 ╔════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                ║
-║   👋  Hi, I'm Dalia. A 23-year-old software developer       ║
+║     Hi, I'm Dalia. A 23-year-old software developer       ║
 ║       specializing in premium digital products that merge creativity           ║
 ║       with rock-solid performance.                                             ║
 ║                                                                                ║
-║   💡  I architect scalable web applications with elegant UX, clean code,     ║
+║     I architect scalable web applications with elegant UX, clean code,     ║
 ║       and AI-assisted workflows that push the boundaries of modern dev.        ║
 ║                                                                                ║
-║   🌍  Freelance-ready · Remote-first · Worldwide · Detail-obsessed           ║
+║     Freelance-ready · Remote-first · Worldwide · Detail-obsessed           ║
 ║                                                                                ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
 ```
